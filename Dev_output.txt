@@ -1,0 +1,1209 @@
+Triple: ['__subject__ Aarhus __predicate__ leader __object__ Jacob Bundsgaard']
+Text: ['The leader of Aarhus is Jacob Bundsgaard.']
+
+Triple: ['__subject__ Aarhus Airport __predicate__ runwayLength __object__ 2702.0']
+Text: ["Aarhus Airport's runway length is 2702.0."]
+
+Triple: ['__subject__ Adirondack Regional Airport __predicate__ elevationAboveTheSeaLevel __object__ 507']
+Text: ['Adirondack Regional Airport is 507 metres above sea level.']
+
+Triple: ['__subject__ Adirondack Regional Airport __predicate__ location __object__ Harrietstown, New York']
+Text: ['Adirondack Regional airport is located at Harrietstown, New York.']
+
+Triple: ['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ San Sebastián de los Reyes']
+Text: ['Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.']
+
+Triple: ['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayName __object__ 14L/32R']
+Text: ['Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.']
+
+Triple: ['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayName __object__ 14R/32L']
+Text: ['14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.']
+
+Triple: ['__subject__ Afonso Pena International Airport __predicate__ operatingOrganisation __object__ Infraero']
+Text: ['The operating organization for Afonso Pena International Airport is Infraero.']
+
+Triple: ['__subject__ Agra Airport __predicate__ location __object__ Agra']
+Text: ['Agra Airport is in Agra.']
+
+Triple: ['__subject__ Al-Taqaddum Air Base __predicate__ elevationAboveTheSeaLevel __object__ 84.0']
+Text: ['Al-Taqaddum Air Base is 84 metres above sea level.']
+
+Triple: ['__subject__ Alderney Airport __predicate__ cityServed __object__ Alderney']
+Text: ['The Alderney Airport serves Alderney.']
+
+Triple: ['__subject__ Allama Iqbal International Airport __predicate__ runwayName __object__ 18R/36L']
+Text: ['18R/36L is the runway name at Allama Iqbal International airport.']
+
+Triple: ['__subject__ Alpena County Regional Airport __predicate__ runwayLength __object__ 1533.0']
+Text: ['The runway length of Alpena County Regional Airport is 1,533.']
+
+Triple: ['__subject__ Alpena County Regional Airport __predicate__ runwayName __object__ 1/19']
+Text: ['Alpena County Regional Airport runway name is 1/19.']
+
+Triple: ['__subject__ Amsterdam Airport Schiphol __predicate__ cityServed __object__ Amsterdam']
+Text: ['Amsterdam Airport Schiphol serves the city of Amsterdam.']
+
+Triple: ['__subject__ Andrews County, Texas __predicate__ countySeat __object__ Andrews, Texas']
+Text: ['Andrews County, Texas is country seat to Andrews, Texas.']
+
+Triple: ['__subject__ Andrews County Airport __predicate__ cityServed __object__ Andrews, Texas']
+Text: ['Andrews, Texas is served by Andrews County Airport.']
+
+Triple: ['__subject__ Andrews County Airport __predicate__ runwayName __object__ 11/29']
+Text: ['Andrews County Airport runway name is 11/29.']
+
+Triple: ['__subject__ Andrews County Airport __predicate__ runwayName __object__ Helipad']
+Text: ['The name of the runway at Andrews County Airport is Helipad.']
+
+Triple: ['__subject__ Angola International Airport __predicate__ cityServed __object__ Luanda']
+Text: ['Angola International Airport city served is Luanda.']
+
+Triple: ['__subject__ Ardmore Airport (New Zealand) __predicate__ location __object__ Auckland']
+Text: ['The Ardmore Airport, New Zealand is in Auckland.']
+
+Triple: ['__subject__ Athens __predicate__ mayor __object__ Giorgos Kaminis']
+Text: ['Athens mayor is Giorgos Kaminis.']
+
+Triple: ['__subject__ Athens International Airport __predicate__ location __object__ Spata']
+Text: ['Athens International Airport is in Spata.']
+
+Triple: ['__subject__ Belgium __predicate__ language __object__ German language']
+Text: ['Belgium language is German language.']
+
+Triple: ['__subject__ Belgium __predicate__ leader __object__ Philippe of Belgium']
+Text: ['Philippe of Belgium is the leader of Belgium.']
+
+Triple: ['__subject__ Denmark __predicate__ capital __object__ Copenhagen']
+Text: ['The capital of Denmark is Copenhagen.']
+
+Triple: ['__subject__ Denmark __predicate__ leader __object__ Lars Løkke Rasmussen']
+Text: ["Denmark's leader name is Lars Løkke Rasmussen."]
+
+Triple: ['__subject__ Flemish Region __predicate__ leader __object__ Flemish Government']
+Text: ['The Flemish region is led by the Flemish government.']
+
+Triple: ['__subject__ Greece __predicate__ language __object__ Greek language']
+Text: ['Greek is the language spoken in Greece.']
+
+Triple: ['__subject__ Greece __predicate__ leader __object__ Nikos Voutsis']
+Text: ['The leader of Greece is Nikos Voutsis.']
+
+Triple: ['__subject__ Harrietstown, New York __predicate__ isPartOf __object__ United States']
+Text: ['Harrietstown, New York is part of the United States.']
+
+Triple: ['__subject__ Pakistan __predicate__ leader __object__ Anwar Zaheer Jamali']
+Text: ['The leader of Pakistan is Anwar Zaheer Jamali.']
+
+Triple: ['__subject__ Paracuellos de Jarama __predicate__ isPartOf __object__ Community of Madrid']
+Text: ['Paracuellos de Jarama is part of the community of Madrid.']
+
+Triple: ['__subject__ Port Authority of New York and New Jersey __predicate__ headquarter __object__ Four World Trade Center']
+Text: ['Port Authority of New York and New Jersey headquarter is Four World Trade Center.']
+
+Triple: ['__subject__ San Sebastián de los Reyes __predicate__ country __object__ Spain']
+Text: ['San Sebastián de los Reyes is in Spain.']
+
+Triple: ['__subject__ Saranac Lake, New York __predicate__ isPartOf __object__ United States']
+Text: ['Saranac Lake, New York is part of the United States.']
+
+Triple: ['__subject__ South Jersey Transportation Authority __predicate__ chief __object__ Stephen Dilts']
+Text: ['South Jersey Transportation Authority chief is Stephen Dilts.']
+
+Triple: ['__subject__ Aaron Bertram __predicate__ activeYearsStartYear __object__ 1998']
+Text: ['Aaron Bertram started performing in 1998.']
+
+Triple: ['__subject__ Aaron Deer __predicate__ associatedBand/associatedMusicalArtist __object__ The Horns of Happiness']
+Text: ['Aaron Deer collaborates with The Horns of Happiness.']
+
+Triple: ['__subject__ Aaron Turner __predicate__ genre __object__ Avant-garde metal']
+Text: ['Aaron Turner falls in the genre of avant-garde metal music.']
+
+Triple: ['__subject__ Aaron Turner __predicate__ genre __object__ Black metal']
+Text: ['Aaron Turner performs black metal music.']
+
+Triple: ['__subject__ Aaron Turner __predicate__ origin __object__ Boston']
+Text: ['Aaron Turner originates from Boston.']
+
+Triple: ['__subject__ Abradab __predicate__ associatedBand/associatedMusicalArtist __object__ Magik (rapper)']
+Text: ['Abradab is associated with Magik (rapper).']
+
+Triple: ['__subject__ Abradab __predicate__ background __object__ solo singer']
+Text: ['Abradab has a background as a solo singer.']
+
+Triple: ['__subject__ Ace Wilder __predicate__ birthDate __object__ 1982-07-23']
+Text: ['Ace Wilder was born on July 23, 1982.']
+
+Triple: ['__subject__ Ace Wilder __predicate__ recordLabel __object__ EMI Records']
+Text: ['Ace Wilder is signed to the record label EMI Records.']
+
+Triple: ['__subject__ Agustín Barboza __predicate__ recordLabel __object__ Philips Records']
+Text: ['Agustin Barboza is signed to Philips Records.']
+
+Triple: ['__subject__ Alan Frew __predicate__ associatedBand/associatedMusicalArtist __object__ Glass Tiger']
+Text: ['Alan Frew plays with Glass Tiger.']
+
+Triple: ['__subject__ Albennie Jones __predicate__ birthPlace __object__ Errata, Mississippi']
+Text: ['Albennie Jones was born in Errata Mississippi.']
+
+Triple: ['__subject__ Aleksandra Kovač __predicate__ associatedBand/associatedMusicalArtist __object__ Kornelije Kovač']
+Text: ['Aleksandra Kovac is associated with Kornelije Kovac.']
+
+Triple: ['__subject__ Aleksandra Kovač __predicate__ background __object__ solo singer']
+Text: ['Aleksandra Kovac is a solo singer.']
+
+Triple: ['__subject__ Aleksandra Kovač __predicate__ genre __object__ Soul music']
+Text: ["Aleksandra Kovač's genre is soul music."]
+
+Triple: ['__subject__ Alfred Garth Jones __predicate__ deathPlace __object__ London']
+Text: ['Alfred Garth Jones died in London.']
+
+Triple: ['__subject__ Alfredo Zitarrosa __predicate__ associatedBand/associatedMusicalArtist __object__ Hilario Pérez']
+Text: ['Alfredo Zitarrosa is musically associated with Hilario Perez.']
+
+Triple: ['__subject__ Alfredo Zitarrosa __predicate__ genre __object__ Milonga (music)']
+Text: ['The musical genre of Alfredo Zitarrosa is Milonga.']
+
+Triple: ['__subject__ Alfredo Zitarrosa __predicate__ recordLabel __object__ Movieplay']
+Text: ['Movieplay is the record label of Alfredo Zitarrosa.']
+
+Triple: ["__subject__ Alison O'Donnell __predicate__ activeYearsStartYear __object__ 1963"]
+Text: ["Alison O'Donnell started performing in 1963."]
+
+Triple: ['__subject__ Allen Forrest __predicate__ genre __object__ Pop music']
+Text: ['Allen Forrest plays pop music.']
+
+Triple: ['__subject__ Anders Osborne __predicate__ recordLabel __object__ Alligator Records']
+Text: ["Anders Osborne was signed to the record label 'Alligator Records'."]
+
+Triple: ['__subject__ Anders Osborne __predicate__ recordLabel __object__ Shanachie Records']
+Text: ['Anders Osborne is signed to Shanachie Records.']
+
+Triple: ['__subject__ Andrew Rayel __predicate__ associatedBand/associatedMusicalArtist __object__ Jwaydan Moyine']
+Text: ['Andrew Rayel is associated with the musician Jwaydan Moyine.']
+
+Triple: ['__subject__ Andrew Rayel __predicate__ birthPlace __object__ Chișinău, Moldova']
+Text: ['The birth place of Andrew Rayel is Chisinau, Moldova.']
+
+Triple: ['__subject__ Andrew White (musician) __predicate__ genre __object__ Alternative rock']
+Text: ["The musician Andrew White's genre is alternative rock."]
+
+Triple: ['__subject__ Asunción __predicate__ isPartOf __object__ Gran Asunción']
+Text: ['Asunción is a part of Gran Asunción.']
+
+Triple: ['__subject__ Deram Records __predicate__ location __object__ London']
+Text: ['Deram Records is based in London.']
+
+Triple: ['__subject__ Funk __predicate__ musicFusionGenre __object__ Afrobeat']
+Text: ['Afrobeat is a fusion of funk music.']
+
+Triple: ['__subject__ Hip hop music __predicate__ musicSubgenre __object__ Gangsta rap']
+Text: ['Hip hop music has the sub genre Gangsta rap.']
+
+Triple: ['__subject__ Jazz __predicate__ stylisticOrigin __object__ Blues']
+Text: ['Jazz originated its style from Blues music.']
+
+Triple: ['__subject__ RCA Records __predicate__ distributingCompany __object__ Legacy Recordings']
+Text: ['Legacy Recordings is the distributing company for RCA Records.']
+
+Triple: ['__subject__ Twilight (band) __predicate__ genre __object__ Black metal']
+Text: ['The musical genre of the band Twilight is black metal.']
+
+Triple: ['__subject__ United Kingdom __predicate__ demonym __object__ British people']
+Text: ['People from the United Kingdom are called British people.']
+
+Triple: ['__subject__ Alan Shepard __predicate__ award __object__ Distinguished Service Medal (United States Navy)']
+Text: ['The United States Navy awarded the Distinguished Service Medal to Alan Shepard.']
+
+Triple: ['__subject__ Alan Shepard __predicate__ deathPlace __object__ California']
+Text: ['Alan Shepard died in California.']
+
+Triple: ['__subject__ Apollo 11 __predicate__ backupPilot __object__ William Anders']
+Text: ['William Anders was the backup pilot on Apollo 11.']
+
+Triple: ['__subject__ Apollo 14 __predicate__ operator __object__ NASA']
+Text: ['The Apollo 14 was operated by NASA.']
+
+Triple: ['__subject__ Apollo 8 __predicate__ operator __object__ NASA']
+Text: ['The Apollo 8 operator is NASA.']
+
+Triple: ['__subject__ Buzz Aldrin __predicate__ nationality __object__ United States']
+Text: ["Buzz Aldrin's nationality is United States."]
+
+Triple: ['__subject__ Elliot See __predicate__ occupation __object__ Test pilot']
+Text: ['Elliot See was a test pilot.']
+
+Triple: ["__subject__ University of Texas at Austin __predicate__ mascot __object__ Hook 'em (mascot)"]
+Text: ["The University of Texas at Austin's mascot is called Hook'em."]
+
+Triple: ['__subject__ A.C. Milan __predicate__ chairman __object__ Silvio Berlusconi']
+Text: ['The Chairman of A C Milan is Silvio Berlusconi.']
+
+Triple: ['__subject__ Aaron Boogaard __predicate__ birthPlace __object__ Canada']
+Text: ["Aaron Boogaard's birthplace is Canada."]
+
+Triple: ['__subject__ Abel Hernández __predicate__ club __object__ Uruguay Olympic football team']
+Text: ['Abel Hernandez is in the Uruguay Olympic football team.']
+
+Triple: ['__subject__ Abel Hernández __predicate__ club __object__ Uruguay national football team']
+Text: ["Abel Hernandez's club is the Uruguay National football team."]
+
+Triple: ['__subject__ Abner (footballer) __predicate__ club __object__ C.D. FAS']
+Text: ['The footballer Abner belongs to the club C.D. FAS.']
+
+Triple: ['__subject__ Adam Maher __predicate__ birthPlace __object__ Ait Ikkou, Morocco']
+Text: ['Adam Maher was born in Ait Ikkou, Morocco.']
+
+Triple: ['__subject__ Adam Maher __predicate__ birthPlace __object__ Diemen']
+Text: ["Adam Maher's birthplace is Diemen."]
+
+Triple: ['__subject__ Adam McQuaid __predicate__ birthPlace __object__ Charlottetown']
+Text: ['Adam McQuaid was born in Charlottetown.']
+
+Triple: ['__subject__ Ahmad Kadhim Assad __predicate__ birthPlace __object__ Iraq']
+Text: ["Ahmad Kadhim Assad's birthplace is Iraq."]
+
+Triple: ['__subject__ Ahmad Kadhim Assad __predicate__ club __object__ PAS Tehran F.C.']
+Text: ['Ahmad Kadhim Assad played for the club PAS Tehran F.C.']
+
+Triple: ['__subject__ Akeem Ayers __predicate__ position __object__ Linebacker']
+Text: ['Akeem Ayers plays as a linebacker.']
+
+Triple: ['__subject__ Akeem Priestley __predicate__ club __object__ FK Mughan']
+Text: ['Akeem Priestley plays for FK Mughan.']
+
+Triple: ['__subject__ Akeem Priestley __predicate__ youthclub __object__ Jacksonville Dolphins']
+Text: ['Akeem Priestley played for the Jacksonville Dolphins youth team.']
+
+Triple: ['__subject__ Al-Khor Sports Club __predicate__ league __object__ Qatar Stars League']
+Text: ['Al-Khor Sports Club is in the Qatar Stars League.']
+
+Triple: ['__subject__ Alaa Abdul-Zahra __predicate__ birthPlace __object__ Baghdad']
+Text: ['Alaa Abdul-Zahra was born in Baghdad.']
+
+Triple: ['__subject__ Alan Martin (footballer) __predicate__ club __object__ Accrington Stanley F.C.']
+Text: ['Alan Martin played football for Accrington Stanley F.C.']
+
+Triple: ['__subject__ Alan Martin (footballer) __predicate__ club __object__ Crewe Alexandra F.C.']
+Text: ['Footballer, Alan Martin, plays for the club Crewe Alexandra F.C.']
+
+Triple: ['__subject__ Aleksander Barkov, Jr. __predicate__ birthPlace __object__ Finland']
+Text: ['Aleksander Barkov Jr was born in Finland.']
+
+Triple: ['__subject__ Aleksander Barkov, Jr. __predicate__ club __object__ Florida Panthers']
+Text: ['Aleksander Barkov Jr has played for the Florida Panthers.']
+
+Triple: ['__subject__ Aleksander Barkov, Jr. __predicate__ league __object__ National Hockey League']
+Text: ['Aleksander Barkov Jr played in the National Hockey League.']
+
+Triple: ['__subject__ Aleksandre Guruli __predicate__ club __object__ FC Samtredia']
+Text: ['Aleksandre Guruli plays for FC Samtredia.']
+
+Triple: ['__subject__ Alex Plante __predicate__ birthPlace __object__ Manitoba']
+Text: ['Alex Plante was born in Manitoba.']
+
+Triple: ['__subject__ Alex Plante __predicate__ height __object__ 1.9304']
+Text: ['Alex Plante is 1.9304m tall.']
+
+Triple: ['__subject__ Brandon, Manitoba __predicate__ leader __object__ Drew Caldwell']
+Text: ['The leader of Brandon, Manitoba is Drew Caldwell.']
+
+Triple: ['__subject__ Budapest __predicate__ country __object__ Hungary']
+Text: ['Budapest is a city in Hungary.']
+
+Triple: ['__subject__ Canada __predicate__ language __object__ Inuktitut']
+Text: ['Inuktitut is a language spoken in Canada.']
+
+Triple: ['__subject__ Columbus Blue Jackets __predicate__ city __object__ Columbus, Ohio']
+Text: ["The Columbus Blue Jackets' city is Columbus, Ohio."]
+
+Triple: ['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny']
+Text: ["FC Terek Grozny's ground is based at Grozny."]
+
+Triple: ['__subject__ FC Tom Tomsk __predicate__ league __object__ Russian Football National League']
+Text: ['The league FC Tom Tomsk plays in the Russian Football National League.']
+
+Triple: ['__subject__ FC Torpedo Moscow __predicate__ manager __object__ Valery Petrakov']
+Text: ['Valery Petrakov is the manager of FC Torpedo Moscow.']
+
+Triple: ['__subject__ Florida Panthers __predicate__ generalManager __object__ Dale Tallon']
+Text: ['The general manager of Florida Panthers is Dale Tallon.']
+
+Triple: ['__subject__ Maccabi Tel Aviv B.C. __predicate__ coach __object__ Žan Tabak']
+Text: ["Maccabi Tel Aviv B.C.'s coach is Zan Tabak."]
+
+Triple: ['__subject__ Olympique Lyonnais __predicate__ ground __object__ Parc Olympique Lyonnais']
+Text: ['Olympique Lyonnais play their home games at the Parc Olympique Lyonnais.']
+
+Triple: ['__subject__ Peñarol __predicate__ manager __object__ Jorge Orosmán da Silva']
+Text: ["Peñarol's manager is Jorge Orosmán da Silva."]
+
+Triple: ['__subject__ Point Fortin __predicate__ country __object__ Trinidad']
+Text: ['Point Fortin is in Trinidad.']
+
+Triple: ['__subject__ 103 Colmore Row __predicate__ architect __object__ John Madin']
+Text: ['103 Colmore Row was designed by the architect, John Madin.']
+
+Triple: ['__subject__ 103 Colmore Row __predicate__ location __object__ Colmore Row']
+Text: ['103 Colmore Row is located at Colmore Row.']
+
+Triple: ['__subject__ 11 Diagonal Street __predicate__ completionDate __object__ 1983']
+Text: ['11 Diagonal Street was completed in 1983.']
+
+Triple: ['__subject__ 200 Public Square __predicate__ completionDate __object__ 1985']
+Text: ['The 200 Public Square was completed in 1985.']
+
+Triple: ['__subject__ 20 Fenchurch Street __predicate__ buildingStartDate __object__ January 2009']
+Text: ['The building at 20 Fenchurch Street was started in January 2009.']
+
+Triple: ['__subject__ 20 Fenchurch Street __predicate__ location __object__ United Kingdom']
+Text: ['20 Fenchurch Street is located in the United Kingdom.']
+
+Triple: ['__subject__ 300 North LaSalle __predicate__ floorCount __object__ 60']
+Text: ['There are 60 floors at 300 North LaSalle.']
+
+Triple: ['__subject__ 3Arena __predicate__ architect __object__ HOK SVE']
+Text: ['HOK SVE was the architect of 3Arena.']
+
+Triple: ['__subject__ 3Arena __predicate__ location __object__ East Link Bridge']
+Text: ['The 3Arena is located at East Link Bridge.']
+
+Triple: ['__subject__ Adare Manor __predicate__ buildingStartDate __object__ 1700']
+Text: ["Adare Manor's building start was in 1700."]
+
+Triple: ['__subject__ Adare Manor __predicate__ country __object__ Republic of Ireland']
+Text: ['Adare Manor is located in the Republic of Ireland.']
+
+Triple: ['__subject__ Akita Museum of Art __predicate__ inaugurationDate __object__ 2013-09-28']
+Text: ['The Akita Museum of Art was inaugurated on 28th September 2013.']
+
+Triple: ['__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business']
+Text: ['The Mason School of Business are the current tenants of Alan B Miller Hall.']
+
+Triple: ['__subject__ Amdavad ni Gufa __predicate__ architect __object__ B. V. Doshi']
+Text: ['The architect B V Doshi designed Amdavad Ni Gufa.']
+
+Triple: ['__subject__ Ampara Hospital __predicate__ country __object__ Sri Lanka']
+Text: ['Ampara Hospital is located in Sri Lanka.']
+
+Triple: ['__subject__ Asher and Mary Isabelle Richardson House __predicate__ addedToTheNationalRegisterOfHistoricPlaces __object__ 1988-11-22']
+Text: ['Asher and Mary Isabelle Richardson House was added to the National Register of Historic Places on "1988-11-22".']
+
+Triple: ['__subject__ Asser Levy Public Baths __predicate__ yearOfConstruction __object__ 1904']
+Text: ['The Asser Levy Public Baths was built in 1904.']
+
+Triple: ['__subject__ Birmingham __predicate__ postalCode __object__ B postcode area']
+Text: ["Birmingham has the postcode area 'B'."]
+
+Triple: ['__subject__ Chicago __predicate__ isPartOf __object__ DuPage County, Illinois']
+Text: ['Chicago is part of DuPage County in Illinois.']
+
+Triple: ['__subject__ Dublin __predicate__ country __object__ Republic of Ireland']
+Text: ['Dublin is in the Republic of Ireland.']
+
+Triple: ['__subject__ Dublin __predicate__ isPartOf __object__ Leinster']
+Text: ['Dublin is part of Leinster.']
+
+Triple: ['__subject__ India __predicate__ leader __object__ Sumitra Mahajan']
+Text: ['Sumitra Mahajan is an Indian leader.']
+
+Triple: ['__subject__ Japan __predicate__ ethnicGroup __object__ Brazilians in Japan']
+Text: ['One of the ethnic groups in Japan is the Brazilians.']
+
+Triple: ['__subject__ Japan __predicate__ leader __object__ Tarō Asō']
+Text: ['The leader of Japan is Tarō Asō.']
+
+Triple: ['__subject__ Marriott International __predicate__ keyPerson __object__ Bill Marriott']
+Text: ['Bill Marriott is the key person at Marriott International.']
+
+Triple: ['__subject__ Republic of Ireland __predicate__ language __object__ English language']
+Text: ['Ireland official language is English.']
+
+Triple: ['__subject__ South Africa __predicate__ capital __object__ Cape Town']
+Text: ['Cape Town is the capital of South Africa.']
+
+Triple: ['__subject__ United Kingdom __predicate__ capital __object__ London']
+Text: ['The capital of the United Kingdom is London.']
+
+Triple: ['__subject__ United States __predicate__ ethnicGroup __object__ Native Americans in the United States']
+Text: ['Native Americans are an ethnic group in the United States.']
+
+Triple: ['__subject__ United States __predicate__ leader __object__ Paul Ryan']
+Text: ['Paul Ryan is the leader of the United States.']
+
+Triple: ['__subject__ (29075) 1950 DA __predicate__ discoverer __object__ Carl A. Wirtanen']
+Text: ['(29075) 1950 DA was discovered by Carl A Wirtanen.']
+
+Triple: ['__subject__ (410777) 2009 FD __predicate__ apoapsis __object__ 259776702.47055 (kilometres)']
+Text: ['(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres.']
+
+Triple: ['__subject__ (66063) 1998 RO1 __predicate__ epoch __object__ 2013-11-04']
+Text: ['66063 1998 RO1 has an epoch date of 4 November 2013.']
+
+Triple: ['__subject__ (66391) 1999 KW4 __predicate__ periapsis __object__ 29919600000.0']
+Text: ['(66391) 1999 KW4 has a periapsis of 29919600000.0.']
+
+Triple: ['__subject__ 101 Helena __predicate__ mass __object__ 3.0 (kilograms)']
+Text: ['101 Helena has a mass of 3.0 kgs.']
+
+Triple: ['__subject__ 101 Helena __predicate__ orbitalPeriod __object__ 1516.6700000000003 (days)']
+Text: ['101 Helena has an orbital period of 1516.6700000000003 days.']
+
+Triple: ['__subject__ 1036 Ganymed __predicate__ averageSpeed __object__ 16.86 (kilometrePerSeconds)']
+Text: ['1036 Ganymed has an average speed of 16.86 km per sec.']
+
+Triple: ['__subject__ 1036 Ganymed __predicate__ temperature __object__ 160.0 (kelvins)']
+Text: ['1036 Ganymed has a temperature of 160.0 kelvins.']
+
+Triple: ['__subject__ 107 Camilla __predicate__ discoverer __object__ F. Vilas']
+Text: ['107 Camilla was discovered by F. Vilas.']
+
+Triple: ['__subject__ 107 Camilla __predicate__ discoverer __object__ N. R. Pogson']
+Text: ['107 Camilla was discovered by N.R. Pogson.']
+
+Triple: ['__subject__ 1089 Tama __predicate__ escapeVelocity __object__ 0.0068 (kilometrePerSeconds)']
+Text: ['1089 Tama has an escape velocity of 0.0068 kilometres per second.']
+
+Triple: ['__subject__ 1097 Vicia __predicate__ rotationPeriod __object__ 95040.0']
+Text: ['The rotation period of 1097 Vicia is 95040.0.']
+
+Triple: ['__subject__ 1099 Figneria __predicate__ escapeVelocity __object__ 0.0155 (kilometrePerSeconds)']
+Text: ['1099 Figneria has an escape velocity of 0.0155 kilometres per second.']
+
+Triple: ['__subject__ 1099 Figneria __predicate__ mass __object__ 2.7 (kilograms)']
+Text: ['1099 Figneria has a mass of 2.7 kilograms.']
+
+Triple: ['__subject__ 109 Felicitas __predicate__ periapsis __object__ 283326000000.0']
+Text: ['109 Felicitas has a periapsis of 283326000000.0.']
+
+Triple: ['__subject__ 109 Felicitas __predicate__ temperature __object__ 170.0 (kelvins)']
+Text: ['109 Felicitas has a temperature of 170 kelvins.']
+
+Triple: ['__subject__ 10 Hygiea __predicate__ orbitalPeriod __object__ 5.57 (days)']
+Text: ['10 Hygiea has an orbital period of 5.57 days.']
+
+Triple: ['__subject__ 1101 Clematis __predicate__ periapsis __object__ 445895000000.0']
+Text: ['The periapsis of 1101 Clematis is 445895000000.0.']
+
+Triple: ['__subject__ 110 Lydia __predicate__ epoch __object__ 2006-12-31']
+Text: ['110 Lydia has an epoch date of December 31st 2006.']
+
+Triple: ['__subject__ 110 Lydia __predicate__ periapsis __object__ 377016000000.0']
+Text: ['110 Lydia has a periapsis measurement of 377016000000.0.']
+
+Triple: ['__subject__ N. R. Pogson __predicate__ nationality __object__ England']
+Text: ['N. R. Pogson was English.']
+
+Triple: ['__subject__ Abilene, Texas __predicate__ areaCode __object__ 325']
+Text: ['The area code of Abilene, in Texas, is 325.']
+
+Triple: ['__subject__ Abilene, Texas __predicate__ isPartOf __object__ Texas']
+Text: ['Abilene is a part of Texas.']
+
+Triple: ['__subject__ Albany, Georgia __predicate__ leaderTitle __object__ Mayor']
+Text: ['Albany, Georgia has a Mayor as leader.']
+
+Triple: ['__subject__ Albany, Oregon __predicate__ areaTotal __object__ 45.97 (square kilometres)']
+Text: ['Albany, Oregon has a total area of 45.97 square kilometres.']
+
+Triple: ['__subject__ Albany, Oregon __predicate__ country __object__ United States']
+Text: ['Albany, Oregon is in the U.S.']
+
+Triple: ['__subject__ Albuquerque, New Mexico __predicate__ leaderTitle __object__ State Senate']
+Text: ['Albuquerque, New Mexico is led by the State Senate.']
+
+Triple: ['__subject__ Albuquerque, New Mexico __predicate__ leaderTitle __object__ Albuquerque City Council']
+Text: ['The Albuquerque City Council has a leadership role in Albuquerque, New Mexico.']
+
+Triple: ['__subject__ Amarillo, Texas __predicate__ country __object__ United States']
+Text: ['Amarillo is in Texas, in the United States.']
+
+Triple: ['__subject__ Amarillo, Texas __predicate__ isPartOf __object__ Potter County, Texas']
+Text: ['Amarillo is part of Potter County in Texas.']
+
+Triple: ['__subject__ Amarillo, Texas __predicate__ isPartOf __object__ United States']
+Text: ['Amarillo is in Texas, in the United States.']
+
+Triple: ['__subject__ Anaheim, California __predicate__ areaCode __object__ 657']
+Text: ['Anaheim, in California, has the area code 657.']
+
+Triple: ['__subject__ Anderson, Indiana __predicate__ isPartOf __object__ Adams, Fall Creek, Lafayette, Richland, Union']
+Text: ['Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union.']
+
+Triple: ['__subject__ Angola, Indiana __predicate__ isPartOf __object__ Pleasant Township, Steuben County, Indiana']
+Text: ['Angola is in Pleasant Township which is part of Steuben County, in Indiana.']
+
+Triple: ['__subject__ Ann Arbor, Michigan __predicate__ leaderTitle __object__ City Administrator']
+Text: ['A City Administrator leads Ann Arbor, Michigan.']
+
+Triple: ['__subject__ Ann Arbor, Michigan __predicate__ leaderTitle __object__ Mayor']
+Text: ['Mayor, is the title of the leader in Ann Arbor, Michigan.']
+
+Triple: ['__subject__ Ann Arbor, Michigan __predicate__ populationDensity __object__ 1580.7 (inhabitants per square kilometre)']
+Text: ['The city of Ann Arbor, Michigan, has a population of 1580.7 as per square kilometre.']
+
+Triple: ['__subject__ Antioch, California __predicate__ elevationAboveTheSeaLevel __object__ 13.0']
+Text: ['Antioch, CA is 13 above sea level.']
+
+Triple: ["__subject__ Antioch, California __predicate__ leaderTitle __object__ California's 11th State Assembly district"]
+Text: ["The leader title of Antioch, California, is California's 11th State Assembly district."]
+
+Triple: ['__subject__ Arlington, Texas __predicate__ elevationAboveTheSeaLevel __object__ 184.0']
+Text: ['Arlington Texas is has an elevation of 184 above sea level.']
+
+Triple: ['__subject__ Atlantic County, New Jersey __predicate__ country __object__ United States']
+Text: ['Atlantic County, New Jersey is located in the United States.']
+
+Triple: ['__subject__ Attica, Indiana __predicate__ isPartOf __object__ Fountain County, Indiana']
+Text: ['Attica is part of Fountain County Indiana.']
+
+Triple: ['__subject__ Auburn, Alabama __predicate__ isPartOf __object__ Alabama']
+Text: ['Auburn is part of Alabama.']
+
+Triple: ['__subject__ California __predicate__ country __object__ United States']
+Text: ['California is in the United States.']
+
+Triple: ['__subject__ Fulton County, Georgia __predicate__ largestCity __object__ Atlanta']
+Text: ['Atlanta is the largest city of Fulton County, Georgia.']
+
+Triple: ['__subject__ Georgia (U.S. state) __predicate__ country __object__ United States']
+Text: ['The state of Georgia is in the U.S.']
+
+Triple: ['__subject__ Indiana __predicate__ capital __object__ Indianapolis']
+Text: ['Indianapolis is the capital of Indiana.']
+
+Triple: ['__subject__ Lee County, Alabama __predicate__ state __object__ Alabama']
+Text: ['Lee County is in Alabama.']
+
+Triple: ['__subject__ New Jersey __predicate__ capital __object__ Trenton, New Jersey']
+Text: ['Trenton is the capital of New Jersey.']
+
+Triple: ['__subject__ Potter County, Texas __predicate__ state __object__ Texas']
+Text: ['Potter County is in Texas.']
+
+Triple: ['__subject__ Tarrant County, Texas __predicate__ country __object__ United States']
+Text: ['Tarrant County, Texas is situated in the United States.']
+
+Triple: ['__subject__ Washtenaw County, Michigan __predicate__ largestCity __object__ Ann Arbor, Michigan']
+Text: ['Ann Arbor is the largest city in Washtenaw County, Michigan.']
+
+Triple: ['__subject__ Asterix (comicsCharacter) __predicate__ creator __object__ René Goscinny']
+Text: ['Asterix was created by Rene Goscinny.']
+
+Triple: ['__subject__ Auron (comicsCharacter) __predicate__ creator __object__ Marv Wolfman']
+Text: ['The comic character Auron was created by Marv Wolfman.']
+
+Triple: ['__subject__ Balder (comicsCharacter) __predicate__ creator __object__ Jack Kirby']
+Text: ['The comic character, Balder, was created by Jack Kirby.']
+
+Triple: ['__subject__ Bananaman __predicate__ broadcastedBy __object__ STV']
+Text: ['Bananaman is broadcast by STV.']
+
+Triple: ['__subject__ Bananaman __predicate__ firstAired __object__ 1983-10-03']
+Text: ['Bananaman first aired on 3rd October 1983.']
+
+Triple: ['__subject__ Bananaman __predicate__ starring __object__ Bill Oddie']
+Text: ['Bill Oddie stars in Bananaman.']
+
+Triple: ['__subject__ Baymax __predicate__ series __object__ Big Hero 6 (film)']
+Text: ['Baymax is a character in Big Hero 6.']
+
+Triple: ['__subject__ Bill Everett __predicate__ award __object__ Eisner Award']
+Text: ['Bill Everett has won the Eisner Award.']
+
+Triple: ['__subject__ Bill Oddie __predicate__ child __object__ Kate Hardie']
+Text: ["Bill Oddie's daughter is Kate Hardie."]
+
+Triple: ['__subject__ Bolt (comicsCharacter) __predicate__ creator __object__ Dan Mishkin']
+Text: ['Dan Mishkin is one of the creators of the comic character, Bolt.']
+
+Triple: ['__subject__ Bozo the Iron Man __predicate__ fullName __object__ Hugh Hazzard']
+Text: ['Bozo the Iron Man’s full name is Hugh Hazzard.']
+
+Triple: ['__subject__ John Buscema __predicate__ award __object__ Eagle Award (comics)']
+Text: ['John Buscema has won the comic book award, Eagle Award.']
+
+Triple: ['__subject__ Marv Wolfman __predicate__ award __object__ Eagle Award (comics)']
+Text: ['Marv Wolfman is a recipient of the Eagle Award.']
+
+Triple: ['__subject__ Brazil __predicate__ leader __object__ Cármen Lúcia']
+Text: ['Cármen Lúcia is the leader of Brazil.']
+
+Triple: ['__subject__ Chinabank __predicate__ netIncome __object__ 15100000000']
+Text: ['Chinabank has a net income of 15,100,000,000.']
+
+Triple: ['__subject__ GMA New Media __predicate__ keyPerson __object__ Felipe Gozon']
+Text: ['Felipe Gozon is the key person of GMA New Media.']
+
+Triple: ['__subject__ GMA New Media __predicate__ product __object__ World Wide Web']
+Text: ['GMA New Media produces web services.']
+
+Triple: ['__subject__ GMA New Media __predicate__ type __object__ Media company']
+Text: ['GMA New Media, Inc. is a media company.']
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ areaTotal __object__ 58.38']
+Text: ['La Crosse is a city in the U.S. state of Wisconsin, and the city has a total area of 58.38.']
+
+Triple: ['__subject__ Philippine Entertainment Portal __predicate__ parentCompany __object__ GMA New Media']
+Text: ['GMA New Media is the parent company of Philippine Entertainment Portal.']
+
+Triple: ['__subject__ Philippines __predicate__ ethnicGroup __object__ Pangasinense people']
+Text: ['Pangasinense people are the ethnic group of the Philippines.']
+
+Triple: ['__subject__ Philippines __predicate__ leader __object__ Rodrigo Duterte']
+Text: ["Rodrigo Duterte is the leader's name of the Philippines."]
+
+Triple: ['__subject__ Swords, Dublin __predicate__ isPartOf __object__ Dublin (European Parliament constituency)']
+Text: ['Swords, Dublin is part of the Dublin European Parliament constituency.']
+
+Triple: ['__subject__ Swords, Dublin __predicate__ leaderTitle __object__ County Manager']
+Text: ['The title of the leader of Swords, Dublin is County Manager.']
+
+Triple: ['__subject__ United States __predicate__ longName __object__ United States of America']
+Text: ['The full name of the United States is the United States of America.']
+
+Triple: ['__subject__ Ajoblanco __predicate__ alternativeName __object__ Ajo blanco']
+Text: ['The alternative name for Ajoblanco is "Ajo blanco".']
+
+Triple: ['__subject__ Ajoblanco __predicate__ mainIngredient __object__ Bread, almonds, garlic, water, olive oil']
+Text: ['The main ingredients in ajoblanco are bread, almonds, garlic, water and olive oil.']
+
+Triple: ['__subject__ Arem-arem __predicate__ region __object__ Nationwide in Indonesia, but more specific to Java']
+Text: ['Arem-arem is found nationwide in Indonesia, but is more specific to Java.']
+
+Triple: ['__subject__ Arem-arem __predicate__ region __object__ Indonesia']
+Text: ['Arem arem comes from Indonesia.']
+
+Triple: ['__subject__ Arrabbiata sauce __predicate__ mainIngredient __object__ Tomatoes, red chili, garlic, olive oil']
+Text: ['Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.']
+
+Triple: ['__subject__ Arròs negre __predicate__ ingredient __object__ Cuttlefish']
+Text: ['Cuttlefish is an ingredient in Arros negre.']
+
+Triple: ['__subject__ Arròs negre __predicate__ ingredient __object__ Squid']
+Text: ['Squid is an ingredient of Arros negre.']
+
+Triple: ['__subject__ Asam pedas __predicate__ country __object__ Malaysia']
+Text: ['Asam pedas is a food found in Malaysia.']
+
+Triple: ['__subject__ Avocado __predicate__ genus __object__ Persea']
+Text: ['The genus of the avocado is persea.']
+
+Triple: ['__subject__ Ayam penyet __predicate__ servingTemperature __object__ Hot']
+Text: ['Ayam penyet should be served hot.']
+
+Triple: ['__subject__ Baked Alaska __predicate__ course __object__ Dessert']
+Text: ['Baked Alaska is a dessert.']
+
+Triple: ['__subject__ Bakewell tart __predicate__ ingredient __object__ Frangipane']
+Text: ['An ingredient of bakewell tart is frangipane.']
+
+Triple: ['__subject__ Bakso __predicate__ ingredient __object__ Noodle']
+Text: ['The dish Bakso contains noodles.']
+
+Triple: ['__subject__ Bakso __predicate__ ingredient __object__ Vermicelli']
+Text: ['Vermicelli is an ingredient in Bakso.']
+
+Triple: ['__subject__ Bandeja paisa __predicate__ ingredient __object__ Chorizo']
+Text: ['Chorizo is an ingredient in the dish Bandeja paisa.']
+
+Triple: ['__subject__ Barny Cakes __predicate__ creator __object__ Mondelez International']
+Text: ['Mondelez International is the creator of Barny cakes.']
+
+Triple: ['__subject__ Barny Cakes __predicate__ dishVariation __object__ Chocolate']
+Text: ['Barny Cakes can be chocolate flavoured.']
+
+Triple: ['__subject__ Barny Cakes __predicate__ protein __object__ 1.8 g']
+Text: ['Barny cakes contain 1.8 g of protein.']
+
+Triple: ['__subject__ Batchoy __predicate__ country __object__ Philippines']
+Text: ['Batchoy is eaten in the Philippines.']
+
+Triple: ['__subject__ Batchoy __predicate__ ingredient __object__ Chicken']
+Text: ['Chicken is an ingredient in Batchoy.']
+
+Triple: ['__subject__ Batchoy __predicate__ ingredient __object__ Vegetable']
+Text: ['Vegetable are used in the preparation of Batchoy.']
+
+Triple: ['__subject__ Binignit __predicate__ region __object__ Visayas']
+Text: ['Binignit is a dish from the region of Visayas.']
+
+Triple: ['__subject__ Derbyshire Dales __predicate__ leader __object__ Patrick McLoughlin']
+Text: ['Patrick McLoughlin is a leader in the Derbyshire Dales.']
+
+Triple: ['__subject__ Dessert __predicate__ dishVariation __object__ Cake']
+Text: ['A variation on dessert is cake.']
+
+Triple: ['__subject__ Dessert __predicate__ dishVariation __object__ Ice cream']
+Text: ['Ice cream is a type of dessert.']
+
+Triple: ['__subject__ Indonesia __predicate__ leader __object__ Jusuf Kalla']
+Text: ['Jusuf Kalla is a leader in Indonesia.']
+
+Triple: ['__subject__ Italy __predicate__ demonym __object__ Italians']
+Text: ['Italians are from Italy.']
+
+Triple: ['__subject__ Java __predicate__ ethnicGroup __object__ Baduy']
+Text: ['Baduy is the ethnic group of Java.']
+
+Triple: ['__subject__ Lemon __predicate__ order __object__ Rosids']
+Text: ['Lemon is under the order of Rosids.']
+
+Triple: ['__subject__ Mexico __predicate__ demonym __object__ Mexicans']
+Text: ['Mexico is inhabited by Mexicans.']
+
+Triple: ['__subject__ Mexico __predicate__ language __object__ Spanish language']
+Text: ['In Mexico, the spoken language is Spanish.']
+
+Triple: ['__subject__ Philippines __predicate__ language __object__ Arabic']
+Text: ['One of the languages used in the Philippines is Arabic.']
+
+Triple: ['__subject__ Siomay __predicate__ dishVariation __object__ Shumai']
+Text: ['Shumai is a variation of the dish Siomay.']
+
+Triple: ['__subject__ United States __predicate__ ethnicGroup __object__ Native Americans in the United States']
+Text: ['Native Americans in the United States are one of the ethnic groups of the country.']
+
+Triple: ['__subject__ 1955 Dodge __predicate__ alternativeName __object__ Dodge Coronet']
+Text: ['Dodge Coronet is the alternative name for the 1955 Dodge.']
+
+Triple: ['__subject__ 1955 Dodge __predicate__ engine __object__ 230 (cubic inches)']
+Text: ['The 1955 Dodge engine is 230 cubic inches.']
+
+Triple: ['__subject__ AIDA Cruises __predicate__ location __object__ Rostock']
+Text: ['The location of AIDA Cruises is Rostock.']
+
+Triple: ['__subject__ AIDAluna __predicate__ activeYearsStartDate __object__ 2009-03-22']
+Text: ['AIDAluna service was started on the 22nd of March, 2009.']
+
+Triple: ['__subject__ AIDAluna __predicate__ shipClass __object__ Sphinx class cruise ship']
+Text: ['The AIDAluna is a Sphinx class cruise ship.']
+
+Triple: ['__subject__ AIDAstella __predicate__ builder __object__ Meyer Werft']
+Text: ['The AIDAstella was built by Meyer Werft.']
+
+Triple: ['__subject__ AIDAstella __predicate__ christeningDate __object__ 2013-03-16']
+Text: ['The AIDAstella was christened on the 16th of March, 2013.']
+
+Triple: ['__subject__ AIDAstella __predicate__ shipInService __object__ 2013-03-17']
+Text: ['The AIDAstella ship was put in service on March 17, 2013.']
+
+Triple: ['__subject__ ALCO RS-3 __predicate__ engine __object__ Four-stroke engine']
+Text: ['The ALCO RS-3 has a four-stroke engine.']
+
+Triple: ['__subject__ ALV X-1 __predicate__ manufacturer __object__ Alliant Techsystems']
+Text: ['The ALV X-1 was manufactured by Alliant Techsystems.']
+
+Triple: ['__subject__ AMC Matador __predicate__ relatedMeanOfTransportation __object__ AMC Ambassador']
+Text: ['The AMC Matador is related to the AMC Ambassador.']
+
+Triple: ['__subject__ Abarth 1000 GT Coupé __predicate__ productionEndYear __object__ 1958']
+Text: ["The Abarth 1000 GT Coupé's final year of production was 1958."]
+
+Triple: ['__subject__ Acura TLX __predicate__ engine __object__ 3.5 (litres)']
+Text: ['The engine size of the Acura TLX is 3.5 litres.']
+
+Triple: ['__subject__ Acura TLX __predicate__ engine __object__ Honda K engine']
+Text: ['The Acura TLX has a Honda K engine.']
+
+Triple: ['__subject__ Acura TLX __predicate__ transmission __object__ 9-speed ZF 9HP automatic (V6)']
+Text: ['The transmission of the Acura TLX is a 9-speed ZF 9HP automatic (V6).']
+
+Triple: ['__subject__ Alfa Romeo 164 __predicate__ class __object__ Executive car']
+Text: ['The Alfa Romeo 164 is an executive class car.']
+
+Triple: ['__subject__ Alfa Romeo 164 __predicate__ relatedMeanOfTransportation __object__ Fiat Croma']
+Text: ['The Alfa Romeo 164 and the Fiat Croma are similar means of transport.']
+
+Triple: ['__subject__ Alhambra __predicate__ maidenVoyage __object__ 1855-07-07']
+Text: ['The Alhambra had its maiden voyage on the 7th of July 1855.']
+
+Triple: ['__subject__ Alhambra __predicate__ shipBeam __object__ 8.3 m']
+Text: ['The Alhambra ship beam is 8.3m.']
+
+Triple: ['__subject__ Alhambra __predicate__ topSpeed __object__ 18.52']
+Text: ['The Alhambra had a top speed of 18.52 km/h.']
+
+Triple: ['__subject__ Antares (rocket) __predicate__ finalFlight __object__ 2014-10-28']
+Text: ["The Antares rocket's final flight was on the 28th October 2014."]
+
+Triple: ['__subject__ Ariane 5 __predicate__ maidenFlight __object__ 2005-08-11']
+Text: ['The Ariane 5 had its first voyage August 11, 2005.']
+
+Triple: ['__subject__ Ariane 5 __predicate__ manufacturer __object__ Airbus Defence and Space']
+Text: ['The Ariane 5 was manufactured by Airbus Defence and Space.']
+
+Triple: ['__subject__ Atlas II __predicate__ countryOrigin __object__ United States']
+Text: ['The Atlas II originated from the U.S.']
+
+Triple: ['__subject__ Atlas II __predicate__ finalFlight __object__ 1998-03-16']
+Text: ['Atlas II had its final flight on March 16th 1998.']
+
+Triple: ['__subject__ Audi __predicate__ division __object__ Audi e-tron']
+Text: ['Audi e-tron is a division of Audi.']
+
+Triple: ['__subject__ Audi A1 __predicate__ assembly __object__ Audi Brussels']
+Text: ['The Audi A1 is assembled by Audi Brussels.']
+
+Triple: ['__subject__ Caterpillar Inc. __predicate__ foundationPlace __object__ California']
+Text: ['Caterpillar Inc was founded in California.']
+
+Triple: ['__subject__ Caterpillar Inc. __predicate__ keyPerson __object__ Douglas R. Oberhelman']
+Text: ['The key person of Caterpillar Inc. is Douglas R. Oberhelman.']
+
+Triple: ['__subject__ Caterpillar Inc. __predicate__ location __object__ Peoria, Illinois']
+Text: ['Caterpillar Inc. is located in Peoria, Illinois.']
+
+Triple: ['__subject__ Delta II __predicate__ launchSite __object__ Cape Canaveral Air Force Station']
+Text: ['The Delta II was launched at the Cape Canaveral Air Force Station.']
+
+Triple: ['__subject__ Finland __predicate__ language __object__ Sami languages']
+Text: ['One of the languages in Finland is Sami.']
+
+Triple: ['__subject__ Germany __predicate__ leader __object__ Stanislaw Tillich']
+Text: ['The leader of Germany is Stanislaw Tillich.']
+
+Triple: ['__subject__ Guiana Space Centre __predicate__ headquarter __object__ Kourou, French Guiana']
+Text: ['The Guiana Space Centre has its headquarters at Kourou in French Guiana.']
+
+Triple: ['__subject__ Honda __predicate__ division __object__ Acura']
+Text: ['Acura is a division of the Honda Co.']
+
+Triple: ['__subject__ Lancia Thema __predicate__ relatedMeanOfTransportation __object__ Alfa Romeo 164']
+Text: ['The Lancia Thema is related to the Alfa Romeo 164.']
+
+Triple: ['__subject__ Meyer Werft __predicate__ location __object__ Germany']
+Text: ['Meyer Werft is located in Germany.']
+
+Triple: ['__subject__ Meyer Werft __predicate__ location __object__ Papenburg']
+Text: ['The location of Meyer Werft is Papenburg.']
+
+Triple: ['__subject__ Atatürk Monument (İzmir) __predicate__ designer __object__ Pietro Canonica']
+Text: ['The Atatürk Monument in Izmir was designed by Pietro Canonica.']
+
+Triple: ['__subject__ Atatürk Monument (İzmir) __predicate__ material __object__ Bronze']
+Text: ['The Atatürk Monument in Izmir is made of bronze.']
+
+Triple: ['__subject__ Azerbaijan __predicate__ leader __object__ Artur Rasizade']
+Text: ["Azerbaijan leader's name is Artur Rasizade."]
+
+Triple: ["__subject__ Baku Turkish Martyrs' Memorial __predicate__ location __object__ Azerbaijan"]
+Text: ["The Baku Turkish Martyrs' Memorial is located in Azerbaijan."]
+
+Triple: ["__subject__ Baku Turkish Martyrs' Memorial __predicate__ material __object__ Red granite and white marble"]
+Text: ["The materials used for the Baku Turkish Martyrs' Memorial is red granite and white marble."]
+
+Triple: ['__subject__ Aaron S. Daggett __predicate__ award __object__ Purple Heart']
+Text: ['Aaron S Daggett was awarded the Purple Heart.']
+
+Triple: ['__subject__ Aaron S. Daggett __predicate__ battle __object__ Battle of Mine Run']
+Text: ['The Battle of Mine Run was one fought by Aaron S Daggett.']
+
+Triple: ["__subject__ Abdul Rahman Ya'kub __predicate__ inOfficeWhileVicePresident __object__ Tuanku Bujang Tuanku Othman"]
+Text: ["Abdul Rahman Ya'kub was in office while Tuanku Bujang Tuanku Othman was Vice President."]
+
+Triple: ['__subject__ Abdul Taib Mahmud __predicate__ almaMater __object__ University of Adelaide']
+Text: ["Abdul Taib Mahmud's Alma mater is the University of Adelaide."]
+
+Triple: ['__subject__ Abdul Taib Mahmud __predicate__ region __object__ Kota Samarahan']
+Text: ['Abdul Taib Mahmud is from Kota Samarahan.']
+
+Triple: ['__subject__ Abdul Taib Mahmud __predicate__ successor __object__ Adenan Satem']
+Text: ['Abdul Taib Mahmud successor was Adenan Satem.']
+
+Triple: ['__subject__ Abdul Taib Mahmud __predicate__ successor __object__ Sulaiman Abdul Rahman Taib']
+Text: ["Abdul Taib Mahmud's successor was Sulaiman Abdul Rahman Taib."]
+
+Triple: ['__subject__ Abdulsalami Abubakar __predicate__ militaryBranch __object__ Nigerian Army']
+Text: ['Abdulsalami Abubakar served in the Nigerian Army.']
+
+Triple: ['__subject__ Abel Caballero __predicate__ inOfficeWhileMonarch __object__ Juan Carlos I of Spain']
+Text: ['Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain.']
+
+Triple: ['__subject__ Abner W. Sibal __predicate__ battle __object__ World War II']
+Text: ['Abner W. Sibal fought in World War II.']
+
+Triple: ['__subject__ Abraham A. Ribicoff __predicate__ successor __object__ Anthony J. Celebrezze']
+Text: ['The successor to Abraham A. Ribicoff is Anthony J. Celebrezze.']
+
+Triple: ['__subject__ Adam Koc __predicate__ award __object__ Cross of Valour (Poland)']
+Text: ['Adam Koc was awarded the Cross of Valour (Poland).']
+
+Triple: ['__subject__ Adam Koc __predicate__ deathPlace __object__ New York City']
+Text: ['Adam Koc died in New York City.']
+
+Triple: ['__subject__ Adenan Satem __predicate__ almaMater __object__ University of Adelaide']
+Text: ['The alma mater of Adenan Satem is the University of Adelaide.']
+
+Triple: ['__subject__ Adonis Georgiadis __predicate__ office __object__ Deputy Minister for Development, Competitiveness and Shipping']
+Text: ['Adonis Georgiadis worked as Deputy Minister for Development, Competitiveness and Shipping.']
+
+Triple: ['__subject__ Agnes Kant __predicate__ office __object__ House of Representatives (Netherlands)']
+Text: ['Agnes Kant worked at the House of Representatives in Netherlands.']
+
+Triple: ['__subject__ Agnes Kant __predicate__ residence __object__ Netherlands']
+Text: ['Agnes Kant lives in the Netherlands.']
+
+Triple: ['__subject__ Airey Neave __predicate__ award __object__ Territorial Decoration']
+Text: ['Airey Neave was awarded the Territorial Decoration.']
+
+Triple: ['__subject__ Airey Neave __predicate__ birthPlace __object__ Knightsbridge, London']
+Text: ['Knightsbridge, London is the birthplace of Airey Neave.']
+
+Triple: ['__subject__ Airey Neave __predicate__ serviceStartYear __object__ 1935']
+Text: ['Airey Neave began his military career in 1935.']
+
+Triple: ['__subject__ Alberto Teisaire __predicate__ nationality __object__ Argentina']
+Text: ["Alberto Teisaire's nationality is Argentinian."]
+
+Triple: ['__subject__ Alfred Moore Scales __predicate__ battle __object__ Battle of Chancellorsville']
+Text: ['Alfred Moore Scales took part in the Battle of Chancellorsville.']
+
+Triple: ['__subject__ Alfred Moore Scales __predicate__ battle __object__ Overland Campaign']
+Text: ['Alfred Moore Scales fought in the Overland Campaign.']
+
+Triple: ['__subject__ Allan Shivers __predicate__ battle __object__ World War II']
+Text: ['Allan Shivers fought battles in World War II.']
+
+Triple: ['__subject__ Allan Shivers __predicate__ militaryBranch __object__ United States Army']
+Text: ['Allan Shivers served in the United States Army.']
+
+Triple: ['__subject__ Alvah Sabin __predicate__ activeYearsEndDate __object__ 1857-03-03']
+Text: ['Alvah Sabin ended their career on 1857-03-03.']
+
+Triple: ['__subject__ Alvah Sabin __predicate__ party __object__ Whig Party (United States)']
+Text: ['Alvah Sabin was a member of the United States Whig Party.']
+
+Triple: ['__subject__ Antonis Samaras __predicate__ successor __object__ Konstantinos Mitsotakis']
+Text: ['Konstantinos Mitsotakis was the successor to Antonis Samaras.']
+
+Triple: ['__subject__ Argentina __predicate__ leader __object__ Gabriela Michetti']
+Text: ['The leader of Argentina is Gabriela Michetti.']
+
+Triple: ['__subject__ Austria __predicate__ language __object__ Austrian German']
+Text: ['In Austria, the language is Austrian German.']
+
+Triple: ['__subject__ Battle of Fredericksburg __predicate__ isPartOfMilitaryConflict __object__ American Civil War']
+Text: ['The Battle of Fredericksburg was fought during the American Civil War.']
+
+Triple: ['__subject__ Edmund J. Davis __predicate__ deathPlace __object__ Austin, Texas']
+Text: ['The death place of Edmund J. Davis is Austin Texas.']
+
+Triple: ['__subject__ Josef Klaus __predicate__ almaMater __object__ University of Vienna']
+Text: ['The University of Vienna is the Alma mater of Josef Klaus.']
+
+Triple: ['__subject__ Juan Perón __predicate__ party __object__ Labour Party (Argentina)']
+Text: ['Juan Perón was a member of the Labour Party in Argentina.']
+
+Triple: ['__subject__ Mike Akhigbe __predicate__ predecessor __object__ Oladipo Diya']
+Text: ["Oladipo Diya was Mike Akhigbe's predecessor."]
+
+Triple: ['__subject__ Nigerian Air Force __predicate__ commander __object__ Sadique Abubakar']
+Text: ['Sadique Abubakar is a commander in the Nigerian Air Force.']
+
+Triple: ['__subject__ Poland __predicate__ ethnicGroup __object__ Romani people']
+Text: ['Romani are an ethnic group in Poland.']
+
+Triple: ['__subject__ Poland __predicate__ language __object__ Kashubian language']
+Text: ['The Kashubian language is spoken in Poland.']
+
+Triple: ['__subject__ 1. FC Köln __predicate__ manager __object__ Peter Stöger']
+Text: ['Peter Stoger is the manager of FC Koln.']
+
+Triple: ['__subject__ 1. FC Magdeburg __predicate__ season __object__ 2014']
+Text: ['1 FC Magdeburg played in the 2014 season.']
+
+Triple: ['__subject__ A.C. Lumezzane __predicate__ season __object__ 2014–15 Lega Pro']
+Text: ['A C Lumezzane played the 2014-2015 season in Lega Pro.']
+
+Triple: ['__subject__ A.D. Isidro Metapán __predicate__ fullName __object__ Asociación Deportiva']
+Text: ['A.D. Isidro Metapan\'s full name is "Asociación Deportiva".']
+
+Triple: ['__subject__ A.E Dimitra Efxeinoupolis __predicate__ fullName __object__ A.E Dimitra Efxeinoupolis']
+Text: ["A.E Dimitra Efxeinoupolis's full name is A.E Dimitra Efxeinoupolis."]
+
+Triple: ['__subject__ A.E Dimitra Efxeinoupolis __predicate__ season __object__ 2014']
+Text: ['A.E Dimitra Efxeinoupolis played in the 2014 season.']
+
+Triple: ['__subject__ A.E Dimitra Efxeinoupolis __predicate__ season __object__ 2014–15 A EPSTH, Greece']
+Text: ['A.E Dimitra Efxeinoupolis were in the 2014–15 A EPSTH. Greece season.']
+
+Triple: ['__subject__ A.F.C. Blackpool __predicate__ numberOfMembers __object__ 1500']
+Text: ['A.F.C. Blackpool has 1500 members.']
+
+Triple: ['__subject__ A.F.C. Fylde __predicate__ ground __object__ The Fylde']
+Text: ['The Fylde is the home ground of AFC Fylde.']
+
+Triple: ['__subject__ A.S. Gubbio 1910 __predicate__ ground __object__ Italy']
+Text: ['The ground of A.S. Gubbio 1910 is located in Italy.']
+
+Triple: ['__subject__ A.S. Livorno Calcio __predicate__ numberOfMembers __object__ 19238']
+Text: ['A.S. Livorno Calcio has 19238 members.']
+
+Triple: ['__subject__ A.S. Roma __predicate__ season __object__ 2014–15 Serie A']
+Text: ['A.S. Roma were in Serie A in 2014-15.']
+
+Triple: ['__subject__ AFC Ajax __predicate__ manager __object__ Frank de Boer']
+Text: ['Frank de Boer manages the AFC Ajax team.']
+
+Triple: ['__subject__ AFC Ajax (amateurs) __predicate__ nickname __object__ Joden , Godenzonen']
+Text: ['AFC Ajax (amateurs) have the nickname "Joden, Godenzonen".']
+
+Triple: ['__subject__ AFC Ajax (amateurs) __predicate__ numberOfMembers __object__ 5000']
+Text: ['AFC Ajax has 5000 Members.']
+
+Triple: ['__subject__ AZAL PFK __predicate__ location __object__ Shuvalan, Baku, Azerbaijan']
+Text: ['AZAL PFK is located at Shuvalan, Baku, Azerbaijan.']
+
+Triple: ['__subject__ AZ Alkmaar __predicate__ numberOfMembers __object__ 17023']
+Text: ['AZ Alkmaar has 17023 members.']
+
+Triple: ['__subject__ Agremiação Sportiva Arapiraquense __predicate__ manager __object__ Vica']
+Text: ['Agremiacao Sportiva Arapiraquense are managed by Vica.']
+
+Triple: ['__subject__ Agremiação Sportiva Arapiraquense __predicate__ season __object__ 2015 Campeonato Brasileiro Série C']
+Text: ['Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.']
+
+Triple: ['__subject__ Akron Summit Assault __predicate__ ground __object__ St. Vincent–St. Mary High School']
+Text: ["Akron Summit Assault's ground is St. Vincent-St. Mary High School."]
+
+Triple: ['__subject__ Akron Summit Assault __predicate__ numberOfMembers __object__ 3000']
+Text: ['Akron Summit Assault has 3000 members.']
+
+Triple: ['__subject__ Amsterdam __predicate__ part __object__ Amsterdam-Centrum']
+Text: ['Amsterdam-Centrum is part of Amsterdam.']
+
+Triple: ['__subject__ Greece __predicate__ leader __object__ Nikos Voutsis']
+Text: ['The leader of Greece is Nikos Voutsis.']
+
+Triple: ['__subject__ Gus Poyet __predicate__ club __object__ AEK Athens F.C.']
+Text: ['Gus Poyet is in AEK Athens F.C.']
+
+Triple: ['__subject__ Jens Härtel __predicate__ club __object__ SV Germania Schöneiche']
+Text: ['Jens Hartel plays for SV Germania Schoneiche.']
+
+Triple: ['__subject__ John van den Brom __predicate__ club __object__ AZ Alkmaar']
+Text: ['John van den Brom plays at the AZ Alkmaar club.']
+
+Triple: ['__subject__ Jorge Humberto Rodríguez __predicate__ club __object__ A.D. Isidro Metapán']
+Text: ["Jorge Humberto Rodriguez's club is A.D. Isidro Metapan."]
+
+Triple: ['__subject__ Massimo Drago __predicate__ club __object__ Delfino Pescara 1936']
+Text: ['Massimo Drago is attached to the club Delfino Pescara 1936.']
+
+Triple: ['__subject__ Massimo Drago __predicate__ club __object__ S.S. Chieti Calcio']
+Text: ['Massimo Drago plays for S.S.Chieti Calcio.']
+
+Triple: ['__subject__ Olympic Stadium (Athens) __predicate__ location __object__ Marousi']
+Text: ['The Olympic Stadium (Athens) is located at Marousi.']
+
+Triple: ['__subject__ Premier Development League __predicate__ champions __object__ K-W United FC']
+Text: ['K-W United FC have been champions of the Premier Development League.']
+
+Triple: ['__subject__ Stuart Parker (footballer) __predicate__ club __object__ Bury F.C.']
+Text: ['Stuart Parker played football for Bury FC.']
+
+Triple: ['__subject__ Accademia di Architettura di Mendrisio __predicate__ academicStaffSize __object__ 100']
+Text: ['The academic staff size of Accademia di Architettura di Mendrisio is 100.']
+
+Triple: ['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.']
+Text: ['The campus address for the Acharya Institute of Technology is: Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.']
+
+Triple: ['__subject__ Alba Iulia __predicate__ country __object__ Romania']
+Text: ['Alba Iulia is located in Romania.']
+
+Triple: ['__subject__ Alba Iulia __predicate__ isPartOf __object__ Alba County']
+Text: ['Alba Iulia is part of the county of Alba.']
+
+Triple: ['__subject__ Romania __predicate__ patronSaint __object__ Andrew the Apostle']
+Text: ['The patron saint of Romania is Andrew the Apostle.']
+
+Triple: ['__subject__ School of Business and Social Sciences at the Aarhus University __predicate__ academicStaffSize __object__ 737']
+Text: ['The academic staff of the School of Business and Social Sciences at the Aarhus University number 737.']
+
+Triple: ['__subject__ School of Business and Social Sciences at the Aarhus University __predicate__ country __object__ Denmark']
+Text: ['The Aarhus University School of Business and Social Sciences is in the country of Denmark.']
+
+Triple: ['__subject__ 1634: The Bavarian Crisis __predicate__ author __object__ Eric Flint']
+Text: ['Eric Flint is the author of 1634: The Bavarian Crisis.']
+
+Triple: ['__subject__ 1634: The Bavarian Crisis __predicate__ precededBy __object__ The Grantville Gazettes']
+Text: ['1634: The Bavarian crisis is the sequel to The Grantville Gazettes.']
+
+Triple: ['__subject__ 1634: The Ram Rebellion __predicate__ followedBy __object__ 1635: The Cannon Law']
+Text: ['1634: The Ram Rebellion was followed by 1635: The Cannon Law.']
+
+Triple: ['__subject__ AIP Advances __predicate__ eissnNumber __object__ 2158']
+Text: ['AIP Advances had the EISSNnumber 2158.']
+
+Triple: ['__subject__ A Fortress of Grey Ice __predicate__ mediaType __object__ Hardcover']
+Text: ['A Fortress of Grey Ice is a hardcover book.']
+
+Triple: ['__subject__ A Long Long Way __predicate__ isbnNumber __object__ 0-670-03380-4']
+Text: ['The ISBN number of A Long Long Way is 0-670-03380-4.']
+
+Triple: ['__subject__ A Loyal Character Dancer __predicate__ isbnNumber __object__ 1-56947-301-3']
+Text: ['The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3.']
+
+Triple: ["__subject__ A Severed Wasp __predicate__ author __object__ Madeleine L'Engle"]
+Text: ['Madeleine L\'Engle wrote "A Severed Wasp".']
+
+Triple: ['__subject__ A Wizard of Mars __predicate__ language __object__ English language']
+Text: ['A Wizard of Mars is published in English.']
+
+Triple: ['__subject__ Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg __predicate__ LCCN number __object__ 32024459']
+Text: ['Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has the LCCN number 32024459.']
+
+Triple: ['__subject__ Above the Veil __predicate__ mediaType __object__ Hardcover']
+Text: ['Above the Veil is available in hardcover.']
+
+Triple: ['__subject__ Acta Mathematica Hungarica __predicate__ abbreviation __object__ Acta Math. Hungar.']
+Text: ['Acta Mathematica Hungarica is also known as Acta Math. Hungar.']
+
+Triple: ['__subject__ Acta Mathematica Hungarica __predicate__ academicDiscipline __object__ Mathematics']
+Text: ['The Acta Mathematica Hungarica covers the academic discipline of Mathematics.']
+
+Triple: ['__subject__ Acta Palaeontologica Polonica __predicate__ codenCode __object__ APGPAC']
+Text: ['Acta Palaeontologica Polonica has the CODEN code APGPAC.']
+
+Triple: ['__subject__ Addiction (journal) __predicate__ oclcNumber __object__ 27367194']
+Text: ['The OCLC number of Addiction (journal) is 27367194.']
+
+Triple: ['__subject__ Addiction (journal) __predicate__ publisher __object__ Wiley-Blackwell']
+Text: ['Wiley-Blackwell is the publisher of the journal Addiction.']
+
+Triple: ['__subject__ Administrative Science Quarterly __predicate__ LCCN number __object__ 57059226']
+Text: ['The LCCN number of the Administrative Science Quarterly is 57059226.']
+
+Triple: ['__subject__ Aenir __predicate__ oclcNumber __object__ 45644811']
+Text: ['OCLC number 45644811 is Aenir.']
+
+Triple: ['__subject__ Alcatraz Versus the Evil Librarians __predicate__ oclcNumber __object__ 78771100']
+Text: ['Alcatraz Versus the Evil Librarians OCLC number is 78771100.']
+
+Triple: ["__subject__ Alcatraz Versus the Evil Librarians __predicate__ followedBy __object__ Alcatraz Versus the Scrivener's Bones"]
+Text: ["The book Alcatraz Versus the Evil Librarians is followed by the book Alcatraz Versus the Scrivener's Bones."]
+
+Triple: ['__subject__ American Journal of Mathematics __predicate__ impactFactor __object__ 1.337']
+Text: ['The impact factor of the American Journal of Mathematics is 1.337.']
+
+Triple: ['__subject__ Castle (novel) __predicate__ followedBy __object__ Aenir']
+Text: ['The novel Castle is followed by Aenir.']
+
+Triple: ['__subject__ Cornell University __predicate__ nickname __object__ Cornell Big Red']
+Text: ['Cornwell University is nicknamed Cornell Big Red.']
+
+Triple: ['__subject__ HIV __predicate__ genus __object__ Lentivirus']
+Text: ['The HIV virus is from the genus Lentivirus.']
+
+Triple: ['__subject__ John Cowper Powys __predicate__ notableWork __object__ Wolf Solent']
+Text: ['Wolf Solent is a notable work by John Cowper Powys.']
+
+Triple: ['__subject__ United Kingdom __predicate__ leader __object__ Elizabeth II']
+Text: ['Elizabeth II is a leader in the United Kingdom.']
+
+Triple: ['__subject__ United States __predicate__ leader __object__ Joe Biden']
+Text: ['Joe Biden is a United States leader.']
+
+Triple: ['__subject__ Wolf Solent __predicate__ author __object__ John Cowper Powys']
+Text: ['John Cowper Powys is the author of Wolf Solent.']
+
