@@ -1,0 +1,147 @@
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
+
+Train text: Abraham A. Ribicoff died in the United States. Abraham A. Ribicoff's place of birth was Connecticut. African Americans are an ethnic group in the United States.
+Generated text: Abraham A. Ribicoff died in United States. Abraham A. Ribicoff was born in United States. African Americans are an ethnic group in the United States.
+
+Train text: Alan Shepard was born in New Hampshire but died in California. Adam Koc was awarded the Officer's Star Parasol.
+Generated text: Alan Shepard was born in New Hampshire and died in California. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
+
+Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. AD Isidro Metapan has 10000 members.
+Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense has 17000 members.
+
+Train text: Alan Shepard was born in New Hampshire but died in California. Alan Shepard was a crew member of Apollo 14.
+Generated text: Alan Shepard was born in New Hampshire and died in California. Alan Shepard was a crew member of Apollo 14.
+
+Train text: Aaron Turner's music is Post-metal. Aaron Turner is associated with the group Greymachine. Aaron Turner started performing in 1995.
+Generated text: Aaron Turner is a Post-metal musician. Aaron Turner is associated with the group Twilight (band). Aaron Turner started performing in 1995.
+
+Train text: Aaron Turner is associated with the group Greymachine. Aaron Bertram's musical genre is Ska punk. Aaron deer plays the bass guitar.
+Generated text: Aaron Turner is associated with the group Lotus Eaters (band). Aaron Turner's musical genre is Black metal. Aaron Turner played the Electric guitar.
+
+Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.
+Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense played in the 2015 Campeonato Brasileiro Série C season.
+
+Train text: Sweden is the birth place of Ace Wilder. Denmark's leader is Margrethe II of Denmark. Denmark's leader is Margrethe II of Denmark.
+Generated text: Turkey is the birth place of Nurhan Atasoy. Turkey's leader is Margrethe II of Turkey. Turkey's leader is Margrethe II of Turkey.
+
+Train text: STV broadcast Bananaman starring Bill Oddie. BBC is located in London.
+Generated text: BBC broadcast Bananaman starring Bill Oddie. BBC is located in London.
+
+Train text: The periapsis of (19255) 1994 VK8 is 6155910000000.0 and its epoch is on 31 December 2006. 1001 Gaussia has an orbital period of 5.75 days.
+Generated text: The epoch of 1147 Stavropolis is 31 July 2016 (JD2457600.5) and it has a periapsis of 260855000000.0. 1147 Stavropolis has an orbital period of 1249.6.
+
+Train text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league which is based in Brazil. Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.
+Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league which is based in Brazil. ''Alvinegro is the nickname for the Agremiação Sportiva Arapiraquense.
+
+Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Generated text: The Bedford Aerodrome is situated in the Thurleigh, is run by the MotorSport Vision and has a runway of 1095.0m.
+
+Train text: Alan Shepard was born in New Hampshire but died in California. The Senator representing California was Dianne Feinstein.
+Generated text: Alan Shepard was born in New Hampshire and died in California. The Senator representing California was Dianne Feinstein.
+
+Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the Madrid, is run by the ENAIRE and has a runway of 3500.0m.
+
+Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. French Guiana is the location of the Guiana Space Centre. ORAA is the ICAO location identifier of Al Asad Airbase.
+Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome. Thurleigh is the location of the Bedford Aerodrome. EGBF is the ICAO location identifier of Bedford Aerodrome.
+
+Train text: Agnes Ward White was the wife of Albert B. White who succeeded William M. O. Dawson, born in Bloomington, Maryland.
+Generated text: Casey Ribicoff was the wife of Abraham A. Ribicoff who succeeded Abraham A. Ribicoff, born in United States.
+
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. The Adolfo Suárez Madrid–Barajas Airport is in Paracuellos de Jarama.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. Adolfo Suárez Madrid–Barajas Airport is in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas.
+
+Train text: The title of the leader of Ann Arbor in Michigan is the City Manager. Adare is part of Munster. Adare is part of Munster.
+Generated text: The title of the leader in Ciudad Ayala is the City Manager. Ciudad Ayala is part of Morelos. Morelos is part of Cuernavaca.
+
+Train text: Sweden is the birth place of Ace Wilder. Sweden is the birth place of Ace Wilder. Alan Bean was a crew member on the Apollo 12 flight mission.
+Generated text: Zaoyang is the birth place of Nie Haisheng. Hubei is the birth place of Nie Haisheng. Nie Haisheng was a crew member on the Shenzhou 10 flight mission.
+
+Train text: The label Floating World Records signed Alison O'Donnell, who plays jazz music and is signed with the record label Deram Records.
+Generated text: Post-metal musician, Nord (Year of No Light album) was once signed to Crucial Blast and is signed to the record label E-Vinyl.
+
+Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, is run by the ENAIRE and has a runway of 3500.0m.
+
+Train text: Aaron Turner is associated with the group Greymachine. Aaron Bertram's musical genre is Ska punk. Aaron Turner started performing in 1995.
+Generated text: Aaron Turner is associated with the group Lotus Eaters (band). Aaron Turner's musical genre is Black metal. Aaron Turner started performing in 1995.
+
+Train text: Alfred Garth Jones was born in Manchester and he died in London. Aaron Bertram's birth date is 1981-04-03.
+Generated text: Olga Bondareva was born in Leningrad, USSR and died in Saint Petersburg. Olga Bondareva's birth date is 1937-04-27.
+
+Train text: The length of the runway at Aarhus Airport is 2776.0. Aarhus Airport serves the city of Aarhus, Denmark. French Guiana is the location of the Guiana Space Centre.
+Generated text: The length of the runway at Bedford Aerodrome is 1095.0. Bedford Aerodrome serves the city of Bedford Autodrome. Thurleigh is the location of the Bedford Aerodrome.
+
+Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
+Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
+
+Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. The nationality of William Anders is United States.
+Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Casey Ribicoff. The nationality of Abraham A. Ribicoff is United States.
+
+Train text: Alan Shepard was born in New Hampshire but died in California. Ace Wilder's occupation is a singer.
+Generated text: Alan Shepard was born in New Hampshire and died in California. Test pilot is Alan Shepard's occupation.
+
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
+
+Train text: Hypermarcas is located in Brazil. Hypermarcas produces cosmetics. Hypermarcas produces cosmetics.
+Generated text: The Hypermarcas is located in Brazil. Hypermarcas produces the Drugs. Hypermarcas produces the Healthcare.
+
+Train text: Hypermarcas is located in Brazil. Hypermarcas produces cosmetics. AmeriGas was founded on 1959-01-01.
+Generated text: The Hypermarcas is located in Brazil. Hypermarcas produces the Drugs. Hypermarcas was founded on 2001-01-01.
+
+Train text: AC Chievo Verona play in the Serie A league. AD Isidro Metapan has 10000 members. Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.
+Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense has 17000 members. ''Alvinegro is the nickname for the Agremiação Sportiva Arapiraquense.
+
+Train text: Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk. Aaron Turner is associated with the group Greymachine.
+Generated text: Death metal is a fusion genre of Black metal. Aaron Turner's musical genre is Black metal. Aaron Turner is associated with the group Old Man Gloom.
+
+Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. Abraham A Ribicoff died in New York City.
+Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Casey Ribicoff. Abraham A. Ribicoff died in New York City.
+
+Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the San Sebastián de los Reyes, is run by the ENAIRE and has a runway of 3500.0m.
+
+Train text: The nationality of William Anders is United States. Walter Baade was born in the German Empire. Aaron Bertram's birth date is 1981-04-03.
+Generated text: The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire. Liselotte Grschebina's birth date is 1908-05-02.
+
+Train text: 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion. The book "A Glastonbury Romance" was followed by "Weymouth Sands". The musical genre of Ace Wilder is hip hop music.
+Generated text: Expect a Miracle was preceded by Pools of Light (Brian Kelly album). The book "Expect a Miracle" was followed by "Afterplay (Brian Kelly album)". Expect a Miracle's musical genre is Instrumental music.
+
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. Adolfo Suárez Madrid–Barajas Airport is found in Madrid.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. The Adolfo Suárez Madrid–Barajas Airport is in Madrid.
+
+Train text: A Glastonbury Romance was published by The Bodley Head. The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. Virginia DeMarce is the author of 1634: The Ram Rebellion.
+Generated text: The Fellowship of the Ring was published by George Allen & Unwin. The novel The Fellowship of the Ring is followed by The Two Towers. J. R. R. Tolkien is the author of The Fellowship of the Ring.
+
+Train text: "The Secret Scripture" followed the book "A Long Long Way," which was preceded by "Annie Dunne". The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: "Imagine (John Lennon song)" followed the book "Mermaid (Train song)," which was preceded by "This'll Be My Year". The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)".
+
+Train text: The place of death for Alfred Garth Jones was Sidcup. The title of the leader of the United States is President of the United States. AmeriGas was founded on 1959-01-01.
+Generated text: Saint Petersburg is the death place of Olga Bondareva. The leader of the Saint Petersburg has the title President of the Saint Petersburg. Saint Petersburg was founded on 1703-05-27.
+
+Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which has a runway length of 2702.0. ORAA is the ICAO location identifier of Al Asad Airbase.
+Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome which has a runway length of 1095.0. EGBF is the ICAO location identifier of Bedford Aerodrome.
+
+Train text: The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. Virginia DeMarce is the author of 1634: The Ram Rebellion. A Glastonbury Romance was published by The Bodley Head.
+Generated text: The novel The Fellowship of the Ring is followed by The Two Towers. J. R. R. Tolkien is the author of The Fellowship of the Ring. The Two Towers was published by George Allen & Unwin.
+
+Train text: Anaheim, California (United States), is led by the California State Assembly.
+Generated text: The Ciudad Ayala (part of the Morelos), leads Ciudad Ayala, in the Mexico.
+
+Train text: Aaron Bertram's musical genre is Ska punk. Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk.
+Generated text: Turn Me On (album)'s musical genre is Punk blues. Noise pop is a fusion genre of Noise rock. Turn Me On (album)'s musical genre is Noise rock.
+
+Train text: The address of Akita Museum of Art is "1-4-2 Nakadori". Alan B. Miller Hall is situated in Virginia. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: The address of Alan B. Miller Hall is 101 Ukrop Way. Alan B. Miller Hall is located in Virginia. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk. Aaron Turner started performing in 1995.
+Generated text: Death metal is a fusion genre of Black metal. Aaron Turner's musical genre is Black metal. Aaron Turner started performing in 1995.
+
+Train text: The nationality of William Anders is United States. Walter Baade was born in the German Empire. Alan Shepard died on 1998-07-21.
+Generated text: The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire. Liselotte Grschebina died 1994-06-14.
+
+Train text: GMA New Media is located in the city of Quezon. GMA New Media produces mobile applications. Philippine Entertainment Portal is a subsidiary of GMA New Media.
+Generated text: The GMA New Media is located in Quezon City. World Wide Web is produced by GMA New Media. Philippine Entertainment Portal is a subsidiary of GMA New Media.
+

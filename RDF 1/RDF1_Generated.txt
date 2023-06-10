@@ -1,0 +1,819 @@
+Train text: Broadcasting House is the home of the BBC which is based in London.
+Generated text: Fawkham is the home of the MotorSport Vision which is based in London.
+
+Train text: Alan Shepard died on 1998-07-21.
+Generated text: Olga Bondareva died 1991-12-09.
+
+Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre.
+Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Piotr Hallmann's birth date is 1987-08-25.
+
+Train text: The area code of Anderson, Indiana, is 765.
+Generated text: The area code of Darlington, is 01325.
+
+Train text: Arabic is the official language of Iraq.
+Generated text: Modern Hebrew is the official language of the Israel.
+
+Train text: French Guiana is the location of the Guiana Space Centre.
+Generated text: Philippines is the location of the Chinabank.
+
+Train text: Eric Flint was influenced by Robert A. Heinlein.
+Generated text: Darinka Dentcheva was influenced by Andrzej Piotr Ruszczyński.
+
+Train text: Abraham A. Ribicoff is married to Ruth Ribicoff.
+Generated text: Lady Anne Monson is married to George Monson.
+
+Train text: Anaheim, California has a UTC offset of - 7.
+Generated text: Gdynia, Poland has a UTC offset of +2.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of Detroit is 370.03.
+
+Train text: GMA New Media is located in the city of Quezon.
+Generated text: The GMA New Media is located in GMA Network Center.
+
+Train text: Tim Brooke-Taylor starred in Bananaman.
+Generated text: Cecil Parker starred in It's Great to Be Young (1956 film).
+
+Train text: Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: Ray Griggs (director) is the director of the Super Capers.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: Expect a Miracle's musical genre is Easy listening.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book 1969: The Velvet Underground Live followed the book "Squeeze (The Velvet Underground album)".
+
+Train text: King of Prussia, Pennsylvania is in the North American Eastern time zone.
+Generated text: The time zone for Gdynia, Poland is the Central European Summer Time.
+
+Train text: The nationality of William Anders is United States.
+Generated text: The nationality of Nurhan Atasoy is Turkish people.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Hubei is the birth place of Nie Haisheng.
+
+Train text: Alternative rock has the sub genre Christian alternative rock.
+Generated text: Sludge metal has the sub genre Southern sludge.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Gdynia, Poland has the title President of the Gdynia, Poland.
+
+Train text: The inhabitants of Texas have the demonym Texan.
+Generated text: The inhabitants of Turkey have the demonym Turk.
+
+Train text: The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.
+Generated text: The Fellowship of the Ring is considered Fantasy (genre).
+
+Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre.
+Generated text: The population density of Israel is 387.63 per square kilometer.
+
+Train text: 10L/28R is the runway name of the Aarhus Airport.
+Generated text: 08/26 is the runway name of the Bedford Aerodrome.
+
+Train text: The type of government in the United States is federalism.
+Generated text: Unitary state is the type of government in the Kingdom of England.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of India is the leader of India.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: The Velvet Underground's musical genre is Proto-punk.
+
+Train text: Ace Wilder is signed to the record label Warner Music Group.
+Generated text: Bootleg Series Volume 1: The Quine Tapes is signed to the record label Universal Music Group.
+
+Train text: Hip hop music has its origins in Disco.
+Generated text: Pop rock has its origins in Rock music.
+
+Train text: Adam McQuaid was born in 1986.
+Generated text: Adam West was born in 1928.
+
+Train text: Aarhus Airport serves the city of Aarhus, Denmark.
+Generated text: Bedford Aerodrome serves the city of Bedford Autodrome.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: Take It Off!'s musical genre is Noise rock.
+
+Train text: Alfred Garth Jones died in around 1944.
+Generated text: Grigory Neujmin died on 1946-12-17.
+
+Train text: Rona Fairhead was a key person at the BBC.
+Generated text: Lucian Grainge was a key person at the Universal Music Group.
+
+Train text: Adam Koc was awarded the Officer's Star Parasol.
+Generated text: Nurhan Atasoy was awarded the State Award for Superior Achievement.
+
+Train text: Denmark's leader is Margrethe II of Denmark.
+Generated text: Israel's leader is Margrethe II of Israel.
+
+Train text: Aaron Deer is a performer of the music genre Indie rock.
+Generated text: The Honeymoon Killers (American band) performs Noise rock music.
+
+Train text: Aaron deer plays the bass guitar.
+Generated text: Punk blues played the Drum kit.
+
+Train text: Arabic is the official language of Iraq.
+Generated text: Modern Standard Arabic is the official language of the Israel.
+
+Train text: Albert B. White's year of death was 1941.
+Generated text: John Mills's year of death was 2005.
+
+Train text: Universal Music group is the parent company of Philips Records.
+Generated text: The Universal Music Group is the parent company of Polydor Records.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book Turn Me On (album) followed the book "Let It Breed".
+
+Train text: Aquilino Pimentel III is the leader of Philippines.
+Generated text: Leni Robredo is the leader of Philippines.
+
+Train text: The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.
+Generated text: The number of undergraduates attending the University of Burgundy is roughly 16800 students.
+
+Train text: There are 600 students at the Accademia di Architettura di Mendrisio.
+Generated text: There are 27400 students at the University of Burgundy.
+
+Train text: Ace Wilder is signed to the record label Warner Music Group.
+Generated text: Mermaid (Train song) is signed to the record label Sony Music Entertainment.
+
+Train text: Uruguayan peso is the currency in Uruguay.
+Generated text: German Empirean peso is the currency in German Empire.
+
+Train text: Albert B. White's year of death was 1941.
+Generated text: Terence Rattigan's year of death was 1977-01-01.
+
+Train text: One of John Cowper Powys notable works is Owen Glendower.
+Generated text: A notable work of J. R. R. Tolkien is The Silmarillion.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Israel has the title President of the Israel.
+
+Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres).
+Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0.
+
+Train text: Alison O'Donnell is associated with the band The Owl Service.
+Generated text: The Velvet Underground is associated with the band Theatre of Eternal Music.
+
+Train text: Hip hop music has its origins in Disco.
+Generated text: Noise rock has its origins in Noise music.
+
+Train text: The nationality of William Anders is United States.
+Generated text: The nationality of Nie Haisheng is People's Republic of China.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: J. R. R. Tolkien's birth date is 1892-01-03.
+
+Train text: Aaron deer plays the bass guitar.
+Generated text: Post-metal played the Synthesizer.
+
+Train text: Al Anderson is in NRBQ band and their genre is Rock music.
+Generated text: Bootleg Series Volume 1: The Quine Tapes's genre is Rock music.
+
+Train text: Curitiba is part of Parana state.
+Generated text: Manila is part of Metro Manila.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book Imagine (John Lennon song) followed the book "Mermaid (Train song)".
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Nurhan Atasoy's birth date is 1934-01-01.
+
+Train text: Agnes Kant was a resident of Doesburg.
+Generated text: Darinka Dentcheva was a resident of New Jersey.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book The Lord of the Rings followed the book "The Hobbit".
+
+Train text: Uruguayan peso is the currency in Uruguay.
+Generated text: German Empirean peso is the currency in German Empire.
+
+Train text: Alison O'Donnell is signed to the record label of Floating World Records.
+Generated text: Nord (Year of No Light album) is signed to the record label E-Vinyl.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Turkey has the title President of the Turkey.
+
+Train text: The inhabitants of Texas have the demonym of Tejano.
+Generated text: The inhabitants of United States have the demonym of American.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Terence Rattigan's birth date is 1911-01-01.
+
+Train text: Bob McNair is the owner of the Houston Texans.
+Generated text: Time Warner is the owner of the HBO.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of Petah Tikva is the leader of Petah Tikva.
+
+Train text: Al Anderson is in NRBQ band and their genre is Rock music.
+Generated text: Squeeze (The Velvet Underground album)'s genre is Rock music.
+
+Train text: The main language spoken on Alderney is English.
+Generated text: The English language is spoken in New Jersey.
+
+Train text: Greenville, Wisconsin is part of Clayton, Winnebago County, Wisconsin.
+Generated text: La Crosse, Wisconsin is part of La Crosse County, Wisconsin.
+
+Train text: The total population of Anaheim California is 336265.
+Generated text: The total population of United States is 324720797.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of San Francisco is the leader of San Francisco.
+
+Train text: Chicago is part of Illinois.
+Generated text: Detroit is part of Michigan.
+
+Train text: The celestial body known as (66063) 1998 RO1 was formerly called 1999 SN5.
+Generated text: The celestial body known as HBO was formerly called The Green Channel.
+
+Train text: The Philippines' time zone is Philippine Standard Time.
+Generated text: The time zone for the Ciudad Ayala is Pacific Standard Time Zone.
+
+Train text: The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.
+Generated text: The Hobbit is considered Juvenile fantasy.
+
+Train text: Abilene is part of Jones County, Texas.
+Generated text: Detroit is part of Wayne County, Michigan.
+
+Train text: The place of death for Alfred Garth Jones was Sidcup.
+Generated text: Petah Tikva is the death place of Liselotte Grschebina.
+
+Train text: The musical genre of Ace Wilder is hip hop music.
+Generated text: Expect a Miracle's musical genre is Instrumental music.
+
+Train text: Abraham A. Ribicoff is married to Ruth Ribicoff.
+Generated text: Tom Sizemore is married to Maeve Quinlan.
+
+Train text: The Philippines' time zone is Philippine Standard Time.
+Generated text: The time zone for the Gdynia, Poland is Central European Time.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of Morelos is the leader of Morelos.
+
+Train text: 806 is the area code for Amarillo, Texas.
+Generated text: The area code for Tokat is +90 356.
+
+Train text: Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6.
+Generated text: The distributor of Super Capers is Roadside Attractions.
+
+Train text: Maine is the birth place of Aaron S. Daggett.
+Generated text: The birth place of Lady Anne Monson is Darlington.
+
+Train text: Alternative rock has the sub genre Christian alternative rock.
+Generated text: Rock music has the sub genre Proto-punk.
+
+Train text: The successor of the Aston Martin DBS is the Aston Martin Vantage.
+Generated text: The successor of the Pontiac automobile was the Buick.
+
+Train text: The inhabitants of Texas have the demonym of Tejano.
+Generated text: The inhabitants of India have the demonym of Indian.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: Turn Me On (album)'s musical genre is Punk blues.
+
+Train text: 1634: The Bavarian Crisis was preceded by 1634: The Baltic War.
+Generated text: Mermaid (Train song) was preceded by This'll Be My Year.
+
+Train text: Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: Sarah Teale is the director of the Death on a Factory Farm.
+
+Train text: Ampara Hospital is located in the region of Ampara District.
+Generated text: Darlington is located in the region of North East England.
+
+Train text: The established religion in England is The Church of England.
+Generated text: The established religion in Turkish people is The Church of Turkish people.
+
+Train text: Albennie Jones year of birth was 1914.
+Generated text: Michael Rooker year of birth was 1955-01-01.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the India has the title President of the India.
+
+Train text: Aaron Turner started performing in 1995.
+Generated text: Tom Sizemore started performing in 1989-01-01.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the India has the title President of the India.
+
+Train text: Anaheim, California has a UTC offset of - 7.
+Generated text: San Francisco has a UTC offset of &minus;7.
+
+Train text: England is the birth place of Tim Brooke-Taylor.
+Generated text: England is the birthplace of Brandon Carter.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of Morelos is 4879.0.
+
+Train text: The type of government in the United States is federalism.
+Generated text: Council-manager government is the type of government in the Ciudad Ayala.
+
+Train text: Buzz Aldrin was born with the name Edwin Eugene Aldrin Jr.
+Generated text: Olga Bondareva was born with the name Olga Nikolaevna Bondareva
+
+Train text: Rona Fairhead was a key person at the BBC.
+Generated text: Michael R. Burns was a key person at the Lionsgate.
+
+Train text: Anaheim, California has a UTC offset of - 7.
+Generated text: Ciudad Ayala has a UTC offset of −6.
+
+Train text: Adam McQuaid weighs 94.8024 kilograms.
+Generated text: Piotr Hallmann weighs 70.308.
+
+Train text: The total area of the United States covered by water is 6.97 percent.
+Generated text: The total area of the Turkey covered by water is 1.3 percent.
+
+Train text: Anaheim, California has a UTC offset of - 7.
+Generated text: Istanbul has a UTC offset of +2.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Zaoyang is the birth place of Nie Haisheng.
+
+Train text: The total population of Anaheim California is 336265.
+Generated text: The total population of India is 1293057000.
+
+Train text: Abilene is part of Texas.
+Generated text: Zaoyang is part of Hubei.
+
+Train text: Antwerp is in the country of Belgium.
+Generated text: Tokat is located in the country of Turkey.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Leningrad, USSR is the birth place of Olga Bondareva.
+
+Train text: A Glastonbury Romance was preceded By Wolf Solent.
+Generated text: Take It Off! was preceded by Turn Me On (album).
+
+Train text: The place of death for Alfred Garth Jones was Sidcup.
+Generated text: Denham, Buckinghamshire is the death place of John Mills.
+
+Train text: 1036 Ganymed was discovered by Walter Baade.
+Generated text: 1147 Stavropolis was discovered by Grigory Neujmin.
+
+Train text: Jill Shilling starred in Bananaman.
+Generated text: Adam West starred in Super Capers.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book The Return of the King followed the book "The Two Towers".
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Jamie Lawrence's birth date is 1970-03-08.
+
+Train text: Aaron deer plays the bass guitar.
+Generated text: Sludge metal played the Singing.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Michael Rooker's birth date is 1955-04-06.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of Mexico is 1972550.0.
+
+Train text: Alternative rock has the sub genre Christian alternative rock.
+Generated text: Sludge metal has the sub genre Stoner sludge.
+
+Train text: The AMC Matador was assembled in Mexico.
+Generated text: Pontiac Rageous was assembled in the Detroit.
+
+Train text: AmeriGas is located in the country of the United States.
+Generated text: The University of Burgundy is located in the France.
+
+Train text: Broadcasting House is the home of the BBC which is based in London.
+Generated text: Kent is the home of the MotorSport Vision which is based in London.
+
+Train text: Alison O'Donnell is signed to the record label of Floating World Records.
+Generated text: Mermaid (Train song) is signed to the record label Columbia Records.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Grigory Neujmin's birth date is 1886-01-01.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of Ciudad Ayala is the leader of Ciudad Ayala.
+
+Train text: GMA New Media produces mobile applications.
+Generated text: Online Game is produced by GMA New Media.
+
+Train text: Alternative rock has the sub genre Christian alternative rock.
+Generated text: Pop rock has the sub genre Indie pop.
+
+Train text: Aaron Turner is a performer of the musical genre Post metal.
+Generated text: Nord (Year of No Light album) genre of music is Sludge metal.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: Train (band)'s musical genre is Pop rock.
+
+Train text: Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6.
+Generated text: The distributor of McVeagh of the South Seas is Alliance Films Corporation.
+
+Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport.
+Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome.
+
+Train text: Walter Baade was born in the German Empire.
+Generated text: Liselotte Grschebina was born in German Empire.
+
+Train text: Aaron Bertram's musical genre is Ska punk.
+Generated text: Turn Me On (album)'s musical genre is Noise rock.
+
+Train text: The leader of the United States has the title President of the United States.
+Generated text: President of the Senate is the title of the leader of Mexico.
+
+Train text: Aarhus Airport is 25 metres above sea level.
+Generated text: Dijon is 245.0 metres above the sea level.
+
+Train text: Hip hop music has its origins in Disco.
+Generated text: Reggae has its origins in Rhythm and Blues.
+
+Train text: Jill Shilling starred in Bananaman.
+Generated text: Justin Whalin starred in Super Capers.
+
+Train text: Penguin Random House is the parent company of Viking Press.
+Generated text: GMA Network (company) is the parent company of GMA New Media.
+
+Train text: Ícolo e bengo is part of Luanda Province.
+Generated text: Reşadiye is a part of the Tokat Province.
+
+Train text: Lahore is located in Pakistan.
+Generated text: Petah Tikva is located in Israel.
+
+Train text: Aaron Turner started performing in 1995.
+Generated text: Harold French started performing in 1920-01-01.
+
+Train text: Nu metal is a music fusion genre of alternative rock.
+Generated text: Noise pop is a fusion genre of Noise rock.
+
+Train text: The book "A Glastonbury Romance" was followed by "Weymouth Sands".
+Generated text: The book "Live at Roadburn 2008 (Year of No Light album)" was followed by "Karysun / Year of No Light".
+
+Train text: In Japan there is an ethnic group of Chinese people.
+Generated text: There is an ethnic group of Vietnamese people in Israel.
+
+Train text: Drum and bass is a derivative of Hip hop music.
+Generated text: Post-hardcore is a derivative of Noise rock.
+
+Train text: The place of death for Alfred Garth Jones was Sidcup.
+Generated text: London is the death place of Anatole de Grunwald.
+
+Train text: The number of employees working at Chinabank is 5594.
+Generated text: The number of employees working at AmeriGas is 8500.
+
+Train text: Drum and bass is a derivative of Hip hop music.
+Generated text: Hip hop music is a derivative of Reggae.
+
+Train text: Aaron Turner started performing in 1995.
+Generated text: Adam West started performing in 1954-01-01.
+
+Train text: AmeriGas is located in the country of the United States.
+Generated text: The University of Cambridge is located in the England.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)".
+
+Train text: 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.
+Generated text: Expect a Miracle was preceded by Pools of Light (Brian Kelly album).
+
+Train text: Chicago is part of Illinois.
+Generated text: Zaoyang is part of Xiangyang.
+
+Train text: Broadcasting House is the home of the BBC which is based in London.
+Generated text: Longfield is the home of the MotorSport Vision which is based in London.
+
+Train text: The elevation above the sea level (in metres) of Agra Airport is 167.94.
+Generated text: Bedford Aerodrome elevation above the sea level in metres is 83.2104.
+
+Train text: 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.
+Generated text: The Two Towers was preceded by The Fellowship of the Ring.
+
+Train text: The length of the runway at Aarhus Airport is 2776.0.
+Generated text: The length of the runway at Bedford Aerodrome is 1095.0.
+
+Train text: Ace Wilder is signed to the record label Warner Music Group.
+Generated text: Train (band) is signed to the record label Warner Music Group.
+
+Train text: The musical genre of Ace Wilder is hip hop music.
+Generated text: Imagine (John Lennon song)'s musical genre is Pop music.
+
+Train text: Adare is part of Munster.
+Generated text: Ciudad Ayala is part of Morelos.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Turkey has the title President of the Turkey.
+
+Train text: AmeriGas was founded on 1959-01-01.
+Generated text: German Empire was founded on 1871-01-01.
+
+Train text: 700 students are enrolled in a post-graduate program at Acharya Institute of Technology.
+Generated text: 9400 students are enrolled in a post-graduate program at University of Burgundy.
+
+Train text: Alfred Garth Jones was born in the United Kingdom.
+Generated text: Lady Anne Monson was born in the Kingdom of England.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Reşadiye is the birth place of Nurhan Atasoy.
+
+Train text: AmeriGas was founded on 1959-01-01.
+Generated text: India was founded on 1950-01-26.
+
+Train text: The operating income earned by AmeriGas is 380700000.
+Generated text: The operating income of Trane is 875400000.
+
+Train text: The title of the leader of Ann Arbor in Michigan is the City Manager.
+Generated text: The title of the leader in La Crosse, Wisconsin is the Mayor.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Wharton Tiers's birth date is 1953-01-01.
+
+Train text: ORAA is the ICAO location identifier of Al Asad Airbase.
+Generated text: EGBF is the ICAO location identifier of Bedford Aerodrome.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Karlsruhe has the title President of the Karlsruhe.
+
+Train text: A Glastonbury Romance was published by The Bodley Head.
+Generated text: The Fellowship of the Ring was published by George Allen & Unwin.
+
+Train text: Abraham A. Ribicoff is married to Ruth Ribicoff.
+Generated text: John Mills is married to Aileen Raymond.
+
+Train text: Walter Baade's alma mater was the University of Gottingen.
+Generated text: Olga Bondareva's Alma mater is Leningrad State University.
+
+Train text: Chinabank offers banking service.
+Generated text: Lionsgate is a company that offers Digital distribution services.
+
+Train text: Nu metal is a music fusion genre of alternative rock.
+Generated text: Noise rock is a fusion genre of Rock music.
+
+Train text: Margrethe II of Denmark is the leader of Denmark.
+Generated text: Margrethe II of Mexico is the leader of Mexico.
+
+Train text: The book "A Glastonbury Romance" was followed by "Weymouth Sands".
+Generated text: The book "Nord (Year of No Light album)" was followed by "Live at Roadburn 2008 (Year of No Light album)".
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of Karlsruhe is 173.46.
+
+Train text: Ahmet Ertegun's background is non performing personnel.
+Generated text: Nicholas Brodszky has a background as a non performing personnel.
+
+Train text: 1634: The Bavarian Crisis was preceded by Grantville Gazette II.
+Generated text: Imagine (John Lennon song) was preceded by Power to the People (song).
+
+Train text: French Guiana is the location of the Guiana Space Centre.
+Generated text: Thurleigh is the location of the Bedford Aerodrome.
+
+Train text: Eberhard van der Laan is the name of the leader of Amsterdam.
+Generated text: Georgy Poltavchenko is the name of the leader of Saint Petersburg.
+
+Train text: Caterpillar Inc is located in the United States.
+Generated text: Lionsgate is located in United States.
+
+Train text: AIP Advances editors include the following: Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang.
+Generated text: The editor of Death on a Factory Farm is Geof Bartz.
+
+Train text: Nu metal is a music fusion genre of alternative rock.
+Generated text: Baroque pop is a fusion genre of Pop rock.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Liselotte Grschebina's birth date is 1908-05-02.
+
+Train text: (15788) 1993 SB has a periapsis of 3997100000000.0.
+Generated text: 1147 Stavropolis has a periapsis of 260855000000.0.
+
+Train text: Aarhus Airport is 25.0 metres above the sea level.
+Generated text: The Karlsruhe is 115.0 metres above sea level.
+
+Train text: The main language spoken on Alderney is English.
+Generated text: The English language is spoken in Super Capers.
+
+Train text: Aaron Turner is associated with the group Greymachine.
+Generated text: Year of No Light is associated with the group Monarch (band).
+
+Train text: Hip hop music has its origins in Disco.
+Generated text: Punk blues has its origins in Garage rock.
+
+Train text: The manufacturer of the 1955 Dodge is the company Dodge.
+Generated text: The manufacturer of the Pontiac Rageous is the company Pontiac.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Olga Bondareva's birth date is 1937-04-27.
+
+Train text: Chinabank offers banking service.
+Generated text: Lionsgate is a company that offers Broadcast programming services.
+
+Train text: Aaron Turner is a performer of the musical genre Post metal.
+Generated text: Nord (Year of No Light album) genre of music is Post-metal.
+
+Train text: 1634: The Bavarian Crisis was preceded by DeMarce short stories in the Grantville Gazettes.
+Generated text: Bootleg Series Volume 1: The Quine Tapes is preceded by Squeeze (The Velvet Underground album).
+
+Train text: The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.
+Generated text: The motto of the United States is 'In God we trust.'.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Darinka Dentcheva's birth date is 1958-01-01.
+
+Train text: Rona Fairhead was a key person at the BBC.
+Generated text: CEO was a key person at the Hypermarcas.
+
+Train text: Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: Harold French is the director of the English Without Tears.
+
+Train text: The area code of Anderson, Indiana, is 765.
+Generated text: The area code of San Francisco, is 628.
+
+Train text: The book "A Glastonbury Romance" was followed by "Weymouth Sands".
+Generated text: The book "Expect a Miracle" was followed by "Afterplay (Brian Kelly album)".
+
+Train text: 1634: The Bavarian Crisis was preceded by Grantville Gazette II.
+Generated text: Let It Breed was preceded by Love American Style (album).
+
+Train text: Lahore is located in Pakistan.
+Generated text: Reşadiye is located in Turkey.
+
+Train text: Rona Fairhead was a key person at the BBC.
+Generated text: Jon Feltheimer was a key person at the Lionsgate.
+
+Train text: The place of death for Alfred Garth Jones was Sidcup.
+Generated text: London is the death place of Max Benedict.
+
+Train text: The Philippines' time zone is Philippine Standard Time.
+Generated text: The time zone for the Istanbul is Eastern European Time.
+
+Train text: The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: The book Take It Off! followed the book "Turn Me On (album)".
+
+Train text: Alison O'Donnell is signed to the record label of Floating World Records.
+Generated text: Nord (Year of No Light album) is signed to the record label Crucial Blast.
+
+Train text: Ab Klink's alma mater is Leiden University.
+Generated text: Humboldt University is Darinka Dentcheva's almaMater.
+
+Train text: Tim Brooke-Taylor starred in Bananaman.
+Generated text: Michael Rooker starred in Super Capers.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Ciudad Ayala has the title President of the Ciudad Ayala.
+
+Train text: The 1955 Dodge has a sedan style body.
+Generated text: The Pontiac Rageous's body style is Coupe.
+
+Train text: The elevation above the sea level (in metres) of Agra Airport is 167.94.
+Generated text: La Crosse, Wisconsin elevation above the sea level in metres is 204.0.
+
+Train text: The Philippines' time zone is Philippine Standard Time.
+Generated text: The time zone for the Ciudad Ayala is Pacific Daylight Time.
+
+Train text: Universal Music group is the parent company of Philips Records.
+Generated text: The General Motors is the parent company of Pontiac.
+
+Train text: Anaheim, California has a UTC offset of - 7.
+Generated text: Zaoyang has a UTC offset of +8.
+
+Train text: Aaron Turner started performing in 1995.
+Generated text: Max Benedict started performing in 1947-01-01.
+
+Train text: Abraham A. Ribicoff's spouse was Casey Ribicoff.
+Generated text: John Mills's spouse was Mary Hayley Bell.
+
+Train text: Alan Shepard died on 1998-07-21.
+Generated text: Lady Anne Monson died 1776-02-18.
+
+Train text: Scotland is the birth place of Alan Frew.
+Generated text: The birth place of Justin Whalin is San Francisco.
+
+Train text: The title of the leader of the United States is President of the United States.
+Generated text: The leader of the Morelos has the title President of the Morelos.
+
+Train text: Robert Gates is the chancellor of the College of William & Mary.
+Generated text: David Sainsbury, Baron Sainsbury of Turville is the chancellor of the University of Cambridge.
+
+Train text: David Weber is the author of 1634: The Baltic War.
+Generated text: J. R. R. Tolkien is the author of The Two Towers.
+
+Train text: Agnes Kant was a resident of Doesburg.
+Generated text: Nurhan Atasoy was a resident of Teşvikiye.
+
+Train text: Ace Wilder's occupation is a singer.
+Generated text: Presenter is Justin Whalin's occupation.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: United Kingdom is the birth place of Cyril Frankel.
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: UK is the birth place of Harold French.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of Gdynia, Poland is 135000000.0.
+
+Train text: The nationality of William Anders is United States.
+Generated text: The nationality of Liselotte Grschebina is Israel.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of New Jersey is 22591.38.
+
+Train text: Tim Brooke-Taylor starred in Bananaman.
+Generated text: Tom Lister, Jr. starred in Super Capers.
+
+Train text: GMA New Media produces mobile applications.
+Generated text: Automobile is produced by Pontiac.
+
+Train text: President of the Supreme Federal Court is one of the leaders in Brazil.
+Generated text: The Federal Chancellor of Brazil is the title of the leader of Brazil.
+
+Train text: Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: Cyril Frankel is the director of the It's Great to Be Young (1956 film).
+
+Train text: Ace Wilder's occupation is a singer.
+Generated text: Film director is Harold French's occupation.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of United States is 9833520000000.0.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Lady Anne Monson's birth date is 1726-01-01.
+
+Train text: Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: Tom Simon is the director of the Death on a Factory Farm.
+
+Train text: The title of the leader of Ann Arbor in Michigan is the City Manager.
+Generated text: The title of the leader in Ciudad Ayala is the City Manager.
+
+Train text: There are 14.2 square kilometers of water in Abilene, Texas.
+Generated text: The area of water in New Jersey, is 3544040000.0.
+
+Train text: Ace Wilder's occupation is a singer.
+Generated text: Television director is Cyril Frankel's occupation.
+
+Train text: A Glastonbury Romance was published by The Bodley Head.
+Generated text: The Two Towers was published by George Allen & Unwin.
+
+Train text: The place of death for Alfred Garth Jones was Sidcup.
+Generated text: Saint Petersburg is the death place of Olga Bondareva.
+
+Train text: Agnes Kant was a resident of Doesburg.
+Generated text: Nurhan Atasoy was a resident of Turkey.
+
+Train text: Alan Shepard died on 1998-07-21.
+Generated text: Terence Rattigan died 1977-11-30.
+
+Train text: French is the official language of Belgium.
+Generated text: The official language of Turkey is Turkish language.
+
+Train text: The number of employees working at Chinabank is 5594.
+Generated text: The number of employees working at Hypermarcas is 10252.
+
+Train text: The AMC Matador was assembled in Mexico.
+Generated text: Pontiac Rageous was assembled in the Michigan.
+
+Train text: AmeriGas was founded on 1959-01-01.
+Generated text: Saint Petersburg was founded on 1703-05-27.
+
+Train text: Aaron Boogaard's height is 1.905 metres.
+Generated text: Piotr Hallmann's height is 175.26 metres.
+
+Train text: The total population of Anaheim California is 336265.
+Generated text: The total population of Darlington is 106000.
+
+Train text: Aaron Bertram's birth date is 1981-04-03.
+Generated text: Nie Haisheng's birth date is 1964-10-13.
+
+Train text: 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.
+Generated text: Nord (Year of No Light album) was preceded by Demo 2004 (Year of No Light album).
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Saint Petersburg is the birth place of Anatole de Grunwald.
+
+Train text: The novel 1634: The Bavarian Crisis is followed by Ring of Fire II.
+Generated text: The novel The Fellowship of the Ring is followed by The Two Towers.
+
+Train text: Aaron Bertram is an artist with the band Kids Imagine Nation.
+Generated text: Year of No Light is an artist with the band Altar of Plagues.
+
+Train text: The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.
+Generated text: The Hobbit is considered High fantasy.
+
+Train text: 1001 Gaussia has an orbital period of 5.75 days.
+Generated text: 1147 Stavropolis has an orbital period of 1249.6.
+
+Train text: Adare is part of Munster.
+Generated text: Morelos is part of Cuernavaca.
+
+Train text: Alan Shepard died on 1998-07-21.
+Generated text: Liselotte Grschebina died 1994-06-14.
+
+Train text: The total area of Akron Ohio is 161.54 Sq Km.
+Generated text: The total area of India is 3287590000000.0.
+
+Train text: The celestial body known as 1001 Gaussia has an absolute magnitude of 9.7.
+Generated text: The celestial body known as 1147 Stavropolis has an absolute magnitude of 11.5.
+
+Train text: The leader of the United States has the title President of the United States.
+Generated text: President of the Chamber of Deputies is the title of the leader of Mexico.
+
+Train text: Jill Shilling starred in Bananaman.
+Generated text: John Mills starred in It's Great to Be Young (1956 film).
+
+Train text: Sweden is the birth place of Ace Wilder.
+Generated text: Turkey is the birth place of Nurhan Atasoy.
+

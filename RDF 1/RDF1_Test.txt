@@ -1,0 +1,1845 @@
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Fawkham']
+subject: MotorSport Vision
+predicate: city
+object: Fawkham
+
+Triple: ['__subject__ Olga Bondareva __predicate__ deathDate __object__ 1991-12-09']
+subject: Olga Bondareva
+predicate: deathDate
+object: 1991-12-09
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0']
+subject: Ciudad Ayala
+predicate: populationDensity
+object: 1604.0
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ birthDate __object__ 1987-08-25']
+subject: Piotr Hallmann
+predicate: birthDate
+object: 1987-08-25
+
+Triple: ['__subject__ Darlington __predicate__ areaCode __object__ 01325']
+subject: Darlington
+predicate: areaCode
+object: 01325
+
+Triple: ['__subject__ Israel __predicate__ officialLanguage __object__ Modern Hebrew']
+subject: Israel
+predicate: officialLanguage
+object: Modern Hebrew
+
+Triple: ['__subject__ Chinabank __predicate__ location __object__ Philippines']
+subject: Chinabank
+predicate: location
+object: Philippines
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ influencedBy __object__ Andrzej Piotr Ruszczyński']
+subject: Darinka Dentcheva
+predicate: influencedBy
+object: Andrzej Piotr Ruszczyński
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ spouse __object__ George Monson']
+subject: Lady Anne Monson
+predicate: spouse
+object: George Monson
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ utcOffset __object__ +2']
+subject: Gdynia, Poland
+predicate: utcOffset
+object: +2
+
+Triple: ['__subject__ Detroit __predicate__ areaTotal __object__ 370.03']
+subject: Detroit
+predicate: areaTotal
+object: 370.03
+
+Triple: ['__subject__ GMA New Media __predicate__ location __object__ GMA Network Center']
+subject: GMA New Media
+predicate: location
+object: GMA Network Center
+
+Triple: ['__subject__ Olga Bondareva __predicate__ professionalField __object__ Economics']
+subject: Olga Bondareva
+predicate: professionalField
+object: Economics
+
+Triple: ['__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas Brodszky']
+subject: English Without Tears
+predicate: musicComposer
+object: Nicholas Brodszky
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker"]
+subject: It's Great to Be Young (1956 film)
+predicate: starring
+object: Cecil Parker
+
+Triple: ['__subject__ Super Capers __predicate__ director __object__ Ray Griggs (director)']
+subject: Super Capers
+predicate: director
+object: Ray Griggs (director)
+
+Triple: ['__subject__ Expect a Miracle __predicate__ genre __object__ Easy listening']
+subject: Expect a Miracle
+predicate: genre
+object: Easy listening
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ followedBy __object__ 1969: The Velvet Underground Live']
+subject: Squeeze (The Velvet Underground album)
+predicate: followedBy
+object: 1969: The Velvet Underground Live
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ timeZone __object__ Central European Summer Time']
+subject: Gdynia, Poland
+predicate: timeZone
+object: Central European Summer Time
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ nationality __object__ Turkish people']
+subject: Nurhan Atasoy
+predicate: nationality
+object: Turkish people
+
+Triple: ['__subject__ Brandon Carter __predicate__ professionalField __object__ General relativity']
+subject: Brandon Carter
+predicate: professionalField
+object: General relativity
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthPlace __object__ Hubei']
+subject: Nie Haisheng
+predicate: birthPlace
+object: Hubei
+
+Triple: ['__subject__ English Without Tears __predicate__ producer __object__ Anatole de Grunwald']
+subject: English Without Tears
+predicate: producer
+object: Anatole de Grunwald
+
+Triple: ['__subject__ Sludge metal __predicate__ musicSubgenre __object__ Southern sludge']
+subject: Sludge metal
+predicate: musicSubgenre
+object: Southern sludge
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ leaderTitle __object__ Mayor']
+subject: Gdynia, Poland
+predicate: leaderTitle
+object: Mayor
+
+Triple: ['__subject__ Darlington __predicate__ postalCode __object__ DL1, DL2, DL3']
+subject: Darlington
+predicate: postalCode
+object: DL1, DL2, DL3
+
+Triple: ['__subject__ Turkey __predicate__ demonym __object__ Turk']
+subject: Turkey
+predicate: demonym
+object: Turk
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ literaryGenre __object__ Fantasy (genre)']
+subject: The Fellowship of the Ring
+predicate: literaryGenre
+object: Fantasy (genre)
+
+Triple: ['__subject__ Israel __predicate__ populationDensity __object__ 387.63']
+subject: Israel
+predicate: populationDensity
+object: 387.63
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwayName __object__ 08/26']
+subject: Bedford Aerodrome
+predicate: runwayName
+object: 08/26
+
+Triple: ['__subject__ Kingdom of England __predicate__ governmentType __object__ Unitary state']
+subject: Kingdom of England
+predicate: governmentType
+object: Unitary state
+
+Triple: ['__subject__ India __predicate__ leader __object__ Pranab Mukherjee']
+subject: India
+predicate: leader
+object: Pranab Mukherjee
+
+Triple: ['__subject__ The Velvet Underground __predicate__ genre __object__ Proto-punk']
+subject: The Velvet Underground
+predicate: genre
+object: Proto-punk
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordLabel __object__ Universal Music Group']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: recordLabel
+object: Universal Music Group
+
+Triple: ['__subject__ Pop rock __predicate__ stylisticOrigin __object__ Rock music']
+subject: Pop rock
+predicate: stylisticOrigin
+object: Rock music
+
+Triple: ['__subject__ Take It Off! __predicate__ producer __object__ The Honeymoon Killers (American band)']
+subject: Take It Off!
+predicate: producer
+object: The Honeymoon Killers (American band)
+
+Triple: ['__subject__ Adam West __predicate__ birthYear __object__ 1928']
+subject: Adam West
+predicate: birthYear
+object: 1928
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ cityServed __object__ Bedford Autodrome']
+subject: Bedford Aerodrome
+predicate: cityServed
+object: Bedford Autodrome
+
+Triple: ['__subject__ Take It Off! __predicate__ genre __object__ Noise rock']
+subject: Take It Off!
+predicate: genre
+object: Noise rock
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ writer __object__ Ted Willis"]
+subject: It's Great to Be Young (1956 film)
+predicate: writer
+object: Ted Willis
+
+Triple: ['__subject__ HBO __predicate__ sisterStation __object__ Cinemax']
+subject: HBO
+predicate: sisterStation
+object: Cinemax
+
+Triple: ['__subject__ Grigory Neujmin __predicate__ deathDate __object__ 1946-12-17']
+subject: Grigory Neujmin
+predicate: deathDate
+object: 1946-12-17
+
+Triple: ['__subject__ Universal Music Group __predicate__ keyPerson __object__ Lucian Grainge']
+subject: Universal Music Group
+predicate: keyPerson
+object: Lucian Grainge
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ award __object__ State Award for Superior Achievement']
+subject: Nurhan Atasoy
+predicate: award
+object: State Award for Superior Achievement
+
+Triple: ['__subject__ Israel __predicate__ leader __object__ Reuven Rivlin']
+subject: Israel
+predicate: leader
+object: Reuven Rivlin
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO']
+subject: Death on a Factory Farm
+predicate: broadcastedBy
+object: HBO
+
+Triple: ['__subject__ The Honeymoon Killers (American band) __predicate__ genre __object__ Noise rock']
+subject: The Honeymoon Killers (American band)
+predicate: genre
+object: Noise rock
+
+Triple: ['__subject__ Punk blues __predicate__ instrument __object__ Drum kit']
+subject: Punk blues
+predicate: instrument
+object: Drum kit
+
+Triple: ['__subject__ Israel __predicate__ officialLanguage __object__ Modern Standard Arabic']
+subject: Israel
+predicate: officialLanguage
+object: Modern Standard Arabic
+
+Triple: ['__subject__ John Mills __predicate__ deathYear __object__ 2005']
+subject: John Mills
+predicate: deathYear
+object: 2005
+
+Triple: ['__subject__ Polydor Records __predicate__ parentCompany __object__ Universal Music Group']
+subject: Polydor Records
+predicate: parentCompany
+object: Universal Music Group
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Stargate (production team)']
+subject: Mermaid (Train song)
+predicate: writer
+object: Stargate (production team)
+
+Triple: ['__subject__ Let It Breed __predicate__ followedBy __object__ Turn Me On (album)']
+subject: Let It Breed
+predicate: followedBy
+object: Turn Me On (album)
+
+Triple: ['__subject__ Philippines __predicate__ leader __object__ Leni Robredo']
+subject: Philippines
+predicate: leader
+object: Leni Robredo
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ citizenship __object__ United States']
+subject: Darinka Dentcheva
+predicate: citizenship
+object: United States
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfUndergraduateStudents __object__ 16800']
+subject: University of Burgundy
+predicate: numberOfUndergraduateStudents
+object: 16800
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400']
+subject: University of Burgundy
+predicate: numberOfStudents
+object: 27400
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Sony Music Entertainment']
+subject: Mermaid (Train song)
+predicate: recordLabel
+object: Sony Music Entertainment
+
+Triple: ['__subject__ German Empire __predicate__ currency __object__ German Papiermark']
+subject: German Empire
+predicate: currency
+object: German Papiermark
+
+Triple: ['__subject__ HBO __predicate__ timeshiftChannel __object__ HBO East, HBO West']
+subject: HBO
+predicate: timeshiftChannel
+object: HBO East, HBO West
+
+Triple: ['__subject__ Terence Rattigan __predicate__ deathYear __object__ 1977-01-01']
+subject: Terence Rattigan
+predicate: deathYear
+object: 1977-01-01
+
+Triple: ['__subject__ J. R. R. Tolkien __predicate__ notableWork __object__ The Silmarillion']
+subject: J. R. R. Tolkien
+predicate: notableWork
+object: The Silmarillion
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ type __object__ City']
+subject: Ciudad Ayala
+predicate: type
+object: City
+
+Triple: ['__subject__ Israel __predicate__ leaderTitle __object__ Prime Minister']
+subject: Israel
+predicate: leaderTitle
+object: Prime Minister
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0']
+subject: 1147 Stavropolis
+predicate: apoapsis
+object: 418476000000.0
+
+Triple: ['__subject__ The Velvet Underground __predicate__ associatedBand/associatedMusicalArtist __object__ Theatre of Eternal Music']
+subject: The Velvet Underground
+predicate: associatedBand/associatedMusicalArtist
+object: Theatre of Eternal Music
+
+Triple: ['__subject__ Noise rock __predicate__ stylisticOrigin __object__ Noise music']
+subject: Noise rock
+predicate: stylisticOrigin
+object: Noise music
+
+Triple: ["__subject__ Nie Haisheng __predicate__ nationality __object__ People's Republic of China"]
+subject: Nie Haisheng
+predicate: nationality
+object: People's Republic of China
+
+Triple: ['__subject__ J. R. R. Tolkien __predicate__ birthDate __object__ 1892-01-03']
+subject: J. R. R. Tolkien
+predicate: birthDate
+object: 1892-01-03
+
+Triple: ['__subject__ Kingdom of England __predicate__ foundingYear __object__ 0927']
+subject: Kingdom of England
+predicate: foundingYear
+object: 0927
+
+Triple: ['__subject__ Post-metal __predicate__ instrument __object__ Synthesizer']
+subject: Post-metal
+predicate: instrument
+object: Synthesizer
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ genre __object__ Rock music']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: genre
+object: Rock music
+
+Triple: ['__subject__ Manila __predicate__ isPartOf __object__ Metro Manila']
+subject: Manila
+predicate: isPartOf
+object: Metro Manila
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)']
+subject: Mermaid (Train song)
+predicate: followedBy
+object: Imagine (John Lennon song)
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01']
+subject: Nurhan Atasoy
+predicate: birthDate
+object: 1934-01-01
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ residence __object__ New Jersey']
+subject: Darinka Dentcheva
+predicate: residence
+object: New Jersey
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert Taylor"]
+subject: It's Great to Be Young (1956 film)
+predicate: cinematography
+object: Gilbert Taylor
+
+Triple: ['__subject__ The Hobbit __predicate__ followedBy __object__ The Lord of the Rings']
+subject: The Hobbit
+predicate: followedBy
+object: The Lord of the Rings
+
+Triple: ['__subject__ German Empire __predicate__ currency __object__ South German gulden']
+subject: German Empire
+predicate: currency
+object: South German gulden
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ E-Vinyl']
+subject: Nord (Year of No Light album)
+predicate: recordLabel
+object: E-Vinyl
+
+Triple: ['__subject__ Turkey __predicate__ leaderTitle __object__ Prime Minister']
+subject: Turkey
+predicate: leaderTitle
+object: Prime Minister
+
+Triple: ['__subject__ Olga Bondareva __predicate__ professionalField __object__ Mathematics']
+subject: Olga Bondareva
+predicate: professionalField
+object: Mathematics
+
+Triple: ['__subject__ United States __predicate__ demonym __object__ American']
+subject: United States
+predicate: demonym
+object: American
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ releaseDate __object__ 2012-12-27']
+subject: Mermaid (Train song)
+predicate: releaseDate
+object: 2012-12-27
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ professionalField __object__ Mathematical optimization']
+subject: Darinka Dentcheva
+predicate: professionalField
+object: Mathematical optimization
+
+Triple: ['__subject__ Terence Rattigan __predicate__ birthDate __object__ 1911-01-01']
+subject: Terence Rattigan
+predicate: birthDate
+object: 1911-01-01
+
+Triple: ['__subject__ HBO __predicate__ owner __object__ Time Warner']
+subject: HBO
+predicate: owner
+object: Time Warner
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Anthropic principle']
+subject: Brandon Carter
+predicate: knownFor
+object: Anthropic principle
+
+Triple: ['__subject__ Petah Tikva __predicate__ leader __object__ Itzik Braverman']
+subject: Petah Tikva
+predicate: leader
+object: Itzik Braverman
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ genre __object__ Rock music']
+subject: Squeeze (The Velvet Underground album)
+predicate: genre
+object: Rock music
+
+Triple: ['__subject__ New Jersey __predicate__ language __object__ English language']
+subject: New Jersey
+predicate: language
+object: English language
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ isPartOf __object__ La Crosse County, Wisconsin']
+subject: La Crosse, Wisconsin
+predicate: isPartOf
+object: La Crosse County, Wisconsin
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ professionalField __object__ Photographer']
+subject: Liselotte Grschebina
+predicate: professionalField
+object: Photographer
+
+Triple: ['__subject__ United States __predicate__ populationTotal __object__ 324720797']
+subject: United States
+predicate: populationTotal
+object: 324720797
+
+Triple: ['__subject__ Terence Rattigan __predicate__ imdbId __object__ 0711905']
+subject: Terence Rattigan
+predicate: imdbId
+object: 0711905
+
+Triple: ['__subject__ San Francisco __predicate__ leader __object__ Ed Lee (politician)']
+subject: San Francisco
+predicate: leader
+object: Ed Lee (politician)
+
+Triple: ['__subject__ Detroit __predicate__ isPartOf __object__ Michigan']
+subject: Detroit
+predicate: isPartOf
+object: Michigan
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ producer __object__ The Progressive Motion Picture Company']
+subject: McVeagh of the South Seas
+predicate: producer
+object: The Progressive Motion Picture Company
+
+Triple: ['__subject__ HBO __predicate__ formerName __object__ The Green Channel']
+subject: HBO
+predicate: formerName
+object: The Green Channel
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Standard Time Zone']
+subject: Ciudad Ayala
+predicate: timeZone
+object: Pacific Standard Time Zone
+
+Triple: ['__subject__ The Hobbit __predicate__ literaryGenre __object__ Juvenile fantasy']
+subject: The Hobbit
+predicate: literaryGenre
+object: Juvenile fantasy
+
+Triple: ['__subject__ Detroit __predicate__ isPartOf __object__ Wayne County, Michigan']
+subject: Detroit
+predicate: isPartOf
+object: Wayne County, Michigan
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Petah Tikva']
+subject: Liselotte Grschebina
+predicate: deathPlace
+object: Petah Tikva
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ musicalBand __object__ Train (band)']
+subject: Mermaid (Train song)
+predicate: musicalBand
+object: Train (band)
+
+Triple: ['__subject__ Expect a Miracle __predicate__ genre __object__ Instrumental music']
+subject: Expect a Miracle
+predicate: genre
+object: Instrumental music
+
+Triple: ['__subject__ Tom Sizemore __predicate__ spouse __object__ Maeve Quinlan']
+subject: Tom Sizemore
+predicate: spouse
+object: Maeve Quinlan
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ timeZone __object__ Central European Time']
+subject: Gdynia, Poland
+predicate: timeZone
+object: Central European Time
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ imdbId __object__ 0004319']
+subject: McVeagh of the South Seas
+predicate: imdbId
+object: 0004319
+
+Triple: ['__subject__ Morelos __predicate__ leader __object__ Adrián Rivera Pérez']
+subject: Morelos
+predicate: leader
+object: Adrián Rivera Pérez
+
+Triple: ['__subject__ Tokat __predicate__ areaCode __object__ +90 356']
+subject: Tokat
+predicate: areaCode
+object: +90 356
+
+Triple: ['__subject__ Super Capers __predicate__ distributor __object__ Roadside Attractions']
+subject: Super Capers
+predicate: distributor
+object: Roadside Attractions
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington']
+subject: Lady Anne Monson
+predicate: birthPlace
+object: Darlington
+
+Triple: ['__subject__ Rock music __predicate__ musicSubgenre __object__ Proto-punk']
+subject: Rock music
+predicate: musicSubgenre
+object: Proto-punk
+
+Triple: ['__subject__ Pontiac __predicate__ successor __object__ Buick']
+subject: Pontiac
+predicate: successor
+object: Buick
+
+Triple: ['__subject__ Roadside Attractions __predicate__ foundingYear __object__ 2003-01-01']
+subject: Roadside Attractions
+predicate: foundingYear
+object: 2003-01-01
+
+Triple: ['__subject__ India __predicate__ demonym __object__ Indian']
+subject: India
+predicate: demonym
+object: Indian
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ populationMetro __object__ 1777539']
+subject: Ciudad Ayala
+predicate: populationMetro
+object: 1777539
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ genre __object__ Punk blues']
+subject: Turn Me On (album)
+predicate: genre
+object: Punk blues
+
+Triple: ["__subject__ Mermaid (Train song) __predicate__ precededBy __object__ This'll Be My Year"]
+subject: Mermaid (Train song)
+predicate: precededBy
+object: This'll Be My Year
+
+Triple: ['__subject__ University of Burgundy __predicate__ staff __object__ 2900']
+subject: University of Burgundy
+predicate: staff
+object: 2900
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ director __object__ Sarah Teale']
+subject: Death on a Factory Farm
+predicate: director
+object: Sarah Teale
+
+Triple: ['__subject__ Darlington __predicate__ region __object__ North East England']
+subject: Darlington
+predicate: region
+object: North East England
+
+Triple: ['__subject__ Turkish people __predicate__ religion __object__ Irreligion']
+subject: Turkish people
+predicate: religion
+object: Irreligion
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ artist __object__ The Honeymoon Killers (American band)']
+subject: Turn Me On (album)
+predicate: artist
+object: The Honeymoon Killers (American band)
+
+Triple: ['__subject__ Michael Rooker __predicate__ birthYear __object__ 1955-01-01']
+subject: Michael Rooker
+predicate: birthYear
+object: 1955-01-01
+
+Triple: ['__subject__ English Without Tears __predicate__ cinematography __object__ Bernard Knowles']
+subject: English Without Tears
+predicate: cinematography
+object: Bernard Knowles
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ musicalArtist __object__ John Lennon']
+subject: Imagine (John Lennon song)
+predicate: musicalArtist
+object: John Lennon
+
+Triple: ['__subject__ India __predicate__ leaderTitle __object__ President']
+subject: India
+predicate: leaderTitle
+object: President
+
+Triple: ['__subject__ Tom Sizemore __predicate__ activeYearsStartYear __object__ 1989-01-01']
+subject: Tom Sizemore
+predicate: activeYearsStartYear
+object: 1989-01-01
+
+Triple: ['__subject__ India __predicate__ leaderTitle __object__ Chief Justice']
+subject: India
+predicate: leaderTitle
+object: Chief Justice
+
+Triple: ['__subject__ San Francisco __predicate__ utcOffset __object__ &minus;7']
+subject: San Francisco
+predicate: utcOffset
+object: &minus;7
+
+Triple: ['__subject__ Brandon Carter __predicate__ birthPlace __object__ England']
+subject: Brandon Carter
+predicate: birthPlace
+object: England
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey']
+subject: Nurhan Atasoy
+predicate: citizenship
+object: Turkey
+
+Triple: ['__subject__ Morelos __predicate__ areaTotal __object__ 4879.0']
+subject: Morelos
+predicate: areaTotal
+object: 4879.0
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager government']
+subject: Ciudad Ayala
+predicate: governmentType
+object: Council-manager government
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva']
+subject: Olga Bondareva
+predicate: birthName
+object: Olga Nikolaevna Bondareva
+
+Triple: ['__subject__ Lionsgate __predicate__ keyPerson __object__ Michael R. Burns']
+subject: Lionsgate
+predicate: keyPerson
+object: Michael R. Burns
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ utcOffset __object__ −6']
+subject: Ciudad Ayala
+predicate: utcOffset
+object: −6
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ weight __object__ 70.308']
+subject: Piotr Hallmann
+predicate: weight
+object: 70.308
+
+Triple: ['__subject__ Turkey __predicate__ percentageOfAreaWater __object__ 1.3']
+subject: Turkey
+predicate: percentageOfAreaWater
+object: 1.3
+
+Triple: ['__subject__ Istanbul __predicate__ utcOffset __object__ +2']
+subject: Istanbul
+predicate: utcOffset
+object: +2
+
+Triple: ['__subject__ Polydor Records __predicate__ distributingLabel __object__ Interscope Geffen A&M']
+subject: Polydor Records
+predicate: distributingLabel
+object: Interscope Geffen A&M
+
+Triple: ['__subject__ Super Capers __predicate__ writer __object__ Ray Griggs (director)']
+subject: Super Capers
+predicate: writer
+object: Ray Griggs (director)
+
+Triple: ['__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs']
+subject: English Without Tears
+predicate: editing
+object: Alan Jaggs
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthPlace __object__ Zaoyang']
+subject: Nie Haisheng
+predicate: birthPlace
+object: Zaoyang
+
+Triple: ['__subject__ India __predicate__ populationTotal __object__ 1293057000']
+subject: India
+predicate: populationTotal
+object: 1293057000
+
+Triple: ['__subject__ Zaoyang __predicate__ isPartOf __object__ Hubei']
+subject: Zaoyang
+predicate: isPartOf
+object: Hubei
+
+Triple: ['__subject__ Tokat __predicate__ country __object__ Turkey']
+subject: Tokat
+predicate: country
+object: Turkey
+
+Triple: ['__subject__ Take It Off! __predicate__ producer __object__ Wharton Tiers']
+subject: Take It Off!
+predicate: producer
+object: Wharton Tiers
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthPlace __object__ Leningrad, USSR']
+subject: Olga Bondareva
+predicate: birthPlace
+object: Leningrad, USSR
+
+Triple: ['__subject__ Take It Off! __predicate__ precededBy __object__ Turn Me On (album)']
+subject: Take It Off!
+predicate: precededBy
+object: Turn Me On (album)
+
+Triple: ['__subject__ John Mills __predicate__ deathPlace __object__ Denham, Buckinghamshire']
+subject: John Mills
+predicate: deathPlace
+object: Denham, Buckinghamshire
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ discoverer __object__ Grigory Neujmin']
+subject: 1147 Stavropolis
+predicate: discoverer
+object: Grigory Neujmin
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Adam West']
+subject: Super Capers
+predicate: starring
+object: Adam West
+
+Triple: ['__subject__ The Two Towers __predicate__ followedBy __object__ The Return of the King']
+subject: The Two Towers
+predicate: followedBy
+object: The Return of the King
+
+Triple: ['__subject__ Jamie Lawrence __predicate__ birthDate __object__ 1970-03-08']
+subject: Jamie Lawrence
+predicate: birthDate
+object: 1970-03-08
+
+Triple: ['__subject__ Sludge metal __predicate__ instrument __object__ Singing']
+subject: Sludge metal
+predicate: instrument
+object: Singing
+
+Triple: ['__subject__ Israel __predicate__ longName __object__ State of Israel']
+subject: Israel
+predicate: longName
+object: State of Israel
+
+Triple: ['__subject__ Michael Rooker __predicate__ birthDate __object__ 1955-04-06']
+subject: Michael Rooker
+predicate: birthDate
+object: 1955-04-06
+
+Triple: ['__subject__ Mexico __predicate__ areaTotal __object__ 1972550.0']
+subject: Mexico
+predicate: areaTotal
+object: 1972550.0
+
+Triple: ['__subject__ Sludge metal __predicate__ musicSubgenre __object__ Stoner sludge']
+subject: Sludge metal
+predicate: musicSubgenre
+object: Stoner sludge
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ assembly __object__ Detroit']
+subject: Pontiac Rageous
+predicate: assembly
+object: Detroit
+
+Triple: ['__subject__ University of Burgundy __predicate__ country __object__ France']
+subject: University of Burgundy
+predicate: country
+object: France
+
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Kent']
+subject: MotorSport Vision
+predicate: city
+object: Kent
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Columbia Records']
+subject: Mermaid (Train song)
+predicate: recordLabel
+object: Columbia Records
+
+Triple: ['__subject__ Grigory Neujmin __predicate__ birthDate __object__ 1886-01-01']
+subject: Grigory Neujmin
+predicate: birthDate
+object: 1886-01-01
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ format __object__ Music download']
+subject: Mermaid (Train song)
+predicate: format
+object: Music download
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ writer __object__ Harry Carey (actor born 1878)']
+subject: McVeagh of the South Seas
+predicate: writer
+object: Harry Carey (actor born 1878)
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ album __object__ Imagine (John Lennon album)']
+subject: Imagine (John Lennon song)
+predicate: album
+object: Imagine (John Lennon album)
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ producer __object__ The Honeymoon Killers (American band)']
+subject: Turn Me On (album)
+predicate: producer
+object: The Honeymoon Killers (American band)
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leader __object__ Juan Nolasco']
+subject: Ciudad Ayala
+predicate: leader
+object: Juan Nolasco
+
+Triple: ['__subject__ GMA New Media __predicate__ product __object__ Online Game']
+subject: GMA New Media
+predicate: product
+object: Online Game
+
+Triple: ['__subject__ Pop rock __predicate__ musicSubgenre __object__ Indie pop']
+subject: Pop rock
+predicate: musicSubgenre
+object: Indie pop
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Sludge metal']
+subject: Nord (Year of No Light album)
+predicate: genre
+object: Sludge metal
+
+Triple: ['__subject__ Train (band) __predicate__ genre __object__ Pop rock']
+subject: Train (band)
+predicate: genre
+object: Pop rock
+
+Triple: ['__subject__ McVeagh of the South Seas __predicate__ distributor __object__ Alliance Films Corporation']
+subject: McVeagh of the South Seas
+predicate: distributor
+object: Alliance Films Corporation
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision']
+subject: Bedford Aerodrome
+predicate: operatingOrganisation
+object: MotorSport Vision
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ producer __object__ The Velvet Underground']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: producer
+object: The Velvet Underground
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German Empire']
+subject: Liselotte Grschebina
+predicate: birthPlace
+object: German Empire
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ genre __object__ Noise rock']
+subject: Turn Me On (album)
+predicate: genre
+object: Noise rock
+
+Triple: ['__subject__ Mexico __predicate__ leaderTitle __object__ President of the Senate']
+subject: Mexico
+predicate: leaderTitle
+object: President of the Senate
+
+Triple: ['__subject__ Dijon __predicate__ elevationAboveTheSeaLevel __object__ 245.0']
+subject: Dijon
+predicate: elevationAboveTheSeaLevel
+object: 245.0
+
+Triple: ['__subject__ Reggae __predicate__ stylisticOrigin __object__ Rhythm and Blues']
+subject: Reggae
+predicate: stylisticOrigin
+object: Rhythm and Blues
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11']
+subject: 1147 Stavropolis
+predicate: discovered
+object: 1929-06-11
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Justin Whalin']
+subject: Super Capers
+predicate: starring
+object: Justin Whalin
+
+Triple: ['__subject__ GMA New Media __predicate__ parentCompany __object__ GMA Network (company)']
+subject: GMA New Media
+predicate: parentCompany
+object: GMA Network (company)
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16']
+subject: Mermaid (Train song)
+predicate: runtime
+object: 3.16
+
+Triple: ['__subject__ Reşadiye __predicate__ isPartOf __object__ Tokat Province']
+subject: Reşadiye
+predicate: isPartOf
+object: Tokat Province
+
+Triple: ['__subject__ Petah Tikva __predicate__ country __object__ Israel']
+subject: Petah Tikva
+predicate: country
+object: Israel
+
+Triple: ['__subject__ Harold French __predicate__ activeYearsStartYear __object__ 1920-01-01']
+subject: Harold French
+predicate: activeYearsStartYear
+object: 1920-01-01
+
+Triple: ['__subject__ Noise rock __predicate__ musicFusionGenre __object__ Noise pop']
+subject: Noise rock
+predicate: musicFusionGenre
+object: Noise pop
+
+Triple: ['__subject__ Live at Roadburn 2008 (Year of No Light album) __predicate__ followedBy __object__ Karysun / Year of No Light']
+subject: Live at Roadburn 2008 (Year of No Light album)
+predicate: followedBy
+object: Karysun / Year of No Light
+
+Triple: ['__subject__ Israel __predicate__ ethnicGroup __object__ Arab citizens of Israel']
+subject: Israel
+predicate: ethnicGroup
+object: Arab citizens of Israel
+
+Triple: ['__subject__ Noise rock __predicate__ derivative __object__ Post-hardcore']
+subject: Noise rock
+predicate: derivative
+object: Post-hardcore
+
+Triple: ['__subject__ Anatole de Grunwald __predicate__ deathPlace __object__ London']
+subject: Anatole de Grunwald
+predicate: deathPlace
+object: London
+
+Triple: ['__subject__ AmeriGas __predicate__ numberOfEmployees __object__ 8500']
+subject: AmeriGas
+predicate: numberOfEmployees
+object: 8500
+
+Triple: ['__subject__ Reggae __predicate__ derivative __object__ Hip hop music']
+subject: Reggae
+predicate: derivative
+object: Hip hop music
+
+Triple: ['__subject__ English Without Tears __predicate__ writer __object__ Terence Rattigan']
+subject: English Without Tears
+predicate: writer
+object: Terence Rattigan
+
+Triple: ['__subject__ Adam West __predicate__ activeYearsStartYear __object__ 1954-01-01']
+subject: Adam West
+predicate: activeYearsStartYear
+object: 1954-01-01
+
+Triple: ['__subject__ University of Cambridge __predicate__ country __object__ England']
+subject: University of Cambridge
+predicate: country
+object: England
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ followedBy __object__ Happy Xmas (War Is Over)']
+subject: Imagine (John Lennon song)
+predicate: followedBy
+object: Happy Xmas (War Is Over)
+
+Triple: ['__subject__ Andrzej Piotr Ruszczyński __predicate__ professionalField __object__ Mathematical optimization']
+subject: Andrzej Piotr Ruszczyński
+predicate: professionalField
+object: Mathematical optimization
+
+Triple: ['__subject__ Expect a Miracle __predicate__ precededBy __object__ Pools of Light (Brian Kelly album)']
+subject: Expect a Miracle
+predicate: precededBy
+object: Pools of Light (Brian Kelly album)
+
+Triple: ['__subject__ Zaoyang __predicate__ isPartOf __object__ Xiangyang']
+subject: Zaoyang
+predicate: isPartOf
+object: Xiangyang
+
+Triple: ['__subject__ MotorSport Vision __predicate__ city __object__ Longfield']
+subject: MotorSport Vision
+predicate: city
+object: Longfield
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104']
+subject: Bedford Aerodrome
+predicate: elevationAboveTheSeaLevel
+object: 83.2104
+
+Triple: ['__subject__ The Two Towers __predicate__ precededBy __object__ The Fellowship of the Ring']
+subject: The Two Towers
+predicate: precededBy
+object: The Fellowship of the Ring
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ St. Louis, Missouri']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: recordedIn
+object: St. Louis, Missouri
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0']
+subject: Bedford Aerodrome
+predicate: runwayLength
+object: 1095.0
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ releaseDate __object__ 1954-07-29']
+subject: The Fellowship of the Ring
+predicate: releaseDate
+object: 1954-07-29
+
+Triple: ['__subject__ Train (band) __predicate__ recordLabel __object__ Warner Music Group']
+subject: Train (band)
+predicate: recordLabel
+object: Warner Music Group
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ genre __object__ Pop music']
+subject: Imagine (John Lennon song)
+predicate: genre
+object: Pop music
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ isPartOf __object__ Morelos']
+subject: Ciudad Ayala
+predicate: isPartOf
+object: Morelos
+
+Triple: ['__subject__ Turkey __predicate__ leaderTitle __object__ President']
+subject: Turkey
+predicate: leaderTitle
+object: President
+
+Triple: ['__subject__ German Empire __predicate__ foundingDate __object__ 1871-01-01']
+subject: German Empire
+predicate: foundingDate
+object: 1871-01-01
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfPostgraduateStudents __object__ 9400']
+subject: University of Burgundy
+predicate: numberOfPostgraduateStudents
+object: 9400
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ nationality __object__ Kingdom of England']
+subject: Lady Anne Monson
+predicate: nationality
+object: Kingdom of England
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Reşadiye']
+subject: Nurhan Atasoy
+predicate: birthPlace
+object: Reşadiye
+
+Triple: ['__subject__ India __predicate__ foundingDate __object__ 1950-01-26']
+subject: India
+predicate: foundingDate
+object: 1950-01-26
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ runtime __object__ 35.1']
+subject: Turn Me On (album)
+predicate: runtime
+object: 35.1
+
+Triple: ['__subject__ Trane __predicate__ operatingIncome __object__ 875400000']
+subject: Trane
+predicate: operatingIncome
+object: 875400000
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Carter constant']
+subject: Brandon Carter
+predicate: knownFor
+object: Carter constant
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ certification __object__ FIMI']
+subject: Imagine (John Lennon song)
+predicate: certification
+object: FIMI
+
+Triple: ['__subject__ The Velvet Underground __predicate__ formerBandMember __object__ Lou Reed']
+subject: The Velvet Underground
+predicate: formerBandMember
+object: Lou Reed
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund Bjørklund']
+subject: Mermaid (Train song)
+predicate: writer
+object: Amund Bjørklund
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ leaderTitle __object__ Mayor']
+subject: La Crosse, Wisconsin
+predicate: leaderTitle
+object: Mayor
+
+Triple: ['__subject__ Wharton Tiers __predicate__ birthDate __object__ 1953-01-01']
+subject: Wharton Tiers
+predicate: birthDate
+object: 1953-01-01
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF']
+subject: Bedford Aerodrome
+predicate: icaoLocationIdentifier
+object: EGBF
+
+Triple: ['__subject__ Karlsruhe __predicate__ leaderTitle __object__ Oberbürgermeister']
+subject: Karlsruhe
+predicate: leaderTitle
+object: Oberbürgermeister
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06']
+subject: Nord (Year of No Light album)
+predicate: releaseDate
+object: 2006-09-06
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ publisher __object__ George Allen & Unwin']
+subject: The Fellowship of the Ring
+predicate: publisher
+object: George Allen & Unwin
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0"]
+subject: It's Great to Be Young (1956 film)
+predicate: runtime
+object: 94.0
+
+Triple: ['__subject__ John Mills __predicate__ spouse __object__ Aileen Raymond']
+subject: John Mills
+predicate: spouse
+object: Aileen Raymond
+
+Triple: ['__subject__ Olga Bondareva __predicate__ almaMater __object__ Leningrad State University']
+subject: Olga Bondareva
+predicate: almaMater
+object: Leningrad State University
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ album __object__ California 37 (Train album)']
+subject: Mermaid (Train song)
+predicate: album
+object: California 37 (Train album)
+
+Triple: ['__subject__ Brandon Carter __predicate__ knownFor __object__ Doomsday argument']
+subject: Brandon Carter
+predicate: knownFor
+object: Doomsday argument
+
+Triple: ['__subject__ Lionsgate __predicate__ service __object__ Digital distribution']
+subject: Lionsgate
+predicate: service
+object: Digital distribution
+
+Triple: ['__subject__ Pontiac __predicate__ extinctionDate __object__ 2010-10-31']
+subject: Pontiac
+predicate: extinctionDate
+object: 2010-10-31
+
+Triple: ['__subject__ Rock music __predicate__ musicFusionGenre __object__ Noise rock']
+subject: Rock music
+predicate: musicFusionGenre
+object: Noise rock
+
+Triple: ['__subject__ English Without Tears __predicate__ runtime __object__ 89.0']
+subject: English Without Tears
+predicate: runtime
+object: 89.0
+
+Triple: ['__subject__ Mexico __predicate__ leader __object__ Roberto Gil Zuarth']
+subject: Mexico
+predicate: leader
+object: Roberto Gil Zuarth
+
+Triple: ['__subject__ University of Burgundy __predicate__ campus __object__ Dijon']
+subject: University of Burgundy
+predicate: campus
+object: Dijon
+
+Triple: ['__subject__ Darlington __predicate__ gridReference __object__ NZ289147']
+subject: Darlington
+predicate: gridReference
+object: NZ289147
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live at Roadburn 2008 (Year of No Light album)']
+subject: Nord (Year of No Light album)
+predicate: followedBy
+object: Live at Roadburn 2008 (Year of No Light album)
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ knownFor __object__ Stochastic programming']
+subject: Darinka Dentcheva
+predicate: knownFor
+object: Stochastic programming
+
+Triple: ['__subject__ Karlsruhe __predicate__ areaTotal __object__ 173.46']
+subject: Karlsruhe
+predicate: areaTotal
+object: 173.46
+
+Triple: ['__subject__ Nicholas Brodszky __predicate__ background __object__ non performing personnel']
+subject: Nicholas Brodszky
+predicate: background
+object: non performing personnel
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ precededBy __object__ Power to the People (song)']
+subject: Imagine (John Lennon song)
+predicate: precededBy
+object: Power to the People (song)
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ runwaySurfaceType __object__ Concrete']
+subject: Bedford Aerodrome
+predicate: runwaySurfaceType
+object: Concrete
+
+Triple: ['__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh']
+subject: Bedford Aerodrome
+predicate: location
+object: Thurleigh
+
+Triple: ['__subject__ Saint Petersburg __predicate__ leader __object__ Georgy Poltavchenko']
+subject: Saint Petersburg
+predicate: leader
+object: Georgy Poltavchenko
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon']
+subject: Death on a Factory Farm
+predicate: producer
+object: Tom Simon
+
+Triple: ['__subject__ Turkey __predicate__ longName __object__ Republic of Turkey']
+subject: Turkey
+predicate: longName
+object: Republic of Turkey
+
+Triple: ['__subject__ Lionsgate __predicate__ location __object__ United States']
+subject: Lionsgate
+predicate: location
+object: United States
+
+Triple: ['__subject__ France __predicate__ longName __object__ French Republic']
+subject: France
+predicate: longName
+object: French Republic
+
+Triple: ['__subject__ Mermaid (Train song) __predicate__ writer __object__ Pat Monahan']
+subject: Mermaid (Train song)
+predicate: writer
+object: Pat Monahan
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ editor __object__ Geof Bartz']
+subject: Death on a Factory Farm
+predicate: editor
+object: Geof Bartz
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0']
+subject: Death on a Factory Farm
+predicate: runtime
+object: 83.0
+
+Triple: ['__subject__ Pop rock __predicate__ musicFusionGenre __object__ Baroque pop']
+subject: Pop rock
+predicate: musicFusionGenre
+object: Baroque pop
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02']
+subject: Liselotte Grschebina
+predicate: birthDate
+object: 1908-05-02
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0']
+subject: 1147 Stavropolis
+predicate: periapsis
+object: 260855000000.0
+
+Triple: ['__subject__ Karlsruhe __predicate__ elevationAboveTheSeaLevel __object__ 115.0']
+subject: Karlsruhe
+predicate: elevationAboveTheSeaLevel
+object: 115.0
+
+Triple: ['__subject__ Dijon __predicate__ postalCode __object__ 21000']
+subject: Dijon
+predicate: postalCode
+object: 21000
+
+Triple: ['__subject__ Super Capers __predicate__ gross __object__ 30955.0']
+subject: Super Capers
+predicate: gross
+object: 30955.0
+
+Triple: ['__subject__ Super Capers __predicate__ language __object__ English language']
+subject: Super Capers
+predicate: language
+object: English language
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis Levy"]
+subject: It's Great to Be Young (1956 film)
+predicate: musicComposer
+object: Louis Levy
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ United States']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: recordedIn
+object: United States
+
+Triple: ['__subject__ Lionsgate __predicate__ industry __object__ Entertainment']
+subject: Lionsgate
+predicate: industry
+object: Entertainment
+
+Triple: ['__subject__ Year of No Light __predicate__ associatedBand/associatedMusicalArtist __object__ Monarch (band)']
+subject: Year of No Light
+predicate: associatedBand/associatedMusicalArtist
+object: Monarch (band)
+
+Triple: ['__subject__ John Mills __predicate__ child __object__ Juliet Mills']
+subject: John Mills
+predicate: child
+object: Juliet Mills
+
+Triple: ['__subject__ Imagine (John Lennon song) __predicate__ producer __object__ Phil Spector']
+subject: Imagine (John Lennon song)
+predicate: producer
+object: Phil Spector
+
+Triple: ['__subject__ Punk blues __predicate__ stylisticOrigin __object__ Garage rock']
+subject: Punk blues
+predicate: stylisticOrigin
+object: Garage rock
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ manufacturer __object__ Pontiac']
+subject: Pontiac Rageous
+predicate: manufacturer
+object: Pontiac
+
+Triple: ['__subject__ Thurleigh __predicate__ ceremonialCounty __object__ Bedfordshire']
+subject: Thurleigh
+predicate: ceremonialCounty
+object: Bedfordshire
+
+Triple: ['__subject__ Olga Bondareva __predicate__ birthDate __object__ 1937-04-27']
+subject: Olga Bondareva
+predicate: birthDate
+object: 1937-04-27
+
+Triple: ['__subject__ Lionsgate __predicate__ service __object__ Broadcast programming']
+subject: Lionsgate
+predicate: service
+object: Broadcast programming
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Post-metal']
+subject: Nord (Year of No Light album)
+predicate: genre
+object: Post-metal
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ precededBy __object__ Squeeze (The Velvet Underground album)']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: precededBy
+object: Squeeze (The Velvet Underground album)
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ professionalField __object__ Botany']
+subject: Lady Anne Monson
+predicate: professionalField
+object: Botany
+
+Triple: ['__subject__ GMA Network (company) __predicate__ type __object__ Public company']
+subject: GMA Network (company)
+predicate: type
+object: Public company
+
+Triple: ['__subject__ United States __predicate__ motto __object__ In God we trust']
+subject: United States
+predicate: motto
+object: In God we trust
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ birthDate __object__ 1958-01-01']
+subject: Darinka Dentcheva
+predicate: birthDate
+object: 1958-01-01
+
+Triple: ['__subject__ Hypermarcas __predicate__ keyPerson __object__ CEO']
+subject: Hypermarcas
+predicate: keyPerson
+object: CEO
+
+Triple: ['__subject__ English Without Tears __predicate__ director __object__ Harold French']
+subject: English Without Tears
+predicate: director
+object: Harold French
+
+Triple: ['__subject__ San Francisco __predicate__ areaCode __object__ 628']
+subject: San Francisco
+predicate: areaCode
+object: 628
+
+Triple: ['__subject__ Petah Tikva __predicate__ meaning __object__ Opening of hope']
+subject: Petah Tikva
+predicate: meaning
+object: Opening of hope
+
+Triple: ['__subject__ Expect a Miracle __predicate__ followedBy __object__ Afterplay (Brian Kelly album)']
+subject: Expect a Miracle
+predicate: followedBy
+object: Afterplay (Brian Kelly album)
+
+Triple: ['__subject__ Let It Breed __predicate__ precededBy __object__ Love American Style (album)']
+subject: Let It Breed
+predicate: precededBy
+object: Love American Style (album)
+
+Triple: ['__subject__ Reşadiye __predicate__ country __object__ Turkey']
+subject: Reşadiye
+predicate: country
+object: Turkey
+
+Triple: ['__subject__ Lionsgate __predicate__ keyPerson __object__ Jon Feltheimer']
+subject: Lionsgate
+predicate: keyPerson
+object: Jon Feltheimer
+
+Triple: ['__subject__ Max Benedict __predicate__ deathPlace __object__ London']
+subject: Max Benedict
+predicate: deathPlace
+object: London
+
+Triple: ['__subject__ Istanbul __predicate__ timeZone __object__ Eastern European Time']
+subject: Istanbul
+predicate: timeZone
+object: Eastern European Time
+
+Triple: ['__subject__ Turn Me On (album) __predicate__ followedBy __object__ Take It Off!']
+subject: Turn Me On (album)
+predicate: followedBy
+object: Take It Off!
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ Crucial Blast']
+subject: Nord (Year of No Light album)
+predicate: recordLabel
+object: Crucial Blast
+
+Triple: ['__subject__ Darinka Dentcheva __predicate__ almaMater __object__ Humboldt University']
+subject: Darinka Dentcheva
+predicate: almaMater
+object: Humboldt University
+
+Triple: ['__subject__ Expect a Miracle __predicate__ runtime __object__ 54.56']
+subject: Expect a Miracle
+predicate: runtime
+object: 54.56
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Michael Rooker']
+subject: Super Capers
+predicate: starring
+object: Michael Rooker
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator']
+subject: Ciudad Ayala
+predicate: leaderTitle
+object: Governator
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ bodyStyle __object__ Coupe']
+subject: Pontiac Rageous
+predicate: bodyStyle
+object: Coupe
+
+Triple: ['__subject__ La Crosse, Wisconsin __predicate__ elevationAboveTheSeaLevel __object__ 204.0']
+subject: La Crosse, Wisconsin
+predicate: elevationAboveTheSeaLevel
+object: 204.0
+
+Triple: ['__subject__ Shenzhou 10 __predicate__ cosparId __object__ 2013-029A']
+subject: Shenzhou 10
+predicate: cosparId
+object: 2013-029A
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Daylight Time']
+subject: Ciudad Ayala
+predicate: timeZone
+object: Pacific Daylight Time
+
+Triple: ['__subject__ Pontiac __predicate__ parentCompany __object__ General Motors']
+subject: Pontiac
+predicate: parentCompany
+object: General Motors
+
+Triple: ['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ releaseDate __object__ 2001-10-16']
+subject: Bootleg Series Volume 1: The Quine Tapes
+predicate: releaseDate
+object: 2001-10-16
+
+Triple: ['__subject__ India __predicate__ longName __object__ Republic of India']
+subject: India
+predicate: longName
+object: Republic of India
+
+Triple: ['__subject__ Zaoyang __predicate__ utcOffset __object__ +8']
+subject: Zaoyang
+predicate: utcOffset
+object: +8
+
+Triple: ['__subject__ MotorSport Vision __predicate__ foundingYear __object__ 2004']
+subject: MotorSport Vision
+predicate: foundingYear
+object: 2004
+
+Triple: ['__subject__ Max Benedict __predicate__ activeYearsStartYear __object__ 1947-01-01']
+subject: Max Benedict
+predicate: activeYearsStartYear
+object: 1947-01-01
+
+Triple: ['__subject__ John Mills __predicate__ spouse __object__ Mary Hayley Bell']
+subject: John Mills
+predicate: spouse
+object: Mary Hayley Bell
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18']
+subject: Lady Anne Monson
+predicate: deathDate
+object: 1776-02-18
+
+Triple: ['__subject__ Justin Whalin __predicate__ birthPlace __object__ San Francisco']
+subject: Justin Whalin
+predicate: birthPlace
+object: San Francisco
+
+Triple: ['__subject__ Morelos __predicate__ leaderTitle __object__ Governor']
+subject: Morelos
+predicate: leaderTitle
+object: Governor
+
+Triple: ['__subject__ University of Cambridge __predicate__ chancellor __object__ David Sainsbury, Baron Sainsbury of Turville']
+subject: University of Cambridge
+predicate: chancellor
+object: David Sainsbury, Baron Sainsbury of Turville
+
+Triple: ['__subject__ The Two Towers __predicate__ author __object__ J. R. R. Tolkien']
+subject: The Two Towers
+predicate: author
+object: J. R. R. Tolkien
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ residence __object__ Teşvikiye']
+subject: Nurhan Atasoy
+predicate: residence
+object: Teşvikiye
+
+Triple: ['__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299']
+subject: University of Burgundy
+predicate: numberOfDoctoralStudents
+object: 1299
+
+Triple: ['__subject__ Justin Whalin __predicate__ occupation __object__ Presenter']
+subject: Justin Whalin
+predicate: occupation
+object: Presenter
+
+Triple: ['__subject__ Cyril Frankel __predicate__ birthPlace __object__ United Kingdom']
+subject: Cyril Frankel
+predicate: birthPlace
+object: United Kingdom
+
+Triple: ['__subject__ Harold French __predicate__ birthPlace __object__ UK']
+subject: Harold French
+predicate: birthPlace
+object: UK
+
+Triple: ['__subject__ Gdynia, Poland __predicate__ areaTotal __object__ 135000000.0']
+subject: Gdynia, Poland
+predicate: areaTotal
+object: 135000000.0
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel']
+subject: Liselotte Grschebina
+predicate: nationality
+object: Israel
+
+Triple: ['__subject__ New Jersey __predicate__ areaTotal __object__ 22591.38']
+subject: New Jersey
+predicate: areaTotal
+object: 22591.38
+
+Triple: ['__subject__ Super Capers __predicate__ starring __object__ Tom Lister, Jr.']
+subject: Super Capers
+predicate: starring
+object: Tom Lister, Jr.
+
+Triple: ['__subject__ Istanbul __predicate__ populationMetroDensity __object__ 2691.0']
+subject: Istanbul
+predicate: populationMetroDensity
+object: 2691.0
+
+Triple: ['__subject__ Pontiac __predicate__ product __object__ Automobile']
+subject: Pontiac
+predicate: product
+object: Automobile
+
+Triple: ['__subject__ Olga Bondareva __predicate__ knownFor __object__ Bondareva–Shapley theorem']
+subject: Olga Bondareva
+predicate: knownFor
+object: Bondareva–Shapley theorem
+
+Triple: ['__subject__ Brazil __predicate__ leaderTitle __object__ Vice President']
+subject: Brazil
+predicate: leaderTitle
+object: Vice President
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel"]
+subject: It's Great to Be Young (1956 film)
+predicate: director
+object: Cyril Frankel
+
+Triple: ['__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28']
+subject: English Without Tears
+predicate: releaseDate
+object: 1944-07-28
+
+Triple: ['__subject__ Harold French __predicate__ occupation __object__ Film director']
+subject: Harold French
+predicate: occupation
+object: Film director
+
+Triple: ['__subject__ Squeeze (The Velvet Underground album) __predicate__ producer __object__ The Velvet Underground']
+subject: Squeeze (The Velvet Underground album)
+predicate: producer
+object: The Velvet Underground
+
+Triple: ['__subject__ Andrzej Piotr Ruszczyński __predicate__ knownFor __object__ Stochastic programming']
+subject: Andrzej Piotr Ruszczyński
+predicate: knownFor
+object: Stochastic programming
+
+Triple: ['__subject__ Live at Roadburn 2008 (Year of No Light album) __predicate__ producer __object__ Roadburn Festival']
+subject: Live at Roadburn 2008 (Year of No Light album)
+predicate: producer
+object: Roadburn Festival
+
+Triple: ['__subject__ United States __predicate__ areaTotal __object__ 9833520000000.0']
+subject: United States
+predicate: areaTotal
+object: 9833520000000.0
+
+Triple: ['__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01']
+subject: Lady Anne Monson
+predicate: birthDate
+object: 1726-01-01
+
+Triple: ['__subject__ Death on a Factory Farm __predicate__ director __object__ Tom Simon']
+subject: Death on a Factory Farm
+predicate: director
+object: Tom Simon
+
+Triple: ['__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ City Manager']
+subject: Ciudad Ayala
+predicate: leaderTitle
+object: City Manager
+
+Triple: ['__subject__ New Jersey __predicate__ areaOfWater __object__ 3544040000.0']
+subject: New Jersey
+predicate: areaOfWater
+object: 3544040000.0
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ productionEndYear __object__ 1997']
+subject: Pontiac Rageous
+predicate: productionEndYear
+object: 1997
+
+Triple: ['__subject__ Cyril Frankel __predicate__ occupation __object__ Television director']
+subject: Cyril Frankel
+predicate: occupation
+object: Television director
+
+Triple: ['__subject__ The Two Towers __predicate__ publisher __object__ George Allen & Unwin']
+subject: The Two Towers
+predicate: publisher
+object: George Allen & Unwin
+
+Triple: ['__subject__ Olga Bondareva __predicate__ deathPlace __object__ Saint Petersburg']
+subject: Olga Bondareva
+predicate: deathPlace
+object: Saint Petersburg
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey']
+subject: Nurhan Atasoy
+predicate: residence
+object: Turkey
+
+Triple: ['__subject__ John Mills __predicate__ child __object__ Hayley Mills']
+subject: John Mills
+predicate: child
+object: Hayley Mills
+
+Triple: ['__subject__ Terence Rattigan __predicate__ deathDate __object__ 1977-11-30']
+subject: Terence Rattigan
+predicate: deathDate
+object: 1977-11-30
+
+Triple: ['__subject__ Turkey __predicate__ officialLanguage __object__ Turkish language']
+subject: Turkey
+predicate: officialLanguage
+object: Turkish language
+
+Triple: ['__subject__ English language __predicate__ iso6392Code __object__ eng']
+subject: English language
+predicate: iso6392Code
+object: eng
+
+Triple: ['__subject__ Hypermarcas __predicate__ numberOfEmployees __object__ 10252']
+subject: Hypermarcas
+predicate: numberOfEmployees
+object: 10252
+
+Triple: ['__subject__ Train (band) __predicate__ formerBandMember __object__ Charlie Colin']
+subject: Train (band)
+predicate: formerBandMember
+object: Charlie Colin
+
+Triple: ['__subject__ Pontiac Rageous __predicate__ assembly __object__ Michigan']
+subject: Pontiac Rageous
+predicate: assembly
+object: Michigan
+
+Triple: ['__subject__ Saint Petersburg __predicate__ foundingDate __object__ 1703-05-27']
+subject: Saint Petersburg
+predicate: foundingDate
+object: 1703-05-27
+
+Triple: ['__subject__ Piotr Hallmann __predicate__ height __object__ 175.26']
+subject: Piotr Hallmann
+predicate: height
+object: 175.26
+
+Triple: ['__subject__ Darlington __predicate__ populationTotal __object__ 106000']
+subject: Darlington
+predicate: populationTotal
+object: 106000
+
+Triple: ['__subject__ Nie Haisheng __predicate__ birthDate __object__ 1964-10-13']
+subject: Nie Haisheng
+predicate: birthDate
+object: 1964-10-13
+
+Triple: ['__subject__ Nord (Year of No Light album) __predicate__ precededBy __object__ Demo 2004 (Year of No Light album)']
+subject: Nord (Year of No Light album)
+predicate: precededBy
+object: Demo 2004 (Year of No Light album)
+
+Triple: ['__subject__ Anatole de Grunwald __predicate__ birthPlace __object__ Saint Petersburg']
+subject: Anatole de Grunwald
+predicate: birthPlace
+object: Saint Petersburg
+
+Triple: ['__subject__ The Fellowship of the Ring __predicate__ followedBy __object__ The Two Towers']
+subject: The Fellowship of the Ring
+predicate: followedBy
+object: The Two Towers
+
+Triple: ['__subject__ Year of No Light __predicate__ associatedBand/associatedMusicalArtist __object__ Altar of Plagues']
+subject: Year of No Light
+predicate: associatedBand/associatedMusicalArtist
+object: Altar of Plagues
+
+Triple: ['__subject__ The Hobbit __predicate__ literaryGenre __object__ High fantasy']
+subject: The Hobbit
+predicate: literaryGenre
+object: High fantasy
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6']
+subject: 1147 Stavropolis
+predicate: orbitalPeriod
+object: 1249.6
+
+Triple: ['__subject__ Morelos __predicate__ isPartOf __object__ Cuernavaca']
+subject: Morelos
+predicate: isPartOf
+object: Cuernavaca
+
+Triple: ['__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14']
+subject: Liselotte Grschebina
+predicate: deathDate
+object: 1994-06-14
+
+Triple: ['__subject__ India __predicate__ areaTotal __object__ 3287590000000.0']
+subject: India
+predicate: areaTotal
+object: 3287590000000.0
+
+Triple: ['__subject__ University of Cambridge __predicate__ type __object__ Research university']
+subject: University of Cambridge
+predicate: type
+object: Research university
+
+Triple: ['__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5']
+subject: 1147 Stavropolis
+predicate: absoluteMagnitude
+object: 11.5
+
+Triple: ['__subject__ Mexico __predicate__ leaderTitle __object__ President of the Chamber of Deputies']
+subject: Mexico
+predicate: leaderTitle
+object: President of the Chamber of Deputies
+
+Triple: ["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills"]
+subject: It's Great to Be Young (1956 film)
+predicate: starring
+object: John Mills
+
+Triple: ['__subject__ English Without Tears __predicate__ writer __object__ Anatole de Grunwald']
+subject: English Without Tears
+predicate: writer
+object: Anatole de Grunwald
+
+Triple: ['__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Turkey']
+subject: Nurhan Atasoy
+predicate: birthPlace
+object: Turkey
+
