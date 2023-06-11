@@ -1,16 +1,19 @@
 Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
 
-Train text: Abraham A. Ribicoff died in the United States. Abraham A. Ribicoff's place of birth was Connecticut. African Americans are an ethnic group in the United States.
-Generated text: Abraham A. Ribicoff died in United States. Abraham A. Ribicoff was born in United States. African Americans are an ethnic group in the United States.
+Train text: African Americans are an ethnic group in the U.S.A. where Albert Jennings Fountain was born in New York City and died in the country.
+Generated text: Abraham A. Ribicoff was born in United States and died in the United States, the country, where African Americans are one of the ethnic groups.
 
-Train text: Alan Shepard was born in New Hampshire but died in California. Adam Koc was awarded the Officer's Star Parasol.
+Train text: Alan Shepard who born in New Hampshire died in California. Adam Koc was awarded the Officer's Star Parasol.
 Generated text: Alan Shepard was born in New Hampshire and died in California. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
 
-Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. AD Isidro Metapan has 10000 members.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense has 17000 members.
+Train text: Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C and Agremiação Sportiva Arapiraquense also play in this league. AD Isidro Metapan has 10000 members.
+Generated text: Campeonato Brasileiro Série C are former champions of Agremiação Sportiva Arapiraquense, Campeonato Brasileiro Série C also play in the same competition. Agremiação Sportiva Arapiraquense has 17000 members.
 
-Train text: Alan Shepard was born in New Hampshire but died in California. Alan Shepard was a crew member of Apollo 14.
+Train text: Sweden is the birth place of Ace Wilder. The nationality of William Anders is United States. Aaron Bertram's birth date is 1981-04-03.
+Generated text: Hubei is the birth place of Nie Haisheng. The nationality of Nie Haisheng is People's Republic of China. Nie Haisheng's birth date is 1964-10-13.
+
+Train text: Alan Shepard who born in New Hampshire died in California. Alan Shepard was a crew member of Apollo 14.
 Generated text: Alan Shepard was born in New Hampshire and died in California. Alan Shepard was a crew member of Apollo 14.
 
 Train text: Aaron Turner's music is Post-metal. Aaron Turner is associated with the group Greymachine. Aaron Turner started performing in 1995.
@@ -19,95 +22,155 @@ Generated text: Aaron Turner is a Post-metal musician. Aaron Turner is associate
 Train text: Aaron Turner is associated with the group Greymachine. Aaron Bertram's musical genre is Ska punk. Aaron deer plays the bass guitar.
 Generated text: Aaron Turner is associated with the group Lotus Eaters (band). Aaron Turner's musical genre is Black metal. Aaron Turner played the Electric guitar.
 
-Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense played in the 2015 Campeonato Brasileiro Série C season.
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. AmeriGas is located in the country of the United States.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument is located in the United States.
 
-Train text: Sweden is the birth place of Ace Wilder. Denmark's leader is Margrethe II of Denmark. Denmark's leader is Margrethe II of Denmark.
-Generated text: Turkey is the birth place of Nurhan Atasoy. Turkey's leader is Margrethe II of Turkey. Turkey's leader is Margrethe II of Turkey.
+Train text: Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C and Agremiação Sportiva Arapiraquense also play in this league. During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.
+Generated text: Campeonato Brasileiro Série C are former champions of Agremiação Sportiva Arapiraquense, Campeonato Brasileiro Série C also play in the same competition. Agremiação Sportiva Arapiraquense played in the 2015 Campeonato Brasileiro Série C season.
+
+Train text: Aleksandr Chumakov was born in Moscow and died in Russia, where Vladimir Putin is the leader.
+Generated text: Turkey, was born in the Recep Tayyip Erdoğan and died in Nurhan Atasoy, the leader of which, is Turkey.
 
 Train text: STV broadcast Bananaman starring Bill Oddie. BBC is located in London.
 Generated text: BBC broadcast Bananaman starring Bill Oddie. BBC is located in London.
 
-Train text: The periapsis of (19255) 1994 VK8 is 6155910000000.0 and its epoch is on 31 December 2006. 1001 Gaussia has an orbital period of 5.75 days.
+Train text: Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Acharya Institute of Technology is in Bangalore. Gregory L. Fenves was appointed as the president of the University of Texas at Austin.
+Generated text: Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University. Acharya Institute of Technology is located in Bangalore. B.M. Reddy was appointed as the president of the Acharya Institute of Technology.
+
+Train text: The 1 Decembrie 1918 University is located in the city of Alba Iulia, Romania (capital Bucharest).
+Generated text: The AmeriGas is located in the city of AmeriGas, United States (capital Washington, D.C.).
+
+Train text: The epoch of (19255) 1994 VK8 is on 31 December 2006 and its periapsis is 6155910000000.0. 1001 Gaussia has an orbital period of 5.75 days.
 Generated text: The epoch of 1147 Stavropolis is 31 July 2016 (JD2457600.5) and it has a periapsis of 260855000000.0. 1147 Stavropolis has an orbital period of 1249.6.
 
 Train text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league which is based in Brazil. Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.
 Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league which is based in Brazil. ''Alvinegro is the nickname for the Agremiação Sportiva Arapiraquense.
 
-Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Train text: Alan Bean, born in Wheeler, Texas, is a retired astronaut who was a member of the crew of Apollo 12.
+Generated text: Nie Haisheng, born in Zaoyang, was a crew member of Nie Haisheng where Shenzhou 10 served as the backup pilot.
+
+Train text: Operated by the United States Air Force, Al Asad airbase is located at Al Anbar Province, Iraq and has a runway that is 3090 metres long.
 Generated text: The Bedford Aerodrome is situated in the Thurleigh, is run by the MotorSport Vision and has a runway of 1095.0m.
 
-Train text: Alan Shepard was born in New Hampshire but died in California. The Senator representing California was Dianne Feinstein.
+Train text: Alan Shepard who born in New Hampshire died in California. The Senator representing California was Dianne Feinstein.
 Generated text: Alan Shepard was born in New Hampshire and died in California. The Senator representing California was Dianne Feinstein.
 
-Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Train text: Operated by the United States Air Force, Al Asad airbase is located at Al Anbar Province, Iraq and has a runway that is 3090 metres long.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the Madrid, is run by the ENAIRE and has a runway of 3500.0m.
 
-Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. French Guiana is the location of the Guiana Space Centre. ORAA is the ICAO location identifier of Al Asad Airbase.
-Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome. Thurleigh is the location of the Bedford Aerodrome. EGBF is the ICAO location identifier of Bedford Aerodrome.
+Train text: Alfred Garth Jones was born in Manchester in the U.K. He died in Sidcup.
+Generated text: Nie Haisheng was born in People's Republic of China in the Zaoyang and later died in Hubei.
 
-Train text: Agnes Ward White was the wife of Albert B. White who succeeded William M. O. Dawson, born in Bloomington, Maryland.
-Generated text: Casey Ribicoff was the wife of Abraham A. Ribicoff who succeeded Abraham A. Ribicoff, born in United States.
+Train text: The Acharya Institute of Technology was established in 2000, and is affiliated with the Visvesvaraya Technological University based in Belgaum.
+Generated text: The Acharya Institute of Technology was established in Bangalore, and is affiliated with the Acharya Institute of Technology based in 2000.
+
+Train text: Montevideo, Uruguay us the birthplace of Alfredo Zitarrosa. Montevideo is led by Daniel Martinez.
+Generated text: The birth place of Lady Anne Monson is Darlington, in Lady Anne Monson, the leader of which, is Darlington.
+
+Train text: The Airports Authority of India is the operating organisation of Agra Airport which is located in India and has the location identifier VIAG.
+Generated text: The Airports Authority of MotorSport Vision is the operating organisation of Bedford Aerodrome which is located in MotorSport Vision and has the location identifier Thurleigh.
+
+Train text: Agnes Ward White, born in Marietta, Ohio was married to Albert B. White who was succeeded by William MO Dawson.
+Generated text: United States succeeded Abraham A. Ribicoff, whose spouse was Abraham A. Ribicoff, who was born in John N. Dempsey.
+
+Train text: Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. Alan B. Miller Hall is situated in Virginia.
+Generated text: Mason School of Business is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. Alan B. Miller Hall is located in Virginia.
+
+Train text: Sweden is the birth place of Ace Wilder. Ace Wilder's occupation is a singer. Anaheim, California has a UTC offset of - 7.
+Generated text: Zaoyang is the birth place of Nie Haisheng. Fighter pilot is Nie Haisheng's occupation. Zaoyang has a UTC offset of +8.
+
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument is located in the state of Pennsylvania.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument stands in the state of Pennsylvania.
 
 Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. The Adolfo Suárez Madrid–Barajas Airport is in Paracuellos de Jarama.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. Adolfo Suárez Madrid–Barajas Airport is in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas.
 
-Train text: The title of the leader of Ann Arbor in Michigan is the City Manager. Adare is part of Munster. Adare is part of Munster.
-Generated text: The title of the leader in Ciudad Ayala is the City Manager. Ciudad Ayala is part of Morelos. Morelos is part of Cuernavaca.
+Train text: Anaheim, part of California, is led by the United States House of Representatives in the US Capitol.
+Generated text: Ciudad Ayala is led by the Ciudad Ayala, which is located in Morelos and which is part of the Cuernavaca.
 
-Train text: Sweden is the birth place of Ace Wilder. Sweden is the birth place of Ace Wilder. Alan Bean was a crew member on the Apollo 12 flight mission.
-Generated text: Zaoyang is the birth place of Nie Haisheng. Hubei is the birth place of Nie Haisheng. Nie Haisheng was a crew member on the Shenzhou 10 flight mission.
+Train text: Alan Bean, born in Wheeler, Texas, is a retired astronaut who was a member of the crew of Apollo 12.
+Generated text: Nie Haisheng, born in Shenzhou 10, was a crew member of Nie Haisheng where Zaoyang served as the backup pilot.
 
-Train text: The label Floating World Records signed Alison O'Donnell, who plays jazz music and is signed with the record label Deram Records.
-Generated text: Post-metal musician, Nord (Year of No Light album) was once signed to Crucial Blast and is signed to the record label E-Vinyl.
+Train text: Alfredo Zitarrosa started out as a solo singer, is signed with the record label Odeon Records and his musical genre is Candombe.
+Generated text: Nord (Year of No Light album) started out as a E-Vinyl, is signed with the record label Crucial Blast and his musical genre is Post-metal.
 
-Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Train text: Operated by the United States Air Force, Al Asad airbase is located at Al Anbar Province, Iraq and has a runway that is 3090 metres long.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, is run by the ENAIRE and has a runway of 3500.0m.
 
 Train text: Aaron Turner is associated with the group Greymachine. Aaron Bertram's musical genre is Ska punk. Aaron Turner started performing in 1995.
 Generated text: Aaron Turner is associated with the group Lotus Eaters (band). Aaron Turner's musical genre is Black metal. Aaron Turner started performing in 1995.
 
-Train text: Alfred Garth Jones was born in Manchester and he died in London. Aaron Bertram's birth date is 1981-04-03.
-Generated text: Olga Bondareva was born in Leningrad, USSR and died in Saint Petersburg. Olga Bondareva's birth date is 1937-04-27.
+Train text: 1 FC Magdeburg has 27250 members and played in the 3 Liga League in the 2014 season.
+Generated text: The Agremiação Sportiva Arapiraquense has 17000 members and play in the 2015 League. They also played in the Campeonato Brasileiro Série C season.
 
-Train text: The length of the runway at Aarhus Airport is 2776.0. Aarhus Airport serves the city of Aarhus, Denmark. French Guiana is the location of the Guiana Space Centre.
-Generated text: The length of the runway at Bedford Aerodrome is 1095.0. Bedford Aerodrome serves the city of Bedford Autodrome. Thurleigh is the location of the Bedford Aerodrome.
+Train text: Abraham A Ribicoff was born in the United States and died in New York. Aaron Bertram's birth date is 1981-04-03.
+Generated text: Olga Bondareva was born in Leningrad, USSR and died in the Saint Petersburg. Olga Bondareva's birth date is 1937-04-27.
 
-Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
+Train text: With a runway length of 3800 metres, Athens International Airport is in Spata, and serves the city of Athens.
+Generated text: With a runway length of Bedford Autodrome metres, Bedford Aerodrome is located in Thurleigh and serves the city of 1095.0.
+
+Train text: Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C and Agremiação Sportiva Arapiraquense also play in this league. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
+Generated text: Campeonato Brasileiro Série C are former champions of Agremiação Sportiva Arapiraquense, Campeonato Brasileiro Série C also play in the same competition. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
 
 Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. The nationality of William Anders is United States.
 Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Casey Ribicoff. The nationality of Abraham A. Ribicoff is United States.
 
-Train text: Alan Shepard was born in New Hampshire but died in California. Ace Wilder's occupation is a singer.
+Train text: Bananaman is broadcast by the BBC which is headquartered in Broadcasting house. Tim Brooke-Taylor starred in Bananaman.
+Generated text: Bananaman is broadcasted by the Bananaman which is based in the BBC in London. Tim Brooke-Taylor starred in Bananaman.
+
+Train text: Alan Shepard who born in New Hampshire died in California. Ace Wilder's occupation is a singer.
 Generated text: Alan Shepard was born in New Hampshire and died in California. Test pilot is Alan Shepard's occupation.
 
-Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
-Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
+Train text: Appleton International Airport is elevated 280 metres above sea level and has a runway length of 1982.0. It is operated by an organisation in Outagamie County, Wisconsin.
+Generated text: Adolfo Suárez Madrid–Barajas Airport is elevated 3500.0 metres above sea level and has a runway length of ENAIRE. It is operated by an organisation in 610.0.
 
-Train text: Hypermarcas is located in Brazil. Hypermarcas produces cosmetics. Hypermarcas produces cosmetics.
-Generated text: The Hypermarcas is located in Brazil. Hypermarcas produces the Drugs. Hypermarcas produces the Healthcare.
+Train text: Sweden is the birth place of Ace Wilder. The nationality of William Anders is United States. German is a language spoken in Denmark.
+Generated text: Karlsruhe is the birth place of Liselotte Grschebina. The nationality of Liselotte Grschebina is Israel. The Israeln language is spoken in Israel.
+
+Train text: GMA New Media founded on 01/01/2000, is located in the GMA Network Center and makes mobile apps.
+Generated text: Hypermarcas manufactures Drugs and is located in Healthcare in Hypermarcas.
+
+Train text: GMA New Media is a mass media founded on 01-01-2000 that makes mobile applications.
+Generated text: GMA New Media, whose products include World Wide Web, was founded in Mobile Applications on 2000-01-01.
+
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
 
 Train text: Hypermarcas is located in Brazil. Hypermarcas produces cosmetics. AmeriGas was founded on 1959-01-01.
 Generated text: The Hypermarcas is located in Brazil. Hypermarcas produces the Drugs. Hypermarcas was founded on 2001-01-01.
 
+Train text: Bill Oddies stars in Bananaman, broadcasted by the BBC. The main language spoken on Alderney is English.
+Generated text: Tom Sizemores stars in Super Capers, broadcasted by the Michael Rooker. The English language is spoken in Super Capers.
+
 Train text: AC Chievo Verona play in the Serie A league. AD Isidro Metapan has 10000 members. Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.
 Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense has 17000 members. ''Alvinegro is the nickname for the Agremiação Sportiva Arapiraquense.
 
-Train text: Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk. Aaron Turner is associated with the group Greymachine.
-Generated text: Death metal is a fusion genre of Black metal. Aaron Turner's musical genre is Black metal. Aaron Turner is associated with the group Old Man Gloom.
+Train text: Alan Bean, was one of the Americans hired by NASA in 1963 to crew Apollo 12.
+Generated text: Nie Haisheng, born in the Shenzhou 10, was selected by NASA in People's Republic of China and served as a crew member of Shenzhou 6.
+
+Train text: Associated with the group Greymachine, Aaron Turner, is a Black metal musician. Death metal is a musical fusion of black metal.
+Generated text: Associated with the group Old Man Gloom, Aaron Turner, is a Aaron Turner musician. Old Man Gloom is a musical fusion of black metal.
 
 Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. Abraham A Ribicoff died in New York City.
 Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Casey Ribicoff. Abraham A. Ribicoff died in New York City.
 
-Train text: The United States Air Force is the operating organisation for Al Asad airbase, which is located at Al Anbar Province, Iraq, and has a runway length of 3990.0 metres.
+Train text: Operated by the United States Air Force, Al Asad airbase is located at Al Anbar Province, Iraq and has a runway that is 3090 metres long.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is situated in the San Sebastián de los Reyes, is run by the ENAIRE and has a runway of 3500.0m.
+
+Train text: 1 FC Magdeburg has 27250 members and played in the 3 Liga League in the 2014 season.
+Generated text: The Agremiação Sportiva Arapiraquense has 17000 members and play in the 2015 Campeonato Brasileiro Série C League. They also played in the Campeonato Brasileiro Série C season.
 
 Train text: The nationality of William Anders is United States. Walter Baade was born in the German Empire. Aaron Bertram's birth date is 1981-04-03.
 Generated text: The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire. Liselotte Grschebina's birth date is 1908-05-02.
 
+Train text: Bass guitarist Aaron Deer is a performer of Indie rock. Aaron Turner is associated with the group Greymachine.
+Generated text: Black metalist Aaron Turner is a performer of Singing. Aaron Turner is associated with the group Twilight (band).
+
 Train text: 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion. The book "A Glastonbury Romance" was followed by "Weymouth Sands". The musical genre of Ace Wilder is hip hop music.
 Generated text: Expect a Miracle was preceded by Pools of Light (Brian Kelly album). The book "Expect a Miracle" was followed by "Afterplay (Brian Kelly album)". Expect a Miracle's musical genre is Instrumental music.
+
+Train text: Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Mason School of Business is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The owner of the Alan B. Miller Hall is College of William & Mary.
 
 Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. Adolfo Suárez Madrid–Barajas Airport is found in Madrid.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. The Adolfo Suárez Madrid–Barajas Airport is in Madrid.
@@ -115,8 +178,11 @@ Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIR
 Train text: A Glastonbury Romance was published by The Bodley Head. The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. Virginia DeMarce is the author of 1634: The Ram Rebellion.
 Generated text: The Fellowship of the Ring was published by George Allen & Unwin. The novel The Fellowship of the Ring is followed by The Two Towers. J. R. R. Tolkien is the author of The Fellowship of the Ring.
 
-Train text: "The Secret Scripture" followed the book "A Long Long Way," which was preceded by "Annie Dunne". The book The Secret Scripture followed the book "A Long Long Way".
-Generated text: "Imagine (John Lennon song)" followed the book "Mermaid (Train song)," which was preceded by "This'll Be My Year". The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)".
+Train text: FC Amkar Perm football club player, Aleksandr Prudnikov, was a member of the youth side of FC Spartak Moscow, which has Otkrytiye Arena as a home ground.
+Generated text: FC Terek Grozny football club player, Aleksandr Prudnikov, was a member of the youth side of FC Terek Grozny, which has Grozny as a home ground.
+
+Train text: 1634: The Bavarian Crisis was preceded by 1634: The Baltic War. The book The Secret Scripture followed the book "A Long Long Way". The book The Secret Scripture followed the book "A Long Long Way".
+Generated text: Mermaid (Train song) was preceded by This'll Be My Year. The book Imagine (John Lennon song) followed the book "Mermaid (Train song)". The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)".
 
 Train text: The place of death for Alfred Garth Jones was Sidcup. The title of the leader of the United States is President of the United States. AmeriGas was founded on 1959-01-01.
 Generated text: Saint Petersburg is the death place of Olga Bondareva. The leader of the Saint Petersburg has the title President of the Saint Petersburg. Saint Petersburg was founded on 1703-05-27.
@@ -127,17 +193,35 @@ Generated text: MotorSport Vision is the operation organisation of Bedford Aerod
 Train text: The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. Virginia DeMarce is the author of 1634: The Ram Rebellion. A Glastonbury Romance was published by The Bodley Head.
 Generated text: The novel The Fellowship of the Ring is followed by The Two Towers. J. R. R. Tolkien is the author of The Fellowship of the Ring. The Two Towers was published by George Allen & Unwin.
 
-Train text: Anaheim, California (United States), is led by the California State Assembly.
-Generated text: The Ciudad Ayala (part of the Morelos), leads Ciudad Ayala, in the Mexico.
+Train text: Abradab was born on November 12th, 1978 in Katowice, Poland.
+Generated text: Lady Anne Monson was born on 1726-01-01 in Kingdom of England and retired on Darlington.
 
-Train text: Aaron Bertram's musical genre is Ska punk. Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk.
-Generated text: Turn Me On (album)'s musical genre is Punk blues. Noise pop is a fusion genre of Noise rock. Turn Me On (album)'s musical genre is Noise rock.
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0.
+
+Train text: Anaheim can be found in California in the United States and is led by the U.S. House of Representatives.
+Generated text: The Morelos House of Representatives leads Ciudad Ayala, in the U.S.
+
+Train text: Agnes Kant was a resident of Doesburg. A.T. Charlie Johnson resides in the United States. The English language is the language of the United States.
+Generated text: Darinka Dentcheva was a resident of New Jersey. Darinka Dentcheva resides in the United States. The English language is used in United States.
+
+Train text: Bill Oddies stars in Bananaman, broadcasted by the BBC. The place of death for Alfred Garth Jones was Sidcup.
+Generated text: Cecil Parkers stars in It's Great to Be Young (1956 film), broadcasted by the John Mills. Denham, Buckinghamshire is the death place of John Mills.
+
+Train text: Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Acharya Institute of Technology is in Bangalore. The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.
+Generated text: Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University. Acharya Institute of Technology is located in Bangalore. The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.
+
+Train text: Associated with the group Greymachine, Aaron Turner, is a Black metal musician. Death metal is a musical fusion of black metal.
+Generated text: Associated with the group Punk blues, Turn Me On (album), is a Turn Me On (album) musician. Noise rock is a musical fusion of black metal.
 
 Train text: The address of Akita Museum of Art is "1-4-2 Nakadori". Alan B. Miller Hall is situated in Virginia. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
 Generated text: The address of Alan B. Miller Hall is 101 Ukrop Way. Alan B. Miller Hall is located in Virginia. The owner of the Alan B. Miller Hall is College of William & Mary.
 
-Train text: Nu metal is a music fusion genre of alternative rock. Aaron Bertram's musical genre is Ska punk. Aaron Turner started performing in 1995.
-Generated text: Death metal is a fusion genre of Black metal. Aaron Turner's musical genre is Black metal. Aaron Turner started performing in 1995.
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+
+Train text: Pop musician Aleksandra Kovac became active in 1990. Disco music is a type of pop music.
+Generated text: Black metal's began her music career in Death metal in Aaron Turner. A fusion of Aaron Turner is 1995.
 
 Train text: The nationality of William Anders is United States. Walter Baade was born in the German Empire. Alan Shepard died on 1998-07-21.
 Generated text: The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire. Liselotte Grschebina died 1994-06-14.

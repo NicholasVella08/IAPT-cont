@@ -1,35 +1,32 @@
-Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Almond is an ingredient in the Spanish dish ajoblanco.
-Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Granola is an ingredient in Bionico which comes from Mexico.
+Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Garlic is an ingredient used in Ajoblanco which originates from the country of Spain.
+Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Mexico is an ingredient used in Bionico which originates from the country of Granola.
 
 Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard was born in New Hampshire. Alan Shepard was a crew member of Apollo 14.
 Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard was born in New Hampshire. Alan Shepard was a crew member of Apollo 14.
 
-Train text: Alan Shepard died on 1998-07-21. The place of death for Alfred Garth Jones was Sidcup. Alan Bean was born in Wheeler, Texas and is a citizen of the United States.
-Generated text: Liselotte Grschebina died 1994-06-14. Israel is the death place of Liselotte Grschebina. Liselotte Grschebina nationality is the Israel, but he was born in German Empire.
+Train text: Alan Shepard died in California on July 21, 1998. The nationality of William Anders is United States. Walter Baade was born in the German Empire.
+Generated text: Liselotte Grschebina died in 1994-06-14 on Israel. The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire.
 
 Train text: Anaheim, California has a UTC offset of - 7. The title of the leader of the United States is President of the United States. Chicago is located in the United States. Aarhus Airport is 25.0 metres above the sea level.
 Generated text: Ciudad Ayala has a UTC offset of −6. The leader of the Ciudad Ayala has the title President of the Ciudad Ayala. Ciudad Ayala is located in the Mexico. The Ciudad Ayala is 1147.0 metres above sea level.
 
-Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. AD Isidro Metapan has 10000 members. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense has 17000 members. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
+Train text: Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C and Agremiação Sportiva Arapiraquense also play in this league. It has 5300 members, and the full name of A.S. Gubbio 1910, is Associazione Sportiva Gubbio 1910 Srl.
+Generated text: Campeonato Brasileiro Série C are former champions of Agremiação Sportiva Arapiraquense, Campeonato Brasileiro Série C also play in the same competition. It has Agremiação Sportiva Arapiraquense members, and the full name of Agremiação Sportiva Arapiraquense, is 17000.
 
-Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. 18R/36L is the runway name of the Adolfo Suárez Madrid-Barajas Airport.
-Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. The Adolfo Suárez Madrid–Barajas Airport's runway name is "14L/32R".
+Train text: Aktieselskab is the operating organisation for Aarhus Airport which is located at 25 metres above sea level. It has a runway name of 10L/28R and has a length of 2776.0.
+Generated text: Operated by the 610.0 organisation, Adolfo Suárez Madrid–Barajas Airport is 3500.0 metres above the sea level. It has a runway length of ENAIRE and 14L/32R is the runway name.
 
-Train text: The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11. French Guiana is the location of the Guiana Space Centre. Frederick County, Maryland is to the southwest of Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
-Generated text: The 11th Mississippi Infantry Monument was established in 2000. Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument. Frederick County, Maryland is to the southwest of Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
-
-Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Asam pedas is a dish of fish cooked in a sour and hot sauce and comes from Indonesia and Malaysia.
-Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. The dish Bionico can be found in the Mexico, its main ingredient is Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins.
+Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Fish cooked in sour and hot sauce are the main ingredients of Asam pedas which is a food found in Malaysia.
+Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Mexico are the main ingredients of Bionico which is a food found in Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins.
 
 Train text: Aaron Turner's music is Post-metal. Aaron Deer was born in the United States. Aaron Turner is associated with the group Greymachine. Aaron deer plays the bass guitar.
 Generated text: Aaron Turner is a Post-metal musician. Aaron Turner was born in the United States. Aaron Turner is associated with the group Twilight (band). Aaron Turner played the Electric guitar.
 
-Train text: The location of the BBC is the Broadcasting House in London. The character, April O'Neil, was created by Peter Laird. Bill Oddies stars in Bananaman, broadcasted by the BBC.
-Generated text: The location of the BBC is the Broadcasting House in London. The TV character Bananaman was created by Steve Bright. Tim Brooke-Taylors stars in Bananaman, broadcasted by the BBC.
+Train text: The location of the BBC is the Broadcasting House in London. The character, April O'Neil, was created by Peter Laird. Tim Brooke-Taylor starred in Bananaman, which was broadcasted by STV.
+Generated text: The location of the BBC is the Broadcasting House in London. The TV character Bananaman was created by Steve Bright. BBC starred in Bananaman, which was broadcasted by Tim Brooke-Taylor.
 
-Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Niger State, is the birth place of Abdulsalami Abubakar, whose alma mater was the Technical Institute, Kaduna.
-Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. New Hampshire, is the birth place of Alan Shepard, whose alma mater was the NWC, M.A. 1957.
+Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Elliot See graduated from the University of Texas at Austin and was also born in Dallas, Texas.
+Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard graduated from the New Hampshire and was also born in NWC, M.A. 1957, Texas.
 
 Train text: Agnes Kant was a resident of Doesburg. The title of the leader of the United States is President of the United States. Maine is the birth place of Aaron S. Daggett. AmeriGas was founded on 1959-01-01.
 Generated text: Lady Anne Monson was a resident of India. The leader of the India has the title President of the India. The birth place of Lady Anne Monson is Darlington. India was founded on 1950-01-26.
@@ -40,8 +37,8 @@ Generated text: The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason S
 Train text: Bass guitarist Aaron Deer is a performer of Indie rock. Aaron Turner is associated with the group Greymachine. Aaron Turner started performing in 1995.
 Generated text: Singingist Aaron Turner is a performer of Post-metal. Aaron Turner is associated with the group Twilight (band). Aaron Turner started performing in 1995.
 
-Train text: Aaron Bertram's musical genre is Ska punk. Hip hop music has its origins in Disco. Aaron Bertram's musical genre is Ska punk. Hip hop music has its origins in Disco.
-Generated text: Mermaid (Train song)'s musical genre is Pop rock. Reggae has its origins in Ska. Mermaid (Train song)'s musical genre is Reggae. Pop rock has its origins in Rock music.
+Train text: Aaron Bertram plays for the Suburban Legends band and the Kids Imagine Nation. He performs ska punk, which is originated from punk rock music.
+Generated text: Mermaid (Train song) plays for both the Pop rock band and Reggae band. Mermaid (Train song)'s musical genre is Reggae which originated from ska music.
 
 Train text: Aleksandr Prudnikov played for FC Rubin Kazan. Aleksandr Prudnikov's height is 185.0 (centimetres). Aaron Hunt played for the Goslarer SC 08 youth team. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
 Generated text: Aleksandr Prudnikov played for FC Amkar Perm Aleksandr Prudnikov has a height of 185.0 (centimetres)etres. Aleksandr Prudnikov played for the FC Spartak Moscow youth team. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
@@ -58,14 +55,20 @@ Generated text: Aaron Turner is a Post-metal musician. Aaron Turner was born in 
 Train text: Chicago is located in the United States. Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The Philippines' time zone is Philippine Standard Time. The Philippines' time zone is Philippine Standard Time.
 Generated text: Ciudad Ayala is located in the Mexico. The population density of Mexico is 61.0 per square kilometer. The time zone for the Ciudad Ayala is Pacific Daylight Time. The time zone for the Ciudad Ayala is Pacific Standard Time Zone.
 
-Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Beef is an ingredient in the Chinese dish Bakso.
-Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Raisin is an ingredient in Bionico which comes from the Mexico.
+Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Garlic is an ingredient used in Ajoblanco which originates from the country of Spain.
+Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Mexico is an ingredient used in Bionico which originates from the country of Raisin.
 
-Train text: Alfred Garth Jones was born in England and died in Sidcup. The nationality of William Anders is United States. Walter Baade was born in the German Empire.
-Generated text: Liselotte Grschebina was born in Karlsruhe and died in Israel. The nationality of Liselotte Grschebina is Israel. Liselotte Grschebina was born in German Empire.
+Train text: Alfred Garth Jones was born in Manchester, England, UK and died in Sidcup.
+Generated text: Liselotte Grschebina was born in Israel, Karlsruhe, in the Israel and died in German Empire.
 
 Train text: Aaron Boogaard's height is 1.905 metres. Adam McQuaid weighs 94.8024 kilograms. England is the birth place of Tim Brooke-Taylor. Aaron Bertram's birth date is 1981-04-03.
 Generated text: Piotr Hallmann's height is 175.26 metres. Piotr Hallmann weighs 70.308. Gdynia, Poland is the birthplace of Piotr Hallmann. Piotr Hallmann's birth date is 1987-08-25.
+
+Train text: Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie. Aaron Bertram's birth date is 1981-04-03.
+Generated text: Justin Whalin, who starred in Super Capers, was born in Michael Rooker and has a child called San Francisco. Michael Rooker's birth date is 1955-04-06.
+
+Train text: To the southeast of Adams County, Pennsylvania where 11th Mississippi Infantry Monument is found lies Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property. AmeriGas is located in the country of the United States.
+Generated text: To the southeast of Carroll County, Maryland, where Carroll County, Maryland is located, lies Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property. The 11th Mississippi Infantry Monument is located in the United States.
 
 Train text: The AMC Matador was assembled in Mexico. Abilene is part of Jones County, Texas. Chicago is part of Illinois. The manufacturer of the 1955 Dodge is the company Dodge.
 Generated text: Pontiac Rageous was assembled in the Detroit. Detroit is part of Wayne County, Michigan. Detroit is part of Michigan. The manufacturer of the Pontiac Rageous is the company Pontiac.
@@ -73,41 +76,38 @@ Generated text: Pontiac Rageous was assembled in the Detroit. Detroit is part of
 Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). 1001 Gaussia has an orbital period of 5.75 days. 1036 Ganymed was discovered by Walter Baade. 109 Felicitas has a rotational period of 47487.6.
 Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. 1147 Stavropolis has an orbital period of 1249.6. 1147 Stavropolis was discovered by Grigory Neujmin. 1147 Stavropolis has a rotation period of 20378.5.
 
-Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
-Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. Adolfo Suárez Madrid–Barajas Airport is in Alcobendas. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
+Train text: The Pakistan Civil Aviation Authority is the operating authority of the Allama Iqbal International Airport, which is located in Punjab, Pakistan. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is located at Alcobendas and is the operating organisation of the Adolfo Suárez Madrid–Barajas Airport. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
 
 Train text: Alfred Garth Jones was born in the United Kingdom. The total area of Akron Ohio is 161.54 Sq Km. Agnes Kant was a resident of Doesburg. The title of the leader of the United States is President of the United States.
 Generated text: Lady Anne Monson was born in the Kingdom of England. The total area of India is 3287590000000.0. Lady Anne Monson was a resident of India. The leader of the India has the title President of the India.
 
-Train text: AC Chievo Verona play in the Serie A league. During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League. The Flemish region is in the country of Belgium. AD Isidro Metapan has 10000 members.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense played in the 2015 Campeonato Brasileiro Série C season. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense has 17000 members.
+Train text: Agremiação Sportiva Arapiraquense play in the Brazilian-based Campeonato Brasileiro Série C league and they played in the 2015 season. AD Isidro Metapan has 10000 members.
+Generated text: Campeonato Brasileiro Série C play in the Brazil Campeonato Brasileiro Série Cian-based Campeonato Brasileiro Série C league and they played in the Brazil season. Agremiação Sportiva Arapiraquense has 17000 members.
 
-Train text: The manufacturer of the 1955 Dodge is the company Dodge. Universal Music group is the parent company of Philips Records. The AMC Matador was assembled in Mexico. The AMC Matador was assembled in Mexico.
-Generated text: The manufacturer of the Pontiac Rageous is the company Pontiac. The General Motors is the parent company of Pontiac. Pontiac Rageous was assembled in the Michigan. Pontiac Rageous was assembled in the Detroit.
+Train text: The manufacturer of the 1955 Dodge is the company Dodge. Universal Music group is the parent company of Philips Records. 1971 is one of the model years of the AMC Matador which was assembled in Mexico City.
+Generated text: The manufacturer of the Pontiac Rageous is the company Pontiac. The General Motors is the parent company of Pontiac. Detroit is one of the model years of the Pontiac Rageous which is assembled in Michigan.
 
-Train text: Alison O'Donnell is signed to the record label of Floating World Records. Asilomar Conference Grounds are located in Pacific Grove, California. Hypermarcas is located in Sao Paulo. Ace Wilder is signed to the record label Warner Music Group.
-Generated text: Bootleg Series Volume 1: The Quine Tapes is signed to the record label Polydor Records. The Universal Music Group is located in Santa Monica, California. Polydor Records is located in London. Bootleg Series Volume 1: The Quine Tapes is signed to the record label Universal Music Group.
+Train text: Folk rock artist Alison O'Donnell is signed with Floating World Records and Deram Record. London is the home of Deram Records.
+Generated text: Polydor Records artist Bootleg Series Volume 1: The Quine Tapes is signed with Universal Music Group and Deram Record. London is the home of Polydor Records.
 
-Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. French Guiana is the location of the Guiana Space Centre. ORAA is the ICAO location identifier of Al Asad Airbase. The elevation above the sea level (in metres) of Agra Airport is 167.94.
-Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome. Thurleigh is the location of the Bedford Aerodrome. EGBF is the ICAO location identifier of Bedford Aerodrome. Bedford Aerodrome elevation above the sea level in metres is 83.2104.
+Train text: The Airports Authority of India is the operating organisation of Agra Airport which is located in India and has the location identifier VIAG. The elevation above the sea level (in metres) of Agra Airport is 167.94.
+Generated text: The Airports Authority of MotorSport Vision is the operating organisation of Bedford Aerodrome which is located in MotorSport Vision and has the location identifier Thurleigh. Bedford Aerodrome elevation above the sea level in metres is 83.2104.
 
-Train text: A Glastonbury Romance was published by The Bodley Head. The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature. The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.
-Generated text: The Fellowship of the Ring was published by George Allen & Unwin. The Fellowship of the Ring is considered Fantasy (genre). The novel The Fellowship of the Ring is followed by The Two Towers. The Fellowship of the Ring was preceded by The Hobbit.
+Train text: A Glastonbury Romance was published by The Bodley Head. The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature. 1634: The Ram Rebellion is followed by 1635: The Cannon Law and preceded by 1634 The Galileo Affair.
+Generated text: The Fellowship of the Ring was published by George Allen & Unwin. The Fellowship of the Ring is considered Fantasy (genre). The novel The Fellowship of the Ring was preceded by The Two Towers and followed by The Hobbit.
 
 Train text: Agnes Kant was a resident of Doesburg. The Philippines' time zone is Philippine Standard Time. King of Prussia, Pennsylvania is in the North American Eastern time zone. Agnes Kant was a resident of Doesburg.
 Generated text: Nurhan Atasoy was a resident of Istanbul. The time zone for the Istanbul is Eastern European Time. The time zone for Istanbul is the Eastern European Summer Time. Nurhan Atasoy was a resident of Turkey.
 
-Train text: Lewis N. Cottingham is the architect of Adare Manor. The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.
-Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall are owned by Alan B. Miller Hall who are located in Virginia.
-
-Train text: Lewis N. Cottingham is the architect of Adare Manor. The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The building of 103 Colmore Row was completed in 1976. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
-Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The building of Alan B. Miller Hall was completed in 2009-06-01. The owner of the Alan B. Miller Hall is College of William & Mary.
-
-Train text: Sweden is the birth place of Ace Wilder. Ícolo e bengo is part of Luanda Province. The total area of Akron Ohio is 161.54 Sq Km. Sweden is the birth place of Ace Wilder.
-Generated text: Reşadiye is the birth place of Nurhan Atasoy. Reşadiye is a part of the Tokat Province. The total area of Turkey is 783356.0. Turkey is the birth place of Nurhan Atasoy.
+Train text: Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.
+Generated text: Mason School of Business is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. Alan B. Miller Hall is located in Virginia who also own Alan B. Miller Hall.
 
 Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Batagor is a variation of the Siomay dish and is found in Indonesia.
 Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Dessert is a variation of the Cookie dish and is found in Mexico.
+
+Train text: Gangsta rap is a sub genre of Hip Hop music which has its stylistic origins in disco. Drum and bass is a derivative of hip hop which is the musical genre of Abradab.
+Generated text: The musical genre of Nord (Year of No Light album) is hip hop music which has its stylistic origins in Southern sludge. Post-metal is a derivative of Sludge metal which has the sub genre Stoner sludge.
 
 Train text: Alison O'Donnell is signed to the record label of Floating World Records. The book The Secret Scripture followed the book "A Long Long Way". Ace Wilder is signed to the record label Warner Music Group. The book The Secret Scripture followed the book "A Long Long Way".
 Generated text: Mermaid (Train song) is signed to the record label Columbia Records. The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)". Mermaid (Train song) is signed to the record label Sony Music Entertainment. The book Imagine (John Lennon song) followed the book "Mermaid (Train song)".
@@ -127,11 +127,14 @@ Generated text: The birth place of Lady Anne Monson is Darlington. Lady Anne Mon
 Train text: Aleksandr Prudnikov played for FC Rubin Kazan. Aaron Bertram's birth date is 1981-04-03. Aaron Hunt played for the Goslarer SC 08 youth team. Aleksandr Prudnikov's current club is FC Amkar Perm.
 Generated text: Aleksandr Prudnikov played for FC Amkar Perm Aleksandr Prudnikov's birth date is 1989-02-24. Aleksandr Prudnikov played for the FC Spartak Moscow youth team. Aleksandr Prudnikov's current club is FC Amkar Perm.
 
-Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The successor of Abraham A. Ribicoff was John N. Dempsey. Abradab was born in Poland and one of the country's ethnic groups is Kashubians.
-Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Anthony J. Celebrezze suceeded Abraham A. Ribicoff. Abraham A. Ribicoff was born in United States and one of the country's ethnic groups is African Americans.
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The successor of Abraham A. Ribicoff was John N. Dempsey. Albert Jennings Fountain was born in the United States, where one of the ethnic groups, is African Americans.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Anthony J. Celebrezze suceeded Abraham A. Ribicoff. African Americans was born in the Abraham A. Ribicoff, where one of the ethnic groups, is African Americans.
 
-Train text: Walter Baade was born in the German Empire. Uruguayan peso is the currency in Uruguay. Sweden is the birth place of Ace Wilder. Aarhus Airport is 25.0 metres above the sea level.
-Generated text: Liselotte Grschebina was born in German Empire. German Empirean peso is the currency in German Empire. Karlsruhe is the birth place of Liselotte Grschebina. The Karlsruhe is 115.0 metres above sea level.
+Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. African Americans are an ethnic group in the United States. Abraham A Ribicoff died in New York.
+Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Ruth Ribicoff. African Americans are an ethnic group in the United States. Abraham A. Ribicoff died in New York.
+
+Train text: Ab Klink was born in the Netherlands where the Euro is the currency, and the leader is, Mark Rutte. Aarhus Airport is 25.0 metres above the sea level.
+Generated text: Liselotte Grschebina was born in the Liselotte Grschebina where the German Empire is the currency, and the leader is, German Papiermark. The Karlsruhe is 115.0 metres above sea level.
 
 Train text: Aaron Turner's music is Post-metal. Aaron Deer was born in the United States. Aaron Turner is associated with the group Greymachine. Aaron Turner started performing in 1995.
 Generated text: Aaron Turner is a Post-metal musician. Aaron Turner was born in the United States. Aaron Turner is associated with the group Twilight (band). Aaron Turner started performing in 1995.
@@ -142,26 +145,23 @@ Generated text: The population density of Ciudad Ayala is 1604.0 per square kilo
 Train text: The length of the runway at Aarhus Airport is 2776.0. French Guiana is the location of the Guiana Space Centre. ORAA is the ICAO location identifier of Al Asad Airbase. The elevation above the sea level (in metres) of Agra Airport is 167.94.
 Generated text: The length of the runway at Bedford Aerodrome is 1095.0. Thurleigh is the location of the Bedford Aerodrome. EGBF is the ICAO location identifier of Bedford Aerodrome. Bedford Aerodrome elevation above the sea level in metres is 83.2104.
 
-Train text: 1634: The Bavarian Crisis was preceded by DeMarce short stories in the Grantville Gazettes. 1634: The Bavarian Crisis was preceded by 1634: The Baltic War. Alison O'Donnell is signed to the record label of Floating World Records. Hypermarcas is located in Sao Paulo.
-Generated text: Bootleg Series Volume 1: The Quine Tapes is preceded by Squeeze (The Velvet Underground album). Squeeze (The Velvet Underground album) was preceded by Andy Warhol's Velvet Underground Featuring Nico. Bootleg Series Volume 1: The Quine Tapes is signed to the record label Polydor Records. Polydor Records is located in London.
-
 Train text: Aleksandr Prudnikov played for FC Rubin Kazan. Aleksandr Prudnikov's height is 185.0 (centimetres). Aaron Bertram's birth date is 1981-04-03. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
 Generated text: Aleksandr Prudnikov played for FC Amkar Perm Aleksandr Prudnikov has a height of 185.0 (centimetres)etres. Aleksandr Prudnikov's birth date is 1989-02-24. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
 
-Train text: 1036 Ganymed was discovered by Walter Baade. The epoch of (19255) 1994 VK8 is on 31 December 2006. (15788) 1993 SB has a periapsis of 3997100000000.0. 1001 Gaussia has an orbital period of 5.75 days.
-Generated text: 1147 Stavropolis was discovered by Grigory Neujmin. The 1147 Stavropolis epoch is 31 July 2016 (JD2457600.5). 1147 Stavropolis has a periapsis of 260855000000.0. 1147 Stavropolis has an orbital period of 1249.6.
+Train text: 1036 Ganymed was discovered by Walter Baade. The epoch of (19255) 1994 VK8 is on 31 December 2006. (29075) 1950 DA, with an orbital period of 69862200.0 has a periapsis of 124950000000.0.
+Generated text: 1147 Stavropolis was discovered by Grigory Neujmin. The 1147 Stavropolis epoch is 31 July 2016 (JD2457600.5). 1147 Stavropolis, with an orbital period of 260855000000.0 has a periapsis of 1249.6.
 
 Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Batagor is a variation of the Siomay dish and is found in Indonesia.
 Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Dessert is a variation of the Sandesh (confectionery) dish and is found in Mexico.
 
-Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff is a member of the Democratic Party in the U.S.A. Abradab was born in Poland and one of the country's ethnic groups is Kashubians.
-Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff is a member of the Democratic Party (United States). Abraham A. Ribicoff was born in United States and one of the country's ethnic groups is African Americans.
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff is a member of the Democratic Party in the U.S.A. Albert Jennings Fountain was born in the United States, where one of the ethnic groups, is African Americans.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff is a member of the Democratic Party (United States). African Americans was born in the Abraham A. Ribicoff, where one of the ethnic groups, is African Americans.
 
 Train text: The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. 300 North LaSalle is located in Chicago, United States.
-Generated text: The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall is located in Virginia, United States.
+Generated text: The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall is located in United States, Virginia.
 
-Train text: Aaron Turner is a performer of the musical genre Post metal. Aaron deer plays the bass guitar. Aaron Turner is a performer of the musical genre Post metal. Aaron deer plays the bass guitar.
-Generated text: Nord (Year of No Light album) genre of music is Sludge metal. Post-metal played the Synthesizer. Nord (Year of No Light album) genre of music is Post-metal. Sludge metal played the Singing.
+Train text: The stylistic origin of indie rock is new wave music and Garage rock. It uses guitars and is performed by Aaron Deer.
+Generated text: Post-metal player, Nord (Year of No Light album), played for the Sludge metal band. Nord (Year of No Light album) is a musician of Sludge metal which can be fused to result in Singing.
 
 Train text: Aaron Turner's music is Post-metal. Aaron deer plays the bass guitar. Aaron Turner is from Massachusetts. Aaron Turner is associated with the group Greymachine.
 Generated text: Aaron Turner is a Post-metal musician. Aaron Turner played the Singing. Aaron Turner was born in Massachusetts. Aaron Turner is associated with the group Twilight (band).
@@ -169,35 +169,38 @@ Generated text: Aaron Turner is a Post-metal musician. Aaron Turner played the S
 Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard retired August 1st, 1974. Alan Shepard was born in New Hampshire.
 Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard retired on 1974-08-01. Alan Shepard was born in New Hampshire.
 
-Train text: Sweden is the birth place of Ace Wilder. The currency of Turkey is the Turkish lira. Sweden is the birth place of Ace Wilder. French is the official language of Belgium.
-Generated text: Reşadiye is the birth place of Nurhan Atasoy. The Turkish lira is the currency in Turkey. Turkey is the birth place of Nurhan Atasoy. The official language of Turkey is Turkish language.
+Train text: With a runway length of 3310.0, Allama Iqbal International airport is located in Pakistan. It serves the city of Lahore and is operated by he Pakistan Civil Aviation Authority.
+Generated text: The MotorSport Vision Civil Aviation Authority is the operating organisation of the Bedford Aerodrome in MotorSport Vision. The airport serves the city of Thurleigh and has a runway length of 1095.0.
+
+Train text: Ab Klink was born in the Netherlands where the Euro is the currency, and the leader is, Mark Rutte. French is the official language of Belgium.
+Generated text: Nurhan Atasoy was born in the Nurhan Atasoy where the Reşadiye is the currency, and the leader is, Turkish lira. The official language of Turkey is Turkish language.
 
 Train text: Tim Brooke-Taylor starred in Bananaman. Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6. Tim Brooke-Taylor starred in Bananaman. Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6.
 Generated text: Michael Rooker starred in Super Capers. The distributor of Super Capers is Lionsgate. Tom Sizemore starred in Super Capers. The distributor of Super Capers is Roadside Attractions.
 
-Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.
-Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. The Bionico is in Mexico, the country which has Silvano Aureoles Conejo as one of its leaders.
+Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Bionico is a food found in Mexico where the leader is Silvano Aureoles Conejo.
+Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Bionico is located in Mexico whose leader is Silvano Aureoles Conejo.
 
-Train text: AC Chievo Verona play in the Serie A league. FC Magdeburg played in the Regionalliga in 2014-15 season. The Flemish region is in the country of Belgium. AD Isidro Metapan has 10000 members.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense played in the 2015 season. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense has 17000 members.
+Train text: Agremiação Sportiva Arapiraquense play in the Brazilian-based Campeonato Brasileiro Série C league and they played in the 2015 season. AD Isidro Metapan has 10000 members.
+Generated text: Campeonato Brasileiro Série C play in the Brazilian-based Campeonato Brasileiro Série C league and they played in the Brazil season. Agremiação Sportiva Arapiraquense has 17000 members.
 
-Train text: Sweden is the birth place of Ace Wilder. Sweden is the birth place of Ace Wilder. Alan Bean was a crew member on the Apollo 12 flight mission. Alan Bean was a crew member on the Apollo 12 flight mission.
-Generated text: Zaoyang is the birth place of Nie Haisheng. Hubei is the birth place of Nie Haisheng. Nie Haisheng was a crew member on the Shenzhou 10 flight mission. Nie Haisheng was a crew member on the Shenzhou 6 flight mission.
+Train text: Alan Bean, who was a crew member on Apollo 12, was born 1932.03.15 in Wheeler Texas has now retired .
+Generated text: Nie Haisheng (born in Shenzhou 10) was a crew member of Shenzhou 6 and was selected by NASA in Hubei. He retired on Zaoyang.
 
 Train text: Aaron Bertram's musical genre is Ska punk. The book The Secret Scripture followed the book "A Long Long Way". The book The Secret Scripture followed the book "A Long Long Way". The musical genre of Ace Wilder is hip hop music.
 Generated text: Mermaid (Train song)'s musical genre is Reggae. The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)". The book Imagine (John Lennon song) followed the book "Mermaid (Train song)". Imagine (John Lennon song)'s musical genre is Pop music.
 
-Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Amsterdam Airport Schiphol, located in Haarlemmermeer, is at an elevation of -3.3528 from sea level.
-Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport, located in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, is at an elevation of 610.0 from sea level.
+Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. The Adolfo Suárez Madrid–Barajas Airport is in Paracuellos de Jarama.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. Adolfo Suárez Madrid–Barajas Airport is in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas.
 
 Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
 Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The owner of the Alan B. Miller Hall is College of William & Mary.
 
-Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. The Adolfo Suárez Madrid–Barajas Airport is in Paracuellos de Jarama.
-Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.
+Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which has a runway length of 2702.0. Adolfo Suarez Madrid-Barajas airport is located at Paracuellos de Jarama and is elevated 610 metres above sea level.
+Generated text: ENAIRE is the operation organisation of Adolfo Suárez Madrid–Barajas Airport which has a runway length of 3500.0. Adolfo Suárez Madrid–Barajas Airport is elevated San Sebastián de los Reyes metres above sea level and is located in 610.0.
 
-Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff died in the United States. Abradab was born in Poland and one of the country's ethnic groups is Kashubians.
-Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff died in United States. Abraham A. Ribicoff was born in United States and one of the country's ethnic groups is African Americans.
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff died in the United States. Albert Jennings Fountain was born in the United States, where one of the ethnic groups, is African Americans.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff died in United States. African Americans was born in the Abraham A. Ribicoff, where one of the ethnic groups, is African Americans.
 
 Train text: Aleksandr Prudnikov played for FC Rubin Kazan. Aaron Bertram's birth date is 1981-04-03. Aaron Hunt played for the Goslarer SC 08 youth team. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
 Generated text: Aleksandr Prudnikov played for FC Amkar Perm Aleksandr Prudnikov's birth date is 1989-02-24. Aleksandr Prudnikov played for the FC Spartak Moscow youth team. Gadzhi Gadzhiyev is the manager of FC Amkar Perm.
@@ -214,44 +217,44 @@ Generated text: Aaron Turner is a Post-metal musician. Aaron Turner was born in 
 Train text: The foundation place of Trane is La Crosse, Wisconsin. The elevation above the sea level (in metres) of Agra Airport is 167.94. The revenue of Trane is 10264000000. AmeriGas was founded on 1959-01-01.
 Generated text: The foundation place of Trane is La Crosse, Wisconsin. La Crosse, Wisconsin elevation above the sea level in metres is 204.0. The revenue of Trane is 10264000000. Trane was founded on 1913-01-01.
 
-Train text: Walter Baade's alma mater was the University of Gottingen. Chicago is located in the United States. The leader of Buenos Aires is called Gabriela Michetti and this is the place where Alberto Teisaire died.
-Generated text: Olga Bondareva's Alma mater is Leningrad State University. Saint Petersburg is located in the Russia. The leader of Saint Petersburg is called Georgy Poltavchenko and this is the place where Olga Bondareva died.
+Train text: Walter Baade's alma mater was the University of Gottingen. Chicago is located in the United States. Alfred Garth Jones died in London where Boris Johnson is its leader.
+Generated text: Olga Bondareva's Alma mater is Leningrad State University. Saint Petersburg is located in the Russia. Olga Bondareva died in Saint Petersburg where Georgy Poltavchenko is its leader.
 
 Train text: Agnes Kant was a resident of Doesburg. Margrethe II of Denmark is the leader of Denmark. Alfred Garth Jones was born in the United Kingdom. The total area of Akron Ohio is 161.54 Sq Km.
 Generated text: Lady Anne Monson was a resident of India. Margrethe II of India is the leader of India. Lady Anne Monson was born in the Kingdom of England. The total area of India is 3287590000000.0.
 
-Train text: Alan Bean was a crew member on the Apollo 12 flight mission. Alan Bean was a crew member on the Apollo 12 flight mission. The nationality of William Anders is United States. Aaron Bertram's birth date is 1981-04-03.
-Generated text: Nie Haisheng was a crew member on the Shenzhou 10 flight mission. Nie Haisheng was a crew member on the Shenzhou 6 flight mission. The nationality of Nie Haisheng is People's Republic of China. Nie Haisheng's birth date is 1964-10-13.
+Train text: American Alan Bean was born in Wheeler, Texas on March 15th, 1932 and was a member of Apollo 12.
+Generated text: Nie Haisheng is a national of the Shenzhou 6. He was in born in Shenzhou 10 on 1964-10-13. He was a crew member of People's Republic of China.
 
-Train text: The A.E Dimitra Efxeinoupolis club is located in Greece where two of the leaders are Alexis Tsipras and Nikos Voutsis. GMA New Media is located in the city of Quezon.
-Generated text: The GMA New Media club is located in Philippines where two of the leaders are Aquilino Pimentel III and Rodrigo Duterte. The GMA New Media is located in Quezon City.
+Train text: One of the ethnic groups of South Africa, where the leader is Jacob Zuma, are the Asian South Africans. The capital city is Cape Town and 11 Diagonal Street is located within the country.
+Generated text: GMA New Media is located in Aquilino Pimentel III, Philippines, where Rodrigo Duterte is one of the countries leaders and Quezon City is the capital city.
 
 Train text: Agnes Kant was a resident of Doesburg. Denmark's leader is Margrethe II of Denmark. Denmark's leader is Margrethe II of Denmark. Agnes Kant was a resident of Doesburg.
 Generated text: Nurhan Atasoy was a resident of Istanbul. Turkey's leader is Margrethe II of Turkey. Turkey's leader is Margrethe II of Turkey. Nurhan Atasoy was a resident of Turkey.
 
-Train text: Aarhus Airport serves the city of Aarhus, Denmark. The elevation above the sea level (in metres) of Agra Airport is 167.94. The length of the runway at Aarhus Airport is 2776.0. 10L/28R is the runway name of the Aarhus Airport.
-Generated text: Bedford Aerodrome serves the city of Bedford Autodrome. Bedford Aerodrome elevation above the sea level in metres is 83.2104. The length of the runway at Bedford Aerodrome is 1095.0. 08/26 is the runway name of the Bedford Aerodrome.
+Train text: Serving the city of Abilene in Texas, the Abilene Regional Airport is 546 metres above sea level. It has the runway name 17L/35R and has a runway length of 21940 metres.
+Generated text: Bedford Aerodrome serves Bedford Autodrome and is 1095.0 metres above sea level. The runway name is 08/26 and has a length of 83.2104.
 
 Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. NASA selected Alan Shepard in 1959. Alan Shepard was born in New Hampshire.
 Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. NASA selected Alan Shepard in 1959. Alan Shepard was born in New Hampshire.
 
-Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The title of the leader of the United States is President of the United States. Abilene is part of Jones County, Texas, United States.
-Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer. The leader of the Ciudad Ayala has the title President of the Ciudad Ayala. Ciudad Ayala is part of Ciudad Ayala, Mexico.
+Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The title of the leader of the United States is President of the United States. Abilene is part of Taylor County in Texas, in the United States.
+Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer. The leader of the Ciudad Ayala has the title President of the Ciudad Ayala. Ciudad Ayala is part of Morelos, in the Mexico.
 
-Train text: The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11. French Guiana is the location of the Guiana Space Centre. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
-Generated text: The 11th Mississippi Infantry Monument was established in 2000. Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
 
-Train text: Sweden is the birth place of Ace Wilder. Sweden is the birth place of Ace Wilder. The nationality of William Anders is United States. Aaron Bertram's birth date is 1981-04-03.
-Generated text: Zaoyang is the birth place of Nie Haisheng. Hubei is the birth place of Nie Haisheng. The nationality of Nie Haisheng is People's Republic of China. Nie Haisheng's birth date is 1964-10-13.
+Train text: Alan Bean is a United States citizen born in Wheeler, Texas on 15 March 1932 and who graduated from UT Austin BS in 1955.
+Generated text: Nie Haisheng is a national of the Hubei. He was in born in Zaoyang on 1964-10-13. He was a crew member of People's Republic of China.
 
 Train text: England is the birth place of Tim Brooke-Taylor. The Philippines' time zone is Philippine Standard Time. King of Prussia, Pennsylvania is in the North American Eastern time zone. Aaron Boogaard's height is 1.905 metres.
 Generated text: Gdynia, Poland is the birthplace of Piotr Hallmann. The time zone for the Gdynia, Poland is Central European Time. The time zone for Gdynia, Poland is the Central European Summer Time. Piotr Hallmann's height is 175.26 metres.
 
-Train text: Lewis N. Cottingham is the architect of Adare Manor. The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The Alan B. Miller Hall is owned by The College of William and Mary in Virginia.
-Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall are owned by Alan B. Miller Hall who are located in Williamsburg, Virginia.
+Train text: Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The Alan B Miller Hall is located in Williamsburg, Virginia. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Mason School of Business is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. Alan B. Miller Hall is located in Williamsburg, Virginia. The owner of the Alan B. Miller Hall is College of William & Mary.
 
-Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard was born in New Hampshire. Ace Wilder's occupation is a singer.
-Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard was born in New Hampshire. Test pilot is Alan Shepard's occupation.
+Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Alan Bean, who was born in Wheeler Texas, performed as a test pilot.
+Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard (born in Test pilot) served as a New Hampshire.
 
 Train text: Abraham A. Ribicoff's place of birth was Connecticut and he is married to Casey Ribicoff. Abraham A Ribicoff worked as the United States Secretary of Health, Education, and Welfare. African Americans are an ethnic group in the United States.
 Generated text: Abraham A. Ribicoff's place of birth was United States and he is married to Ruth Ribicoff. Abraham A. Ribicoff worked as a United States Secretary of Health, Education, and Welfare. African Americans are an ethnic group in the United States.
@@ -268,8 +271,8 @@ Generated text: Reşadiye is the birth place of Nurhan Atasoy. Reşadiye is loca
 Train text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
 Generated text: The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE. ENAIRE is in the city of Madrid. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
 
-Train text: AC Chievo Verona play in the Serie A league. Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. AD Isidro Metapan has 10000 members. AZ Alkmaar play their home games at the AFAS Stadion.
-Generated text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Vila Nova Futebol Clube are the Campeonato Brasileiro Série C Champions. Agremiação Sportiva Arapiraquense has 17000 members. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+Train text: AC Cesena, who have a ground in Cesena, has 23900 members. They play in the Serie B league which has Carpi FC 1909 as previous champions.
+Generated text: Agremiação Sportiva Arapiraquense has Estádio Municipal Coaracy da Mata Fonseca members and their ground is the 17000. They currently play in the Campeonato Brasileiro Série C League in which Vila Nova Futebol Clube have previously been champions.
 
 Train text: A Glastonbury Romance was published by The Bodley Head. The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature. The book "A Glastonbury Romance" was followed by "Weymouth Sands" the author of which is John Cowper Powys.
 Generated text: The Fellowship of the Ring was published by George Allen & Unwin. The Fellowship of the Ring is considered Fantasy (genre). The book "The Fellowship of the Ring" was followed by "The Fellowship of the Ring" the author of which is J. R. R. Tolkien.
@@ -277,7 +280,7 @@ Generated text: The Fellowship of the Ring was published by George Allen & Unwin
 Train text: Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6. Chinabank offers banking service. Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6. Chinabank offers banking service.
 Generated text: The distributor of Super Capers is Roadside Attractions. Lionsgate is a company that offers Digital distribution services. The distributor of Super Capers is Lionsgate. Lionsgate is a company that offers Broadcast programming services.
 
-Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was from the United States. Alan Shepard was born in New Hampshire but died in California.
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was from the United States. Alan Shepard who born in New Hampshire died in California.
 Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard is from the United States. Alan Shepard was born in New Hampshire and died in California.
 
 Train text: Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil. Their stadium holds 17000 fans. AZ Alkmaar play their home games at the AFAS Stadion.
@@ -295,11 +298,11 @@ Generated text: Saint Petersburg is the death place of Olga Bondareva. Saint Pet
 Train text: Walter Baade was born in the German Empire. Aaron Bertram's birth date is 1981-04-03. Sweden is the birth place of Ace Wilder. The title of the leader of the United States is President of the United States.
 Generated text: Liselotte Grschebina was born in German Empire. Liselotte Grschebina's birth date is 1908-05-02. Karlsruhe is the birth place of Liselotte Grschebina. The leader of the Karlsruhe has the title President of the Karlsruhe.
 
-Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Asam pedas comes from the countries of Indonesia, Malaysia and Sumatra.
-Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Bionico is a food found in Mexico, and it comes from the region of Guadalajara.
+Train text: The currency in Mexico is the Mexican peso. Amatriciana sauce can be found in an Italian meal. Asam pedas is a food found in the Malay Peninsula in Malaysia.
+Generated text: The Mexican peso is the currency in Mexico. Bionico is classed as a Dessert. Bionico is a food found in the Guadalajara and is from Mexico.
 
-Train text: French Guiana is the location of the Guiana Space Centre. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. AmeriGas is located in the country of the United States.
-Generated text: Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. The 11th Mississippi Infantry Monument is located in the United States.
+Train text: French Guiana is the location of the Guiana Space Centre. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument, located in the United States, falls under the category of Contributing property.
+Generated text: Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument, located in the United States, falls under the category of United States.
 
 Train text: Alan Shepard was born November 18th, 1923. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard was born in New Hampshire. Adam Koc was awarded the Officer's Star Parasol.
 Generated text: Alan Shepard was born on 1923-11-18. California is the death place of Alan Shepard. Alan Shepard was born in New Hampshire. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
@@ -319,8 +322,8 @@ Generated text: Aleksandr Prudnikov played for FC Amkar Perm Aleksandr Prudnikov
 Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The leader of the United States has the title President of the United States. Anaheim, California has a UTC offset of - 7. Chicago is located in the United States.
 Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer. President of the Chamber of Deputies is the title of the leader of Mexico. Ciudad Ayala has a UTC offset of −6. Ciudad Ayala is located in the Mexico.
 
-Train text: Alan Bean was a crew member on the Apollo 12 flight mission. Alan Bean was a crew member on the Apollo 12 flight mission. Aaron Bertram's birth date is 1981-04-03. Sweden is the birth place of Ace Wilder.
-Generated text: Nie Haisheng was a crew member on the Shenzhou 10 flight mission. Nie Haisheng was a crew member on the Shenzhou 6 flight mission. Nie Haisheng's birth date is 1964-10-13. Zaoyang is the birth place of Nie Haisheng.
+Train text: Alan Bean, who was part of Apollo 12, was born in Wheeler, Texas on March 15th, 1932 and is now retired.
+Generated text: Nie Haisheng is a national of the Shenzhou 6. He was in born in Shenzhou 10 on Zaoyang. He was a crew member of 1964-10-13.
 
 Train text: John Roberts is a leader in the United States. A.T. Charlie Johnson resides in the United States. Joe Biden is the United States leader. Agnes Kant was a resident of Doesburg.
 Generated text: John Roberts is the leader of United States. Darinka Dentcheva resides in the United States. The leader of United States is Joe Biden. Darinka Dentcheva was a resident of New Jersey.
@@ -328,17 +331,17 @@ Generated text: John Roberts is the leader of United States. Darinka Dentcheva r
 Train text: Adare is part of Munster. Chicago is located in the United States. Aarhus Airport is 25.0 metres above the sea level. The Philippines' time zone is Philippine Standard Time.
 Generated text: Ciudad Ayala is part of Morelos. Ciudad Ayala is located in the Mexico. The Ciudad Ayala is 1147.0 metres above sea level. The time zone for the Ciudad Ayala is Pacific Daylight Time.
 
-Train text: Sweden is the birth place of Ace Wilder. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard died on 1998-07-21. The place of death for Alfred Garth Jones was Sidcup.
-Generated text: Karlsruhe is the birth place of Liselotte Grschebina. Israel is the death place of Liselotte Grschebina. Liselotte Grschebina died 1994-06-14. Petah Tikva is the death place of Liselotte Grschebina.
+Train text: Alfred Garth Jones was born in Manchester and died in Sidcup. Alan Shepard died in California on July 21st, 1998.
+Generated text: Liselotte Grschebina was born in Israel and died in Karlsruhe. Liselotte Grschebina died in 1994-06-14 on Petah Tikva.
 
-Train text: Aaron Bertram's musical genre is Ska punk. Hip hop music has its origins in Disco. Aaron Bertram's musical genre is Ska punk. Hip hop music has its origins in Disco.
-Generated text: Turn Me On (album)'s musical genre is Punk blues. Noise rock has its origins in Noise music. Turn Me On (album)'s musical genre is Noise rock. Punk blues has its origins in Garage rock.
+Train text: Aaron Bertram plays for the Suburban Legends band and the Kids Imagine Nation. He performs ska punk, which is originated from punk rock music.
+Generated text: Turn Me On (album) plays for both the Punk blues band and Noise rock band. Turn Me On (album)'s musical genre is Noise rock which originated from ska music.
 
 Train text: England is the birth place of Tim Brooke-Taylor. Adam McQuaid weighs 94.8024 kilograms. The Philippines' time zone is Philippine Standard Time. King of Prussia, Pennsylvania is in the North American Eastern time zone.
 Generated text: Gdynia, Poland is the birthplace of Piotr Hallmann. Piotr Hallmann weighs 70.308. The time zone for the Gdynia, Poland is Central European Time. The time zone for Gdynia, Poland is the Central European Summer Time.
 
-Train text: Lewis N. Cottingham is the architect of Adare Manor. The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. 103 Colmore Row was completed in 1976.
-Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall was completed in 2009-06-01.
+Train text: Robert A. M. Stern is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The building of 103 Colmore Row was completed in 1976. Alan B. Miller Hall is situated in Virginia.
+Generated text: Mason School of Business is the architect of Alan B. Miller Hall of which The Mason School of Business is the current tenant. The building of Alan B. Miller Hall was completed in 2009-06-01. Alan B. Miller Hall is located in Virginia.
 
 Train text: Chicago is located in the United States. Aarhus Airport is 25.0 metres above the sea level. The Philippines' time zone is Philippine Standard Time. Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre.
 Generated text: Ciudad Ayala is located in the Mexico. The Ciudad Ayala is 1147.0 metres above sea level. The time zone for the Ciudad Ayala is Pacific Daylight Time. The population density of Ciudad Ayala is 1604.0 per square kilometer.
@@ -346,20 +349,20 @@ Generated text: Ciudad Ayala is located in the Mexico. The Ciudad Ayala is 1147.
 Train text: Maine is the birth place of Aaron S. Daggett. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died on 1998-07-21. The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak.
 Generated text: The birth place of Lady Anne Monson is Darlington. Lady Anne Monson's birth date is 1726-01-01. Lady Anne Monson died 1776-02-18. Kingdom of England was the birthplace of Lady Anne Monson.
 
-Train text: Aaron Bertram's birth date is 1981-04-03. The place of death for Alfred Garth Jones was Sidcup. Alan Shepard died on 1998-07-21. The place of death for Alfred Garth Jones was Sidcup.
-Generated text: Liselotte Grschebina's birth date is 1908-05-02. Petah Tikva is the death place of Liselotte Grschebina. Liselotte Grschebina died 1994-06-14. Israel is the death place of Liselotte Grschebina.
+Train text: Alan Shepard who was born in New Hampshire on 18th November 1923, died in California on 21st July 1998.
+Generated text: Liselotte Grschebina was a National of the Israel. He was born on Petah Tikva and died on 1994-06-14 in 1908-05-02.
 
 Train text: Aaron Turner's music is Post-metal. Aaron Turner is associated with the group Greymachine. Aaron deer plays the bass guitar. Aaron Turner started performing in 1995.
 Generated text: Aaron Turner is a Post-metal musician. Aaron Turner is associated with the group Lotus Eaters (band). Aaron Turner played the Singing. Aaron Turner started performing in 1995.
 
-Train text: Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, who resides in Kuching. The nationality of William Anders is United States. Agnes Kant was a resident of Doesburg.
-Generated text: Turkey, is the birthplace of Nurhan Atasoy, who resides in Istanbul. The nationality of Nurhan Atasoy is Turkish people. Nurhan Atasoy was a resident of Turkey.
+Train text: Agnes Kant was a resident of Doesburg. Sweden is the birth place of Ace Wilder. The nationality of William Anders is United States. Agnes Kant was a resident of Doesburg.
+Generated text: Nurhan Atasoy was a resident of Istanbul. Turkey is the birth place of Nurhan Atasoy. The nationality of Nurhan Atasoy is Turkish people. Nurhan Atasoy was a resident of Turkey.
 
 Train text: Sweden is the birth place of Ace Wilder. Alan Bean was a crew member on the Apollo 12 flight mission. Alan Bean was a crew member on the Apollo 12 flight mission. Ace Wilder's occupation is a singer.
 Generated text: Hubei is the birth place of Nie Haisheng. Nie Haisheng was a crew member on the Shenzhou 6 flight mission. Nie Haisheng was a crew member on the Shenzhou 10 flight mission. Fighter pilot is Nie Haisheng's occupation.
 
-Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). 1001 Gaussia has an orbital period of 5.75 days. 1036 Ganymed was discovered by Walter Baade. The celestial body known as 1001 Gaussia has an absolute magnitude of 9.7.
-Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. 1147 Stavropolis has an orbital period of 1249.6. 1147 Stavropolis was discovered by Grigory Neujmin. The celestial body known as 1147 Stavropolis has an absolute magnitude of 11.5.
+Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). 1001 Gaussia has an orbital period of 5.75 days. (410777) 2009 FD was discovered by Spacewatch and has an absolute magnitude of 22.1.
+Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. 1147 Stavropolis has an orbital period of 1249.6. 1147 Stavropolis was discovered by 11.5 and has an absolute magnitude of Grigory Neujmin.
 
 Train text: Tim Brooke-Taylor starred in Bananaman. Alan Bean's birth name was Alan LaVern Bean. Jill Shilling starred in Bananaman. The place of death for Alfred Garth Jones was Sidcup.
 Generated text: Cecil Parker starred in It's Great to Be Young (1956 film). Cecil Parker's birth name was Cecil Schwabe. John Mills starred in It's Great to Be Young (1956 film). Denham, Buckinghamshire is the death place of John Mills.
@@ -370,8 +373,8 @@ Generated text: Brandon Carter's Alma mater is University of Cambridge. David Sa
 Train text: Maine is the birth place of Aaron S. Daggett. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died on 1998-07-21. Alfred Garth Jones was born in the United Kingdom.
 Generated text: The birth place of Lady Anne Monson is Darlington. Lady Anne Monson's birth date is 1726-01-01. Lady Anne Monson died 1776-02-18. Lady Anne Monson was born in the Kingdom of England.
 
-Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The nationality of William Anders is United States. Agnes Kant was born in West Germany and worked in the House of Representatives in the Netherlands.
-Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff, born in United States, worked as Member of the U.S. House of Representatives from United States's 4th district.
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The nationality of William Anders is United States. Ridgewood, Queens is the birthplace of Abner W. Sibal who worked as a member of the Connecticut Senate from the 26th District.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. The nationality of Abraham A. Ribicoff is American. United States was the birthplace of Abraham A. Ribicoff, who worked as the United States Secretary of Health, Education, and Welfare.
 
 Train text: Aaron Turner's music is Post-metal. Aaron deer plays the bass guitar. Aaron Turner is associated with the group Greymachine. Aaron Deer comes from Indiana.
 Generated text: Aaron Turner is a Post-metal musician. Aaron Turner played the Singing. Aaron Turner is associated with the group Twilight (band). Aaron Turner comes from Boston.

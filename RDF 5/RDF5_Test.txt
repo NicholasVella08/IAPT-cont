@@ -1,0 +1,1065 @@
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Campeonato Brasileiro Série C __predicate__ country __object__ Brazil', "__subject__ Agremiação Sportiva Arapiraquense __predicate__ nickname __object__ ''Alvinegro", '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Campeonato Brasileiro Série C', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'country', 'nickname', 'ground']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', 'Brazil', "''Alvinegro", 'Estádio Municipal Coaracy da Mata Fonseca']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ populationMetro __object__ 1777539', '__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ City Manager', '__subject__ Ciudad Ayala __predicate__ type __object__ City', '__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0', '__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager government']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['populationMetro', 'leaderTitle', 'type', 'populationDensity', 'governmentType']
+object: ['1777539', 'City Manager', 'City', '1604.0', 'Council-manager government']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0', '__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator', '__subject__ Ciudad Ayala __predicate__ country __object__ Mexico', '__subject__ Ciudad Ayala __predicate__ elevationAboveTheSeaLevel __object__ 1147.0', '__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Daylight Time']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['populationDensity', 'leaderTitle', 'country', 'elevationAboveTheSeaLevel', 'timeZone']
+object: ['1604.0', 'Governator', 'Mexico', '1147.0', 'Pacific Daylight Time']
+
+Triple: [['__subject__ The Fellowship of the Ring __predicate__ publisher __object__ George Allen & Unwin', '__subject__ The Fellowship of the Ring __predicate__ literaryGenre __object__ Fantasy (genre)', '__subject__ The Fellowship of the Ring __predicate__ followedBy __object__ The Two Towers', '__subject__ The Fellowship of the Ring __predicate__ author __object__ J. R. R. Tolkien', '__subject__ The Fellowship of the Ring __predicate__ releaseDate __object__ 1954-07-29']]
+subject: ['The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring']
+predicate: ['publisher', 'literaryGenre', 'followedBy', 'author', 'releaseDate']
+object: ['George Allen & Unwin', 'Fantasy (genre)', 'The Two Towers', 'J. R. R. Tolkien', '1954-07-29']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ Karlsruhe', '__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ training __object__ School of Applied Arts in Stuttgart', '__subject__ Karlsruhe __predicate__ country __object__ Germany', '__subject__ Israel __predicate__ language __object__ Modern Hebrew']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Karlsruhe', 'Israel']
+predicate: ['birthPlace', 'nationality', 'training', 'country', 'language']
+object: ['Karlsruhe', 'Israel', 'School of Applied Arts in Stuttgart', 'Germany', 'Modern Hebrew']
+
+Triple: [['__subject__ Aaron Turner __predicate__ genre __object__ Post-metal', '__subject__ Aaron Turner __predicate__ associatedBand/associatedMusicalArtist __object__ Lotus Eaters (band)', '__subject__ Aaron Turner __predicate__ origin __object__ Massachusetts', '__subject__ Aaron Turner __predicate__ instrument __object__ Electric guitar', '__subject__ Aaron Turner __predicate__ activeYearsStartYear __object__ 1995']]
+subject: ['Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner']
+predicate: ['genre', 'associatedBand/associatedMusicalArtist', 'origin', 'instrument', 'activeYearsStartYear']
+object: ['Post-metal', 'Lotus Eaters (band)', 'Massachusetts', 'Electric guitar', '1995']
+
+Triple: [['__subject__ Adams County, Pennsylvania __predicate__ hasToItsWest __object__ Franklin County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsSoutheast __object__ Carroll County, Maryland', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property']]
+subject: ['Adams County, Pennsylvania', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument']
+predicate: ['hasToItsWest', 'established', 'location', 'hasToItsSoutheast', 'category']
+object: ['Franklin County, Pennsylvania', '2000', 'Adams County, Pennsylvania', 'Carroll County, Maryland', 'Contributing property']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Sludge metal', '__subject__ Nord (Year of No Light album) __predicate__ producer __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Post-metal', '__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ Crucial Blast', '__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['genre', 'producer', 'genre', 'recordLabel', 'releaseDate']
+object: ['Sludge metal', 'Year of No Light', 'Post-metal', 'Crucial Blast', '2006-09-06']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayLength __object__ 3500.0', '__subject__ Madrid __predicate__ country __object__ Spain']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport', 'Madrid']
+predicate: ['operatingOrganisation', 'location', 'city', 'runwayLength', 'country']
+object: ['ENAIRE', 'Alcobendas', 'Madrid', '3500.0', 'Spain']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ region __object__ Guadalajara', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'region', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Guadalajara', 'Mexico']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Sony Music Entertainment', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund Bjørklund', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Stargate (production team)', '__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)', '__subject__ Mermaid (Train song) __predicate__ producer __object__ Espionage (production team)']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['recordLabel', 'writer', 'writer', 'followedBy', 'producer']
+object: ['Sony Music Entertainment', 'Amund Bjørklund', 'Stargate (production team)', 'Imagine (John Lennon song)', 'Espionage (production team)']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live at Roadburn 2008 (Year of No Light album)', '__subject__ Nord (Year of No Light album) __predicate__ artist __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06', '__subject__ Nord (Year of No Light album) __predicate__ runtime __object__ 58.41', '__subject__ Nord (Year of No Light album) __predicate__ precededBy __object__ Demo 2004 (Year of No Light album)']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['followedBy', 'artist', 'releaseDate', 'runtime', 'precededBy']
+object: ['Live at Roadburn 2008 (Year of No Light album)', 'Year of No Light', '2006-09-06', '58.41', 'Demo 2004 (Year of No Light album)']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ municipality __object__ Gettysburg, Pennsylvania', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsSoutheast __object__ Carroll County, Maryland', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ 11th Mississippi Infantry Monument __predicate__ country __object__ United States']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument']
+predicate: ['location', 'municipality', 'hasToItsSoutheast', 'category', 'country']
+object: ['Adams County, Pennsylvania', 'Gettysburg, Pennsylvania', 'Carroll County, Maryland', 'Contributing property', 'United States']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ creator __object__ Steve Bright', '__subject__ Bananaman __predicate__ lastAired __object__ 1986-04-15', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bananaman', 'Bananaman']
+predicate: ['city', 'starring', 'creator', 'lastAired', 'broadcastedBy']
+object: ['Broadcasting House', 'Bill Oddie', 'Steve Bright', '1986-04-15', 'BBC']
+
+Triple: [['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ artist __object__ The Velvet Underground', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ producer __object__ The Velvet Underground', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ runtime __object__ 230.05', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ United States', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ genre __object__ Rock music']]
+subject: ['Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes']
+predicate: ['artist', 'producer', 'runtime', 'recordedIn', 'genre']
+object: ['The Velvet Underground', 'The Velvet Underground', '230.05', 'United States', 'Rock music']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ dishVariation __object__ Honey', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'dishVariation', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Honey', 'Mexico']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ releaseDate __object__ 2012-12-27', "__subject__ Mermaid (Train song) __predicate__ precededBy __object__ This'll Be My Year", '__subject__ Mermaid (Train song) __predicate__ writer __object__ Espen Lind', '__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund Bjørklund']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['releaseDate', 'precededBy', 'writer', 'runtime', 'writer']
+object: ['2012-12-27', "This'll Be My Year", 'Espen Lind', '3.16', 'Amund Bjørklund']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ creator __object__ John Geering', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC', '__subject__ Bananaman __predicate__ firstAired __object__ 1983-10-03']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bananaman', 'Bananaman']
+predicate: ['city', 'starring', 'creator', 'broadcastedBy', 'firstAired']
+object: ['Broadcasting House', 'Bill Oddie', 'John Geering', 'BBC', '1983-10-03']
+
+Triple: [['__subject__ Olga Bondareva __predicate__ birthPlace __object__ Leningrad, USSR', '__subject__ Olga Bondareva __predicate__ birthDate __object__ 1937-04-27', '__subject__ Olga Bondareva __predicate__ knownFor __object__ Bondareva–Shapley theorem', '__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva', '__subject__ Olga Bondareva __predicate__ almaMater __object__ Leningrad State University']]
+subject: ['Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva']
+predicate: ['birthPlace', 'birthDate', 'knownFor', 'birthName', 'almaMater']
+object: ['Leningrad, USSR', '1937-04-27', 'Bondareva–Shapley theorem', 'Olga Nikolaevna Bondareva', 'Leningrad State University']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsNorth __object__ Cumberland County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ country __object__ United States']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument']
+predicate: ['established', 'location', 'category', 'hasToItsNorth', 'country']
+object: ['2000', 'Adams County, Pennsylvania', 'Contributing property', 'Cumberland County, Pennsylvania', 'United States']
+
+Triple: [['__subject__ English Without Tears __predicate__ director __object__ Harold French', '__subject__ Terence Rattigan __predicate__ deathYear __object__ 1977-01-01', '__subject__ Harold French __predicate__ activeYearsStartYear __object__ 1920-01-01', '__subject__ English Without Tears __predicate__ writer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ writer __object__ Terence Rattigan']]
+subject: ['English Without Tears', 'Terence Rattigan', 'Harold French', 'English Without Tears', 'English Without Tears']
+predicate: ['director', 'deathYear', 'activeYearsStartYear', 'writer', 'writer']
+object: ['Harold French', '1977-01-01', '1920-01-01', 'Anatole de Grunwald', 'Terence Rattigan']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsSouthwest __object__ Frederick County, Maryland', '__subject__ 11th Mississippi Infantry Monument __predicate__ municipality __object__ Gettysburg, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument']
+predicate: ['established', 'location', 'hasToItsSouthwest', 'municipality', 'category']
+object: ['2000', 'Adams County, Pennsylvania', 'Frederick County, Maryland', 'Gettysburg, Pennsylvania', 'Contributing property']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ location __object__ Virginia', '__subject__ Alan B. Miller Hall __predicate__ owner __object__ College of William & Mary']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'location', 'owner']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', 'Virginia', 'College of William & Mary']
+
+Triple: [['__subject__ University of Burgundy __predicate__ staff __object__ 2900', '__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299', '__subject__ University of Burgundy __predicate__ campus __object__ Dijon', '__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400', '__subject__ University of Burgundy __predicate__ numberOfPostgraduateStudents __object__ 9400']]
+subject: ['University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy']
+predicate: ['staff', 'numberOfDoctoralStudents', 'campus', 'numberOfStudents', 'numberOfPostgraduateStudents']
+object: ['2900', '1299', 'Dijon', '27400', '9400']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06', '__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live at Roadburn 2008 (Year of No Light album)', '__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Sludge metal', '__subject__ Nord (Year of No Light album) __predicate__ producer __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Post-metal']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['releaseDate', 'followedBy', 'genre', 'producer', 'genre']
+object: ['2006-09-06', 'Live at Roadburn 2008 (Year of No Light album)', 'Sludge metal', 'Year of No Light', 'Post-metal']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06', '__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live at Roadburn 2008 (Year of No Light album)', '__subject__ Nord (Year of No Light album) __predicate__ genre __object__ Sludge metal', '__subject__ Nord (Year of No Light album) __predicate__ producer __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ artist __object__ Year of No Light']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['releaseDate', 'followedBy', 'genre', 'producer', 'artist']
+object: ['2006-09-06', 'Live at Roadburn 2008 (Year of No Light album)', 'Sludge metal', 'Year of No Light', 'Year of No Light']
+
+Triple: [['__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28', '__subject__ English Without Tears __predicate__ writer __object__ Terence Rattigan', '__subject__ English Without Tears __predicate__ runtime __object__ 89.0', '__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs', '__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas Brodszky']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['releaseDate', 'writer', 'runtime', 'editing', 'musicComposer']
+object: ['1944-07-28', 'Terence Rattigan', '89.0', 'Alan Jaggs', 'Nicholas Brodszky']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ Aleksandr Prudnikov __predicate__ birthDate __object__ 1989-02-24', '__subject__ Aleksandr Prudnikov __predicate__ height __object__ 185.0 (centimetres)']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'club', 'birthDate', 'height']
+object: ['Grozny', 'FC Amkar Perm', 'FC Terek Grozny', '1989-02-24', '185.0 (centimetres)']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ director __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Sarah Teale', '__subject__ Death on a Factory Farm __predicate__ director __object__ Sarah Teale', '__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0']]
+subject: ['Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['director', 'producer', 'producer', 'director', 'runtime']
+object: ['Tom Simon', 'Tom Simon', 'Sarah Teale', 'Sarah Teale', '83.0']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ location __object__ Williamsburg, Virginia', '__subject__ Alan B. Miller Hall __predicate__ owner __object__ College of William & Mary']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'location', 'owner']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', 'Williamsburg, Virginia', 'College of William & Mary']
+
+Triple: [['__subject__ Expect a Miracle __predicate__ type __object__ Compilation Album', '__subject__ Expect a Miracle __predicate__ followedBy __object__ Afterplay (Brian Kelly album)', '__subject__ Expect a Miracle __predicate__ runtime __object__ 54.56', '__subject__ Expect a Miracle __predicate__ genre __object__ Instrumental music', '__subject__ Expect a Miracle __predicate__ genre __object__ Easy listening']]
+subject: ['Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle']
+predicate: ['type', 'followedBy', 'runtime', 'genre', 'genre']
+object: ['Compilation Album', 'Afterplay (Brian Kelly album)', '54.56', 'Instrumental music', 'Easy listening']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ nationality __object__ United States', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ award __object__ Distinguished Service Medal (United States Navy)']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'nationality', 'deathPlace', 'birthPlace', 'award']
+object: ['1923-11-18', 'United States', 'California', 'New Hampshire', 'Distinguished Service Medal (United States Navy)']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills", "__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert Taylor", "__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ gross __object__ 282838.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['starring', 'cinematography', 'runtime', 'gross', 'starring']
+object: ['John Mills', 'Gilbert Taylor', '94.0', '282838.0', 'Cecil Parker']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ party __object__ Democratic Party (United States)', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ Connecticut']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'party', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'Democratic Party (United States)', 'Connecticut']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ successor __object__ John N. Dempsey', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ Connecticut']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'successor', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'John N. Dempsey', 'Connecticut']
+
+Triple: [['__subject__ Darinka Dentcheva __predicate__ residence __object__ New Jersey', '__subject__ New Jersey __predicate__ areaOfWater __object__ 3544040000.0', '__subject__ Darinka Dentcheva __predicate__ residence __object__ United States', '__subject__ Darinka Dentcheva __predicate__ citizenship __object__ United States', '__subject__ United States __predicate__ motto __object__ In God we trust']]
+subject: ['Darinka Dentcheva', 'New Jersey', 'Darinka Dentcheva', 'Darinka Dentcheva', 'United States']
+predicate: ['residence', 'areaOfWater', 'residence', 'citizenship', 'motto']
+object: ['New Jersey', '3544040000.0', 'United States', 'United States', 'In God we trust']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ Karlsruhe', '__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02', '__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German Empire']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['birthPlace', 'birthDate', 'deathDate', 'deathPlace', 'birthPlace']
+object: ['Karlsruhe', '1908-05-02', '1994-06-14', 'Israel', 'German Empire']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18', '__subject__ Lady Anne Monson __predicate__ nationality __object__ Kingdom of England', '__subject__ Lady Anne Monson __predicate__ residence __object__ India', '__subject__ Lady Anne Monson __predicate__ spouse __object__ George Monson', '__subject__ Lady Anne Monson __predicate__ professionalField __object__ Botany']]
+subject: ['Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['deathDate', 'nationality', 'residence', 'spouse', 'professionalField']
+object: ['1776-02-18', 'Kingdom of England', 'India', 'George Monson', 'Botany']
+
+Triple: [['__subject__ Darinka Dentcheva __predicate__ influencedBy __object__ Andrzej Piotr Ruszczyński', '__subject__ Darinka Dentcheva __predicate__ citizenship __object__ United States', '__subject__ Darinka Dentcheva __predicate__ birthDate __object__ 1958-01-01', '__subject__ Darinka Dentcheva __predicate__ professionalField __object__ Mathematical optimization', '__subject__ Darinka Dentcheva __predicate__ knownFor __object__ Stochastic programming']]
+subject: ['Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva']
+predicate: ['influencedBy', 'citizenship', 'birthDate', 'professionalField', 'knownFor']
+object: ['Andrzej Piotr Ruszczyński', 'United States', '1958-01-01', 'Mathematical optimization', 'Stochastic programming']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bill Oddie __predicate__ birthPlace __object__ Rochdale', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC', '__subject__ Bananaman __predicate__ firstAired __object__ 1983-10-03']]
+subject: ['BBC', 'Bananaman', 'Bill Oddie', 'Bananaman', 'Bananaman']
+predicate: ['city', 'starring', 'birthPlace', 'broadcastedBy', 'firstAired']
+object: ['Broadcasting House', 'Bill Oddie', 'Rochdale', 'BBC', '1983-10-03']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ numberOfMembers __object__ 17000', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ fullName __object__ Agremiação Sportiva Arapiraquense']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'numberOfMembers', 'ground', 'fullName']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', '17000', 'Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ sportsOffered __object__ Tennis', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'sportsOffered', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'Tennis', 'All India Council for Technical Education']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6', '__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11', '__subject__ 1147 Stavropolis __predicate__ rotationPeriod __object__ 20378.5', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['orbitalPeriod', 'apoapsis', 'discovered', 'rotationPeriod', 'periapsis']
+object: ['1249.6', '418476000000.0', '1929-06-11', '20378.5', '260855000000.0']
+
+Triple: [['__subject__ Pontiac Rageous __predicate__ productionStartYear __object__ 1997', '__subject__ Pontiac Rageous __predicate__ assembly __object__ Michigan', '__subject__ Pontiac Rageous __predicate__ assembly __object__ Detroit', '__subject__ Pontiac Rageous __predicate__ productionEndYear __object__ 1997', '__subject__ Pontiac Rageous __predicate__ bodyStyle __object__ Coupe']]
+subject: ['Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous']
+predicate: ['productionStartYear', 'assembly', 'assembly', 'productionEndYear', 'bodyStyle']
+object: ['1997', 'Michigan', 'Detroit', '1997', 'Coupe']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills", "__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel", "__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis Levy", "__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['starring', 'runtime', 'director', 'musicComposer', 'starring']
+object: ['John Mills', '94.0', 'Cyril Frankel', 'Louis Levy', 'Cecil Parker']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO', '__subject__ Death on a Factory Farm __predicate__ musicComposer __object__ Jamie Lawrence', '__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Sarah Teale', '__subject__ Death on a Factory Farm __predicate__ director __object__ Sarah Teale']]
+subject: ['Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['broadcastedBy', 'musicComposer', 'runtime', 'producer', 'director']
+object: ['HBO', 'Jamie Lawrence', '83.0', 'Sarah Teale', 'Sarah Teale']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ Karlsruhe', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Petah Tikva', '__subject__ Israel __predicate__ ethnicGroup __object__ Arab citizens of Israel']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Israel']
+predicate: ['birthPlace', 'deathPlace', 'deathDate', 'deathPlace', 'ethnicGroup']
+object: ['Karlsruhe', 'Israel', '1994-06-14', 'Petah Tikva', 'Arab citizens of Israel']
+
+Triple: [['__subject__ Super Capers __predicate__ distributor __object__ Lionsgate', '__subject__ Super Capers __predicate__ director __object__ Ray Griggs (director)', '__subject__ Super Capers __predicate__ runtime __object__ 98.0', '__subject__ Super Capers __predicate__ starring __object__ Tom Lister, Jr.', '__subject__ Super Capers __predicate__ gross __object__ 30955.0']]
+subject: ['Super Capers', 'Super Capers', 'Super Capers', 'Super Capers', 'Super Capers']
+predicate: ['distributor', 'director', 'runtime', 'starring', 'gross']
+object: ['Lionsgate', 'Ray Griggs (director)', '98.0', 'Tom Lister, Jr.', '30955.0']
+
+Triple: [['__subject__ Turn Me On (album) __predicate__ runtime __object__ 35.1', '__subject__ Turn Me On (album) __predicate__ artist __object__ The Honeymoon Killers (American band)', '__subject__ Turn Me On (album) __predicate__ genre __object__ Punk blues', '__subject__ Turn Me On (album) __predicate__ producer __object__ The Honeymoon Killers (American band)', '__subject__ Turn Me On (album) __predicate__ genre __object__ Noise rock']]
+subject: ['Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)']
+predicate: ['runtime', 'artist', 'genre', 'producer', 'genre']
+object: ['35.1', 'The Honeymoon Killers (American band)', 'Punk blues', 'The Honeymoon Killers (American band)', 'Noise rock']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayLength __object__ 3500.0', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ elevationAboveTheSeaLevel __object__ 610.0', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayName __object__ 18L/36R']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport']
+predicate: ['operatingOrganisation', 'location', 'runwayLength', 'elevationAboveTheSeaLevel', 'runwayName']
+object: ['ENAIRE', 'Alcobendas', '3500.0', '610.0', '18L/36R']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ completionDate __object__ 2009-06-01', '__subject__ Mason School of Business __predicate__ country __object__ United States']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Mason School of Business']
+predicate: ['architect', 'address', 'currentTenants', 'completionDate', 'country']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', '2009-06-01', 'United States']
+
+Triple: [['__subject__ English Without Tears __predicate__ runtime __object__ 89.0', '__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas Brodszky', '__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28', '__subject__ English Without Tears __predicate__ director __object__ Harold French', '__subject__ English Without Tears __predicate__ producer __object__ Anatole de Grunwald']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['runtime', 'musicComposer', 'releaseDate', 'director', 'producer']
+object: ['89.0', 'Nicholas Brodszky', '1944-07-28', 'Harold French', 'Anatole de Grunwald']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh', '__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF', '__subject__ Thurleigh __predicate__ postalCode __object__ MK44', '__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision', '__subject__ MotorSport Vision __predicate__ foundedBy __object__ Peter Ogden']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Thurleigh', 'Bedford Aerodrome', 'MotorSport Vision']
+predicate: ['location', 'icaoLocationIdentifier', 'postalCode', 'operatingOrganisation', 'foundedBy']
+object: ['Thurleigh', 'EGBF', 'MK44', 'MotorSport Vision', 'Peter Ogden']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ servedAsChiefOfTheAstronautOfficeIn __object__ 1963', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ award __object__ Distinguished Service Medal (United States Navy)']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'servedAsChiefOfTheAstronautOfficeIn', 'deathPlace', 'birthPlace', 'award']
+object: ['1923-11-18', '1963', 'California', 'New Hampshire', 'Distinguished Service Medal (United States Navy)']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ nationality __object__ United States', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ deathDate __object__ 1998-07-21', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'nationality', 'deathPlace', 'deathDate', 'birthPlace']
+object: ['1923-11-18', 'United States', 'California', '1998-07-21', 'New Hampshire']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision', '__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0', '__subject__ Bedford Aerodrome __predicate__ cityServed __object__ Bedford Autodrome', '__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh', '__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['operatingOrganisation', 'runwayLength', 'cityServed', 'location', 'icaoLocationIdentifier']
+object: ['MotorSport Vision', '1095.0', 'Bedford Autodrome', 'Thurleigh', 'EGBF']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ president __object__ B.M. Reddy', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'president', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'B.M. Reddy', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington', '__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01', '__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18', '__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Kingdom of England', '__subject__ Lady Anne Monson __predicate__ residence __object__ India']]
+subject: ['Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['birthPlace', 'birthDate', 'deathDate', 'birthPlace', 'residence']
+object: ['Darlington', '1726-01-01', '1776-02-18', 'Kingdom of England', 'India']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon', '__subject__ HBO __predicate__ headquarter __object__ New York City, New York', '__subject__ HBO __predicate__ owner __object__ Time Warner', '__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Sarah Teale']]
+subject: ['Death on a Factory Farm', 'HBO', 'HBO', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['producer', 'headquarter', 'owner', 'broadcastedBy', 'producer']
+object: ['Tom Simon', 'New York City, New York', 'Time Warner', 'HBO', 'Sarah Teale']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6', '__subject__ 1147 Stavropolis __predicate__ discoverer __object__ Grigory Neujmin', '__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5', '__subject__ 1147 Stavropolis __predicate__ rotationPeriod __object__ 20378.5']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['apoapsis', 'orbitalPeriod', 'discoverer', 'absoluteMagnitude', 'rotationPeriod']
+object: ['418476000000.0', '1249.6', 'Grigory Neujmin', '11.5', '20378.5']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ genre __object__ Pop rock', '__subject__ Mermaid (Train song) __predicate__ musicalBand __object__ Train (band)', '__subject__ Mermaid (Train song) __predicate__ recordLabel __object__ Columbia Records', '__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16', '__subject__ Mermaid (Train song) __predicate__ releaseDate __object__ 2012-12-27']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['genre', 'musicalBand', 'recordLabel', 'runtime', 'releaseDate']
+object: ['Pop rock', 'Train (band)', 'Columbia Records', '3.16', '2012-12-27']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ established __object__ 2000', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'established', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', '2000', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06', '__subject__ Nord (Year of No Light album) __predicate__ artist __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ Crucial Blast', '__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ E-Vinyl', '__subject__ Nord (Year of No Light album) __predicate__ runtime __object__ 58.41']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['releaseDate', 'artist', 'recordLabel', 'recordLabel', 'runtime']
+object: ['2006-09-06', 'Year of No Light', 'Crucial Blast', 'E-Vinyl', '58.41']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey']]
+subject: ['Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy']
+predicate: ['birthDate', 'residence', 'citizenship', 'birthPlace', 'residence']
+object: ['1934-01-01', 'Istanbul', 'Turkey', 'Turkey', 'Turkey']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ elevationAboveTheSeaLevel __object__ 610.0', '__subject__ Madrid __predicate__ country __object__ Spain']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport', 'Madrid']
+predicate: ['operatingOrganisation', 'location', 'city', 'elevationAboveTheSeaLevel', 'country']
+object: ['ENAIRE', 'Alcobendas', 'Madrid', '610.0', 'Spain']
+
+Triple: [['__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28', '__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs', '__subject__ English Without Tears __predicate__ producer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ writer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ cinematography __object__ Bernard Knowles']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['releaseDate', 'editing', 'producer', 'writer', 'cinematography']
+object: ['1944-07-28', 'Alan Jaggs', 'Anatole de Grunwald', 'Anatole de Grunwald', 'Bernard Knowles']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ state __object__ Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsNorth __object__ Cumberland County, Pennsylvania']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania']
+predicate: ['established', 'location', 'state', 'category', 'hasToItsNorth']
+object: ['2000', 'Adams County, Pennsylvania', 'Pennsylvania', 'Contributing property', 'Cumberland County, Pennsylvania']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel', '__subject__ Israel __predicate__ populationDensity __object__ 387.63', '__subject__ German Empire __predicate__ foundingDate __object__ 1871-01-01', '__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German Empire', '__subject__ Liselotte Grschebina __predicate__ professionalField __object__ Photographer']]
+subject: ['Liselotte Grschebina', 'Israel', 'German Empire', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['nationality', 'populationDensity', 'foundingDate', 'birthPlace', 'professionalField']
+object: ['Israel', '387.63', '1871-01-01', 'German Empire', 'Photographer']
+
+Triple: [['__subject__ GMA New Media __predicate__ keyPerson __object__ Felipe Gozon', '__subject__ GMA New Media __predicate__ industry __object__ Entertainment', '__subject__ GMA New Media __predicate__ subsidiary __object__ Philippine Entertainment Portal', '__subject__ GMA New Media __predicate__ subsidiary __object__ Digify, Inc.', '__subject__ GMA New Media __predicate__ parentCompany __object__ GMA Network (company)']]
+subject: ['GMA New Media', 'GMA New Media', 'GMA New Media', 'GMA New Media', 'GMA New Media']
+predicate: ['keyPerson', 'industry', 'subsidiary', 'subsidiary', 'parentCompany']
+object: ['Felipe Gozon', 'Entertainment', 'Philippine Entertainment Portal', 'Digify, Inc.', 'GMA Network (company)']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ architecturalStyle __object__ Georgian architecture', '__subject__ Alan B. Miller Hall __predicate__ owner __object__ College of William & Mary']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'architecturalStyle', 'owner']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', 'Georgian architecture', 'College of William & Mary']
+
+Triple: [['__subject__ Expect a Miracle __predicate__ artist __object__ Brian Kelly (composer & pianist)', '__subject__ Expect a Miracle __predicate__ runtime __object__ 54.56', '__subject__ Expect a Miracle __predicate__ genre __object__ Instrumental music', '__subject__ Expect a Miracle __predicate__ followedBy __object__ Afterplay (Brian Kelly album)', '__subject__ Expect a Miracle __predicate__ genre __object__ Easy listening']]
+subject: ['Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle']
+predicate: ['artist', 'runtime', 'genre', 'followedBy', 'genre']
+object: ['Brian Kelly (composer & pianist)', '54.56', 'Instrumental music', 'Afterplay (Brian Kelly album)', 'Easy listening']
+
+Triple: [['__subject__ GMA New Media __predicate__ location __object__ Philippines', '__subject__ Quezon City __predicate__ leaderParty __object__ Liberal Party (Philippines)', '__subject__ GMA New Media __predicate__ location __object__ Quezon City', '__subject__ GMA New Media __predicate__ product __object__ World Wide Web', '__subject__ Philippines __predicate__ foundingDate __object__ 1898-06-12']]
+subject: ['GMA New Media', 'Quezon City', 'GMA New Media', 'GMA New Media', 'Philippines']
+predicate: ['location', 'leaderParty', 'location', 'product', 'foundingDate']
+object: ['Philippines', 'Liberal Party (Philippines)', 'Quezon City', 'World Wide Web', '1898-06-12']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ deathPlace __object__ United States', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ Connecticut']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'deathPlace', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'United States', 'Connecticut']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey', '__subject__ Istanbul __predicate__ timeZone __object__ Eastern European Summer Time', '__subject__ Istanbul __predicate__ timeZone __object__ Eastern European Time', '__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul']]
+subject: ['Nurhan Atasoy', 'Istanbul', 'Istanbul', 'Nurhan Atasoy', 'Nurhan Atasoy']
+predicate: ['citizenship', 'timeZone', 'timeZone', 'birthDate', 'residence']
+object: ['Turkey', 'Eastern European Summer Time', 'Eastern European Time', '1934-01-01', 'Istanbul']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ municipality __object__ Gettysburg, Pennsylvania', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsSoutheast __object__ Carroll County, Maryland', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsNorth __object__ Cumberland County, Pennsylvania']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania']
+predicate: ['location', 'municipality', 'hasToItsSoutheast', 'category', 'hasToItsNorth']
+object: ['Adams County, Pennsylvania', 'Gettysburg, Pennsylvania', 'Carroll County, Maryland', 'Contributing property', 'Cumberland County, Pennsylvania']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)', '__subject__ Mermaid (Train song) __predicate__ producer __object__ Espionage (production team)', '__subject__ Mermaid (Train song) __predicate__ album __object__ California 37 (Train album)', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Pat Monahan', '__subject__ Mermaid (Train song) __predicate__ format __object__ Music download']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['followedBy', 'producer', 'album', 'writer', 'format']
+object: ['Imagine (John Lennon song)', 'Espionage (production team)', 'California 37 (Train album)', 'Pat Monahan', 'Music download']
+
+Triple: [['__subject__ Olga Bondareva __predicate__ birthPlace __object__ Leningrad, USSR', '__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva', '__subject__ Olga Bondareva __predicate__ deathDate __object__ 1991-12-09', '__subject__ Olga Bondareva __predicate__ professionalField __object__ Economics', '__subject__ Olga Bondareva __predicate__ professionalField __object__ Mathematics']]
+subject: ['Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva']
+predicate: ['birthPlace', 'birthName', 'deathDate', 'professionalField', 'professionalField']
+object: ['Leningrad, USSR', 'Olga Nikolaevna Bondareva', '1991-12-09', 'Economics', 'Mathematics']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6', '__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5', '__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0', '__subject__ 1147 Stavropolis __predicate__ epoch __object__ 31 July 2016 (JD2457600.5)']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['orbitalPeriod', 'absoluteMagnitude', 'discovered', 'periapsis', 'epoch']
+object: ['1249.6', '11.5', '1929-06-11', '260855000000.0', '31 July 2016 (JD2457600.5)']
+
+Triple: [['__subject__ McVeagh of the South Seas __predicate__ imdbId __object__ 0004319', '__subject__ McVeagh of the South Seas __predicate__ starring __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ writer __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ producer __object__ The Progressive Motion Picture Company', '__subject__ McVeagh of the South Seas __predicate__ distributor __object__ Alliance Films Corporation']]
+subject: ['McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas']
+predicate: ['imdbId', 'starring', 'writer', 'producer', 'distributor']
+object: ['0004319', 'Harry Carey (actor born 1878)', 'Harry Carey (actor born 1878)', 'The Progressive Motion Picture Company', 'Alliance Films Corporation']
+
+Triple: [['__subject__ Nie Haisheng __predicate__ birthPlace __object__ Zaoyang', '__subject__ Nie Haisheng __predicate__ birthPlace __object__ Hubei', '__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 10', '__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 6', "__subject__ Nie Haisheng __predicate__ nationality __object__ People's Republic of China"]]
+subject: ['Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng']
+predicate: ['birthPlace', 'birthPlace', 'mission', 'mission', 'nationality']
+object: ['Zaoyang', 'Hubei', 'Shenzhou 10', 'Shenzhou 6', "People's Republic of China"]
+
+Triple: [['__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 10', '__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 6', '__subject__ Nie Haisheng __predicate__ birthPlace __object__ Zaoyang', '__subject__ Zaoyang __predicate__ isPartOf __object__ Hubei', '__subject__ Zaoyang __predicate__ isPartOf __object__ Xiangyang']]
+subject: ['Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng', 'Zaoyang', 'Zaoyang']
+predicate: ['mission', 'mission', 'birthPlace', 'isPartOf', 'isPartOf']
+object: ['Shenzhou 10', 'Shenzhou 6', 'Zaoyang', 'Hubei', 'Xiangyang']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington', '__subject__ Kingdom of England __predicate__ dissolutionYear __object__ 1707', '__subject__ Darlington __predicate__ gridReference __object__ NZ289147', '__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Kingdom of England', '__subject__ Lady Anne Monson __predicate__ nationality __object__ Kingdom of England']]
+subject: ['Lady Anne Monson', 'Kingdom of England', 'Darlington', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['birthPlace', 'dissolutionYear', 'gridReference', 'birthPlace', 'nationality']
+object: ['Darlington', '1707', 'NZ289147', 'Kingdom of England', 'Kingdom of England']
+
+Triple: [['__subject__ Brandon Carter __predicate__ professionalField __object__ General relativity', '__subject__ Brandon Carter __predicate__ knownFor __object__ Carter constant', '__subject__ Brandon Carter __predicate__ knownFor __object__ No-hair theorem', '__subject__ Brandon Carter __predicate__ doctoralAdvisor __object__ Dennis William Sciama', '__subject__ Brandon Carter __predicate__ birthDate __object__ 1942-01-01']]
+subject: ['Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter']
+predicate: ['professionalField', 'knownFor', 'knownFor', 'doctoralAdvisor', 'birthDate']
+object: ['General relativity', 'Carter constant', 'No-hair theorem', 'Dennis William Sciama', '1942-01-01']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ genre __object__ Reggae', '__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)', '__subject__ Mermaid (Train song) __predicate__ producer __object__ Espionage (production team)', '__subject__ Mermaid (Train song) __predicate__ album __object__ California 37 (Train album)', '__subject__ Mermaid (Train song) __predicate__ format __object__ Music download']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['genre', 'followedBy', 'producer', 'album', 'format']
+object: ['Reggae', 'Imagine (John Lennon song)', 'Espionage (production team)', 'California 37 (Train album)', 'Music download']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ discoverer __object__ Grigory Neujmin', '__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11', '__subject__ 1147 Stavropolis __predicate__ rotationPeriod __object__ 20378.5', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['discoverer', 'apoapsis', 'discovered', 'rotationPeriod', 'periapsis']
+object: ['Grigory Neujmin', '418476000000.0', '1929-06-11', '20378.5', '260855000000.0']
+
+Triple: [['__subject__ Nord (Year of No Light album) __predicate__ releaseDate __object__ 2006-09-06', '__subject__ Nord (Year of No Light album) __predicate__ followedBy __object__ Live at Roadburn 2008 (Year of No Light album)', '__subject__ Nord (Year of No Light album) __predicate__ producer __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ artist __object__ Year of No Light', '__subject__ Nord (Year of No Light album) __predicate__ recordLabel __object__ Crucial Blast']]
+subject: ['Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)', 'Nord (Year of No Light album)']
+predicate: ['releaseDate', 'followedBy', 'producer', 'artist', 'recordLabel']
+object: ['2006-09-06', 'Live at Roadburn 2008 (Year of No Light album)', 'Year of No Light', 'Year of No Light', 'Crucial Blast']
+
+Triple: [['__subject__ The Fellowship of the Ring __predicate__ publisher __object__ George Allen & Unwin', '__subject__ The Fellowship of the Ring __predicate__ literaryGenre __object__ Fantasy (genre)', '__subject__ The Fellowship of the Ring __predicate__ followedBy __object__ The Two Towers', '__subject__ The Fellowship of the Ring __predicate__ releaseDate __object__ 1954-07-29', '__subject__ The Fellowship of the Ring __predicate__ precededBy __object__ The Hobbit']]
+subject: ['The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring', 'The Fellowship of the Ring']
+predicate: ['publisher', 'literaryGenre', 'followedBy', 'releaseDate', 'precededBy']
+object: ['George Allen & Unwin', 'Fantasy (genre)', 'The Two Towers', '1954-07-29', 'The Hobbit']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ nationality __object__ Turkish people', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ award __object__ State Award for Superior Achievement']]
+subject: ['Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy']
+predicate: ['residence', 'citizenship', 'nationality', 'residence', 'award']
+object: ['Istanbul', 'Turkey', 'Turkish people', 'Turkey', 'State Award for Superior Achievement']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ populationMetro __object__ 1777539', '__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager government', '__subject__ Ciudad Ayala __predicate__ utcOffset __object__ −6', '__subject__ Ciudad Ayala __predicate__ isPartOf __object__ Morelos', '__subject__ Ciudad Ayala __predicate__ country __object__ Mexico']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['populationMetro', 'governmentType', 'utcOffset', 'isPartOf', 'country']
+object: ['1777539', 'Council-manager government', '−6', 'Morelos', 'Mexico']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ country __object__ India', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'country', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'India', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Hypermarcas __predicate__ location __object__ São Paulo', '__subject__ Brazil __predicate__ leaderTitle __object__ President of the Supreme Federal Court', '__subject__ Hypermarcas __predicate__ location __object__ Brazil', '__subject__ Hypermarcas __predicate__ product __object__ Drugs', '__subject__ Hypermarcas __predicate__ product __object__ Healthcare']]
+subject: ['Hypermarcas', 'Brazil', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas']
+predicate: ['location', 'leaderTitle', 'location', 'product', 'product']
+object: ['São Paulo', 'President of the Supreme Federal Court', 'Brazil', 'Drugs', 'Healthcare']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ creator __object__ Steve Bright', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC', '__subject__ Bill Oddie __predicate__ birthPlace __object__ Lancashire']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bananaman', 'Bill Oddie']
+predicate: ['city', 'starring', 'creator', 'broadcastedBy', 'birthPlace']
+object: ['Broadcasting House', 'Bill Oddie', 'Steve Bright', 'BBC', 'Lancashire']
+
+Triple: [['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ United States', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ St. Louis, Missouri', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ precededBy __object__ Squeeze (The Velvet Underground album)', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ releaseDate __object__ 2001-10-16', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ runtime __object__ 230.05']]
+subject: ['Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes']
+predicate: ['recordedIn', 'recordedIn', 'precededBy', 'releaseDate', 'runtime']
+object: ['United States', 'St. Louis, Missouri', 'Squeeze (The Velvet Underground album)', '2001-10-16', '230.05']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ completionDate __object__ 2009-06-01', '__subject__ Alan B. Miller Hall __predicate__ location __object__ Virginia']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'completionDate', 'location']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', '2009-06-01', 'Virginia']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey', '__subject__ Turkey __predicate__ capital __object__ Ankara', '__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01', '__subject__ Nurhan Atasoy __predicate__ award __object__ State Award for Superior Achievement', '__subject__ Turkey __predicate__ officialLanguage __object__ Turkish language']]
+subject: ['Nurhan Atasoy', 'Turkey', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Turkey']
+predicate: ['citizenship', 'capital', 'birthDate', 'award', 'officialLanguage']
+object: ['Turkey', 'Ankara', '1934-01-01', 'State Award for Superior Achievement', 'Turkish language']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ Karlsruhe', '__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02', '__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ training __object__ School of Applied Arts in Stuttgart']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['birthPlace', 'birthDate', 'deathDate', 'deathPlace', 'training']
+object: ['Karlsruhe', '1908-05-02', '1994-06-14', 'Israel', 'School of Applied Arts in Stuttgart']
+
+Triple: [['__subject__ Turn Me On (album) __predicate__ runtime __object__ 35.1', '__subject__ Turn Me On (album) __predicate__ artist __object__ The Honeymoon Killers (American band)', '__subject__ Turn Me On (album) __predicate__ producer __object__ The Honeymoon Killers (American band)', '__subject__ Turn Me On (album) __predicate__ precededBy __object__ Let It Breed', '__subject__ Turn Me On (album) __predicate__ producer __object__ Wharton Tiers']]
+subject: ['Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)']
+predicate: ['runtime', 'artist', 'producer', 'precededBy', 'producer']
+object: ['35.1', 'The Honeymoon Killers (American band)', 'The Honeymoon Killers (American band)', 'Let It Breed', 'Wharton Tiers']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ residence __object__ India', '__subject__ India __predicate__ demonym __object__ Indian', '__subject__ India __predicate__ populationTotal __object__ 1293057000', '__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01', '__subject__ Lady Anne Monson __predicate__ professionalField __object__ Botany']]
+subject: ['Lady Anne Monson', 'India', 'India', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['residence', 'demonym', 'populationTotal', 'birthDate', 'professionalField']
+object: ['India', 'Indian', '1293057000', '1726-01-01', 'Botany']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ ingredient __object__ Condensed milk', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'ingredient', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Condensed milk', 'Mexico']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ creator __object__ Steve Bright', '__subject__ BBC __predicate__ foundedBy __object__ John Reith, 1st Baron Reith', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'BBC', 'Bananaman']
+predicate: ['city', 'starring', 'creator', 'foundedBy', 'broadcastedBy']
+object: ['Broadcasting House', 'Bill Oddie', 'Steve Bright', 'John Reith, 1st Baron Reith', 'BBC']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel', '__subject__ Israel __predicate__ areaTotal __object__ 20769100000.0', '__subject__ Israel __predicate__ officialLanguage __object__ Modern Standard Arabic', '__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German Empire', '__subject__ Liselotte Grschebina __predicate__ training __object__ School of Applied Arts in Stuttgart']]
+subject: ['Liselotte Grschebina', 'Israel', 'Israel', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['nationality', 'areaTotal', 'officialLanguage', 'birthPlace', 'training']
+object: ['Israel', '20769100000.0', 'Modern Standard Arabic', 'German Empire', 'School of Applied Arts in Stuttgart']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16', '__subject__ Mermaid (Train song) __predicate__ genre __object__ Reggae', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund Bjørklund', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Stargate (production team)', '__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['runtime', 'genre', 'writer', 'writer', 'followedBy']
+object: ['3.16', 'Reggae', 'Amund Bjørklund', 'Stargate (production team)', 'Imagine (John Lennon song)']
+
+Triple: [['__subject__ Super Capers __predicate__ starring __object__ Michael Rooker', '__subject__ Super Capers __predicate__ starring __object__ Tom Sizemore', '__subject__ Super Capers __predicate__ runtime __object__ 98.0', '__subject__ Super Capers __predicate__ distributor __object__ Roadside Attractions', '__subject__ Super Capers __predicate__ distributor __object__ Lionsgate']]
+subject: ['Super Capers', 'Super Capers', 'Super Capers', 'Super Capers', 'Super Capers']
+predicate: ['starring', 'starring', 'runtime', 'distributor', 'distributor']
+object: ['Michael Rooker', 'Tom Sizemore', '98.0', 'Roadside Attractions', 'Lionsgate']
+
+Triple: [['__subject__ Expect a Miracle __predicate__ producer __object__ Brian Kelly (composer & pianist)', '__subject__ Expect a Miracle __predicate__ runtime __object__ 54.56', '__subject__ Expect a Miracle __predicate__ artist __object__ Brian Kelly (composer & pianist)', '__subject__ Expect a Miracle __predicate__ type __object__ Compilation Album', '__subject__ Expect a Miracle __predicate__ precededBy __object__ Pools of Light (Brian Kelly album)']]
+subject: ['Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle', 'Expect a Miracle']
+predicate: ['producer', 'runtime', 'artist', 'type', 'precededBy']
+object: ['Brian Kelly (composer & pianist)', '54.56', 'Brian Kelly (composer & pianist)', 'Compilation Album', 'Pools of Light (Brian Kelly album)']
+
+Triple: [['__subject__ Piotr Hallmann __predicate__ weight __object__ 70.308', '__subject__ Piotr Hallmann __predicate__ birthDate __object__ 1987-08-25', '__subject__ Piotr Hallmann __predicate__ birthPlace __object__ Gdynia, Poland', '__subject__ Gdynia, Poland __predicate__ areaTotal __object__ 135000000.0', '__subject__ Gdynia, Poland __predicate__ foundingDate __object__ 1926-02-10']]
+subject: ['Piotr Hallmann', 'Piotr Hallmann', 'Piotr Hallmann', 'Gdynia, Poland', 'Gdynia, Poland']
+predicate: ['weight', 'birthDate', 'birthPlace', 'areaTotal', 'foundingDate']
+object: ['70.308', '1987-08-25', 'Gdynia, Poland', '135000000.0', '1926-02-10']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ director __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO', '__subject__ Death on a Factory Farm __predicate__ editor __object__ Geof Bartz', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Sarah Teale']]
+subject: ['Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['director', 'producer', 'broadcastedBy', 'editor', 'producer']
+object: ['Tom Simon', 'Tom Simon', 'HBO', 'Geof Bartz', 'Sarah Teale']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills", "__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert Taylor", "__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ gross __object__ 282838.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['starring', 'cinematography', 'runtime', 'gross', 'director']
+object: ['John Mills', 'Gilbert Taylor', '94.0', '282838.0', 'Cyril Frankel']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision', '__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0', '__subject__ Bedford Aerodrome __predicate__ cityServed __object__ Bedford Autodrome', '__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh', '__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['operatingOrganisation', 'runwayLength', 'cityServed', 'location', 'elevationAboveTheSeaLevel']
+object: ['MotorSport Vision', '1095.0', 'Bedford Autodrome', 'Thurleigh', '83.2104']
+
+Triple: [['__subject__ Pontiac Rageous __predicate__ productionStartYear __object__ 1997', '__subject__ Pontiac Rageous __predicate__ assembly __object__ Michigan', '__subject__ Pontiac Rageous __predicate__ assembly __object__ Detroit', '__subject__ Pontiac Rageous __predicate__ productionEndYear __object__ 1997', '__subject__ Pontiac Rageous __predicate__ manufacturer __object__ Pontiac']]
+subject: ['Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous', 'Pontiac Rageous']
+predicate: ['productionStartYear', 'assembly', 'assembly', 'productionEndYear', 'manufacturer']
+object: ['1997', 'Michigan', 'Detroit', '1997', 'Pontiac']
+
+Triple: [['__subject__ Olga Bondareva __predicate__ birthPlace __object__ Leningrad, USSR', '__subject__ Olga Bondareva __predicate__ deathPlace __object__ Saint Petersburg', '__subject__ Olga Bondareva __predicate__ deathDate __object__ 1991-12-09', '__subject__ Olga Bondareva __predicate__ professionalField __object__ Economics', '__subject__ Olga Bondareva __predicate__ professionalField __object__ Mathematics']]
+subject: ['Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva']
+predicate: ['birthPlace', 'deathPlace', 'deathDate', 'professionalField', 'professionalField']
+object: ['Leningrad, USSR', 'Saint Petersburg', '1991-12-09', 'Economics', 'Mathematics']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ party __object__ Democratic Party (United States)', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ United States']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'party', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'Democratic Party (United States)', 'United States']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0', '__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator', '__subject__ Ciudad Ayala __predicate__ elevationAboveTheSeaLevel __object__ 1147.0', '__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Daylight Time', '__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Standard Time Zone']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['populationDensity', 'leaderTitle', 'elevationAboveTheSeaLevel', 'timeZone', 'timeZone']
+object: ['1604.0', 'Governator', '1147.0', 'Pacific Daylight Time', 'Pacific Standard Time Zone']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0', '__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF', '__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104', '__subject__ Bedford Aerodrome __predicate__ runwayName __object__ 08/26', '__subject__ Bedford Aerodrome __predicate__ runwaySurfaceType __object__ Concrete']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['runwayLength', 'icaoLocationIdentifier', 'elevationAboveTheSeaLevel', 'runwayName', 'runwaySurfaceType']
+object: ['1095.0', 'EGBF', '83.2104', '08/26', 'Concrete']
+
+Triple: [['__subject__ McVeagh of the South Seas __predicate__ imdbId __object__ 0004319', '__subject__ McVeagh of the South Seas __predicate__ director __object__ Cyril Bruce', '__subject__ McVeagh of the South Seas __predicate__ director __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ starring __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ writer __object__ Harry Carey (actor born 1878)']]
+subject: ['McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas']
+predicate: ['imdbId', 'director', 'director', 'starring', 'writer']
+object: ['0004319', 'Cyril Bruce', 'Harry Carey (actor born 1878)', 'Harry Carey (actor born 1878)', 'Harry Carey (actor born 1878)']
+
+Triple: [['__subject__ University of Burgundy __predicate__ numberOfUndergraduateStudents __object__ 16800', '__subject__ University of Burgundy __predicate__ staff __object__ 2900', '__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400', '__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299', '__subject__ University of Burgundy __predicate__ campus __object__ Dijon']]
+subject: ['University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy']
+predicate: ['numberOfUndergraduateStudents', 'staff', 'numberOfStudents', 'numberOfDoctoralStudents', 'campus']
+object: ['16800', '2900', '27400', '1299', 'Dijon']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ tenant __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ owner __object__ College of William & Mary']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'tenant', 'owner']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', 'Mason School of Business', 'College of William & Mary']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker", "__subject__ It's Great to Be Young (1956 film) __predicate__ writer __object__ Ted Willis", "__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills", "__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel", '__subject__ John Mills __predicate__ deathYear __object__ 2005']]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", 'John Mills']
+predicate: ['starring', 'writer', 'starring', 'director', 'deathYear']
+object: ['Cecil Parker', 'Ted Willis', 'John Mills', 'Cyril Frankel', '2005']
+
+Triple: [['__subject__ Hypermarcas __predicate__ netIncome __object__ 108600000', '__subject__ Hypermarcas __predicate__ product __object__ Healthcare', '__subject__ Hypermarcas __predicate__ product __object__ Cosmetics', '__subject__ Hypermarcas __predicate__ numberOfEmployees __object__ 10252', '__subject__ Hypermarcas __predicate__ revenue __object__ 1800000000']]
+subject: ['Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas']
+predicate: ['netIncome', 'product', 'product', 'numberOfEmployees', 'revenue']
+object: ['108600000', 'Healthcare', 'Cosmetics', '10252', '1800000000']
+
+Triple: [['__subject__ Super Capers __predicate__ distributor __object__ Roadside Attractions', '__subject__ Lionsgate __predicate__ type __object__ Public company', '__subject__ Super Capers __predicate__ distributor __object__ Lionsgate', '__subject__ Super Capers __predicate__ language __object__ English language', '__subject__ English language __predicate__ iso6391Code __object__ en']]
+subject: ['Super Capers', 'Lionsgate', 'Super Capers', 'Super Capers', 'English language']
+predicate: ['distributor', 'type', 'distributor', 'language', 'iso6391Code']
+object: ['Roadside Attractions', 'Public company', 'Lionsgate', 'English language', 'en']
+
+Triple: [['__subject__ Darinka Dentcheva __predicate__ influencedBy __object__ Andrzej Piotr Ruszczyński', '__subject__ Darinka Dentcheva __predicate__ citizenship __object__ United States', '__subject__ Darinka Dentcheva __predicate__ birthDate __object__ 1958-01-01', '__subject__ Darinka Dentcheva __predicate__ professionalField __object__ Mathematical optimization', '__subject__ Darinka Dentcheva __predicate__ almaMater __object__ Humboldt University']]
+subject: ['Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva']
+predicate: ['influencedBy', 'citizenship', 'birthDate', 'professionalField', 'almaMater']
+object: ['Andrzej Piotr Ruszczyński', 'United States', '1958-01-01', 'Mathematical optimization', 'Humboldt University']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Turkey __predicate__ governmentType __object__ Unitary state', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey', '__subject__ Turkey __predicate__ percentageOfAreaWater __object__ 1.3', '__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Turkey']]
+subject: ['Nurhan Atasoy', 'Turkey', 'Nurhan Atasoy', 'Turkey', 'Nurhan Atasoy']
+predicate: ['residence', 'governmentType', 'residence', 'percentageOfAreaWater', 'birthPlace']
+object: ['Istanbul', 'Unitary state', 'Turkey', '1.3', 'Turkey']
+
+Triple: [['__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 10', '__subject__ Nie Haisheng __predicate__ mission __object__ Shenzhou 6', '__subject__ Nie Haisheng __predicate__ birthDate __object__ 1964-10-13', '__subject__ Nie Haisheng __predicate__ birthPlace __object__ Zaoyang', '__subject__ Nie Haisheng __predicate__ birthPlace __object__ Hubei']]
+subject: ['Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng', 'Nie Haisheng']
+predicate: ['mission', 'mission', 'birthDate', 'birthPlace', 'birthPlace']
+object: ['Shenzhou 10', 'Shenzhou 6', '1964-10-13', 'Zaoyang', 'Hubei']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ cityServed __object__ Bedford Autodrome', '__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF', '__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104', '__subject__ Bedford Aerodrome __predicate__ runwayName __object__ 08/26', '__subject__ Bedford Aerodrome __predicate__ runwaySurfaceType __object__ Concrete']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['cityServed', 'icaoLocationIdentifier', 'elevationAboveTheSeaLevel', 'runwayName', 'runwaySurfaceType']
+object: ['Bedford Autodrome', 'EGBF', '83.2104', '08/26', 'Concrete']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ type __object__ City', '__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0', '__subject__ Ciudad Ayala __predicate__ utcOffset __object__ −6', '__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator', '__subject__ Ciudad Ayala __predicate__ country __object__ Mexico']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['type', 'populationDensity', 'utcOffset', 'leaderTitle', 'country']
+object: ['City', '1604.0', '−6', 'Governator', 'Mexico']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5', '__subject__ 1147 Stavropolis __predicate__ epoch __object__ 31 July 2016 (JD2457600.5)', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0', '__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['apoapsis', 'absoluteMagnitude', 'epoch', 'periapsis', 'orbitalPeriod']
+object: ['418476000000.0', '11.5', '31 July 2016 (JD2457600.5)', '260855000000.0', '1249.6']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ servedAsChiefOfTheAstronautOfficeIn __object__ 1963', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ mission __object__ Apollo 14']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'servedAsChiefOfTheAstronautOfficeIn', 'deathPlace', 'birthPlace', 'mission']
+object: ['1923-11-18', '1963', 'California', 'New Hampshire', 'Apollo 14']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ nationality __object__ United States', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ almaMater __object__ NWC, M.A. 1957', '__subject__ Alan Shepard __predicate__ award __object__ Distinguished Service Medal (United States Navy)']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'nationality', 'birthPlace', 'almaMater', 'award']
+object: ['1923-11-18', 'United States', 'New Hampshire', 'NWC, M.A. 1957', 'Distinguished Service Medal (United States Navy)']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ servedAsChiefOfTheAstronautOfficeIn __object__ 1963', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ almaMater __object__ NWC, M.A. 1957']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'servedAsChiefOfTheAstronautOfficeIn', 'deathPlace', 'birthPlace', 'almaMater']
+object: ['1923-11-18', '1963', 'California', 'New Hampshire', 'NWC, M.A. 1957']
+
+Triple: [['__subject__ Brandon Carter __predicate__ almaMater __object__ University of Cambridge', '__subject__ University of Cambridge __predicate__ chancellor __object__ David Sainsbury, Baron Sainsbury of Turville', '__subject__ Brandon Carter __predicate__ doctoralAdvisor __object__ Dennis William Sciama', '__subject__ Brandon Carter __predicate__ birthDate __object__ 1942-01-01', '__subject__ Brandon Carter __predicate__ birthPlace __object__ England']]
+subject: ['Brandon Carter', 'University of Cambridge', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter']
+predicate: ['almaMater', 'chancellor', 'doctoralAdvisor', 'birthDate', 'birthPlace']
+object: ['University of Cambridge', 'David Sainsbury, Baron Sainsbury of Turville', 'Dennis William Sciama', '1942-01-01', 'England']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ orbitalPeriod __object__ 1249.6', '__subject__ 1147 Stavropolis __predicate__ discoverer __object__ Grigory Neujmin', '__subject__ 1147 Stavropolis __predicate__ absoluteMagnitude __object__ 11.5', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['apoapsis', 'orbitalPeriod', 'discoverer', 'absoluteMagnitude', 'periapsis']
+object: ['418476000000.0', '1249.6', 'Grigory Neujmin', '11.5', '260855000000.0']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager government', '__subject__ Ciudad Ayala __predicate__ populationDensity __object__ 1604.0', '__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Daylight Time', '__subject__ Ciudad Ayala __predicate__ timeZone __object__ Pacific Standard Time Zone', '__subject__ Ciudad Ayala __predicate__ leader __object__ Juan Nolasco']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['governmentType', 'populationDensity', 'timeZone', 'timeZone', 'leader']
+object: ['Council-manager government', '1604.0', 'Pacific Daylight Time', 'Pacific Standard Time Zone', 'Juan Nolasco']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ nationality __object__ United States', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ mission __object__ Apollo 14']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'nationality', 'deathPlace', 'birthPlace', 'mission']
+object: ['1923-11-18', 'United States', 'California', 'New Hampshire', 'Apollo 14']
+
+Triple: [['__subject__ Super Capers __predicate__ editing __object__ Stacy Katzman', '__subject__ Super Capers __predicate__ starring __object__ Michael Rooker', '__subject__ Super Capers __predicate__ starring __object__ Tom Sizemore', '__subject__ Super Capers __predicate__ language __object__ English language', '__subject__ Super Capers __predicate__ runtime __object__ 98.0']]
+subject: ['Super Capers', 'Super Capers', 'Super Capers', 'Super Capers', 'Super Capers']
+predicate: ['editing', 'starring', 'starring', 'language', 'runtime']
+object: ['Stacy Katzman', 'Michael Rooker', 'Tom Sizemore', 'English language', '98.0']
+
+Triple: [['__subject__ Super Capers __predicate__ language __object__ English language', '__subject__ English language __predicate__ spokenIn __object__ Great Britain', '__subject__ Super Capers __predicate__ starring __object__ Michael Rooker', '__subject__ Tom Sizemore __predicate__ activeYearsStartYear __object__ 1989-01-01', '__subject__ Super Capers __predicate__ starring __object__ Tom Sizemore']]
+subject: ['Super Capers', 'English language', 'Super Capers', 'Tom Sizemore', 'Super Capers']
+predicate: ['language', 'spokenIn', 'starring', 'activeYearsStartYear', 'starring']
+object: ['English language', 'Great Britain', 'Michael Rooker', '1989-01-01', 'Tom Sizemore']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ ingredient __object__ Sour cream', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'ingredient', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Sour cream', 'Mexico']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ FC Terek Grozny __predicate__ manager __object__ Rashid Rakhimov', '__subject__ Aleksandr Prudnikov __predicate__ youthclub __object__ FC Spartak Moscow']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'FC Terek Grozny', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'club', 'manager', 'youthclub']
+object: ['Grozny', 'FC Amkar Perm', 'FC Terek Grozny', 'Rashid Rakhimov', 'FC Spartak Moscow']
+
+Triple: [['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ artist __object__ The Velvet Underground', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ producer __object__ The Velvet Underground', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ runtime __object__ 230.05', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ United States', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordedIn __object__ St. Louis, Missouri']]
+subject: ['Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes']
+predicate: ['artist', 'producer', 'runtime', 'recordedIn', 'recordedIn']
+object: ['The Velvet Underground', 'The Velvet Underground', '230.05', 'United States', 'St. Louis, Missouri']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ successor __object__ John N. Dempsey', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ United States']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'successor', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'John N. Dempsey', 'United States']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ John Mills", "__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert Taylor", "__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ gross __object__ 282838.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis Levy"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['starring', 'cinematography', 'runtime', 'gross', 'musicComposer']
+object: ['John Mills', 'Gilbert Taylor', '94.0', '282838.0', 'Louis Levy']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ Aleksandr Prudnikov __predicate__ height __object__ 185.0 (centimetres)', '__subject__ Aleksandr Prudnikov __predicate__ youthclub __object__ FC Spartak Moscow']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'club', 'height', 'youthclub']
+object: ['Grozny', 'FC Amkar Perm', 'FC Terek Grozny', '185.0 (centimetres)', 'FC Spartak Moscow']
+
+Triple: [['__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400', '__subject__ University of Burgundy __predicate__ campus __object__ Dijon', '__subject__ University of Burgundy __predicate__ city __object__ Dijon', '__subject__ University of Burgundy __predicate__ numberOfPostgraduateStudents __object__ 9400', '__subject__ University of Burgundy __predicate__ country __object__ France']]
+subject: ['University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy']
+predicate: ['numberOfStudents', 'campus', 'city', 'numberOfPostgraduateStudents', 'country']
+object: ['27400', 'Dijon', 'Dijon', '9400', 'France']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ FC Amkar Perm __predicate__ manager __object__ Gadzhi Gadzhiyev', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ Aleksandr Prudnikov __predicate__ height __object__ 185.0 (centimetres)']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'FC Amkar Perm', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'manager', 'club', 'height']
+object: ['Grozny', 'FC Amkar Perm', 'Gadzhi Gadzhiyev', 'FC Terek Grozny', '185.0 (centimetres)']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ completionDate __object__ 2009-06-01', '__subject__ Alan B. Miller Hall __predicate__ owner __object__ College of William & Mary']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall']
+predicate: ['architect', 'address', 'currentTenants', 'completionDate', 'owner']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', '2009-06-01', 'College of William & Mary']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayLength __object__ 4349.0', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ elevationAboveTheSeaLevel __object__ 610.0']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport']
+predicate: ['operatingOrganisation', 'location', 'runwayLength', 'city', 'elevationAboveTheSeaLevel']
+object: ['ENAIRE', 'Alcobendas', '4349.0', 'Madrid', '610.0']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington', '__subject__ Lady Anne Monson __predicate__ professionalField __object__ Botany', '__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Kingdom of England', '__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01', '__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18']]
+subject: ['Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['birthPlace', 'professionalField', 'birthPlace', 'birthDate', 'deathDate']
+object: ['Darlington', 'Botany', 'Kingdom of England', '1726-01-01', '1776-02-18']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayLength __object__ 3500.0', '__subject__ Alcobendas __predicate__ country __object__ Spain']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport', 'Alcobendas']
+predicate: ['operatingOrganisation', 'location', 'city', 'runwayLength', 'country']
+object: ['ENAIRE', 'Alcobendas', 'Madrid', '3500.0', 'Spain']
+
+Triple: [['__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Darlington', '__subject__ Lady Anne Monson __predicate__ birthDate __object__ 1726-01-01', '__subject__ Lady Anne Monson __predicate__ deathDate __object__ 1776-02-18', '__subject__ Lady Anne Monson __predicate__ birthPlace __object__ Kingdom of England', '__subject__ Lady Anne Monson __predicate__ spouse __object__ George Monson']]
+subject: ['Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson', 'Lady Anne Monson']
+predicate: ['birthPlace', 'birthDate', 'deathDate', 'birthPlace', 'spouse']
+object: ['Darlington', '1726-01-01', '1776-02-18', 'Kingdom of England', 'George Monson']
+
+Triple: [['__subject__ English Without Tears __predicate__ runtime __object__ 89.0', '__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas Brodszky', '__subject__ English Without Tears __predicate__ releaseDate __object__ 1944-07-28', '__subject__ English Without Tears __predicate__ director __object__ Harold French', '__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['runtime', 'musicComposer', 'releaseDate', 'director', 'editing']
+object: ['89.0', 'Nicholas Brodszky', '1944-07-28', 'Harold French', 'Alan Jaggs']
+
+Triple: [['__subject__ Hypermarcas __predicate__ location __object__ Brazil', '__subject__ Hypermarcas __predicate__ product __object__ Drugs', '__subject__ Hypermarcas __predicate__ industry __object__ Pharmaceuticals', '__subject__ Hypermarcas __predicate__ keyPerson __object__ CEO', '__subject__ Hypermarcas __predicate__ type __object__ S.A. (corporation)']]
+subject: ['Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas']
+predicate: ['location', 'product', 'industry', 'keyPerson', 'type']
+object: ['Brazil', 'Drugs', 'Pharmaceuticals', 'CEO', 'S.A. (corporation)']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ creator __object__ Steve Bright', '__subject__ Bill Oddie __predicate__ birthPlace __object__ Rochdale', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bill Oddie', 'Bananaman']
+predicate: ['city', 'starring', 'creator', 'birthPlace', 'broadcastedBy']
+object: ['Broadcasting House', 'Bill Oddie', 'Steve Bright', 'Rochdale', 'BBC']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ ingredient __object__ Raisin', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'ingredient', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Raisin', 'Mexico']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ FC Amkar Perm __predicate__ manager __object__ Gadzhi Gadzhiyev', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ Aleksandr Prudnikov __predicate__ youthclub __object__ FC Spartak Moscow']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'FC Amkar Perm', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'manager', 'club', 'youthclub']
+object: ['Grozny', 'FC Amkar Perm', 'Gadzhi Gadzhiyev', 'FC Terek Grozny', 'FC Spartak Moscow']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Visvesvaraya Technological University __predicate__ city __object__ Belgaum', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Visvesvaraya Technological University', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'city', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'Belgaum', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Ciudad Ayala __predicate__ type __object__ City', '__subject__ Ciudad Ayala __predicate__ governmentType __object__ Council-manager government', '__subject__ Ciudad Ayala __predicate__ utcOffset __object__ −6', '__subject__ Ciudad Ayala __predicate__ leaderTitle __object__ Governator', '__subject__ Ciudad Ayala __predicate__ isPartOf __object__ Morelos']]
+subject: ['Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala', 'Ciudad Ayala']
+predicate: ['type', 'governmentType', 'utcOffset', 'leaderTitle', 'isPartOf']
+object: ['City', 'Council-manager government', '−6', 'Governator', 'Morelos']
+
+Triple: [['__subject__ Adams County, Pennsylvania __predicate__ hasToItsWest __object__ Franklin County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsNorth __object__ Cumberland County, Pennsylvania']]
+subject: ['Adams County, Pennsylvania', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania']
+predicate: ['hasToItsWest', 'established', 'location', 'category', 'hasToItsNorth']
+object: ['Franklin County, Pennsylvania', '2000', 'Adams County, Pennsylvania', 'Contributing property', 'Cumberland County, Pennsylvania']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Turkey __predicate__ capital __object__ Ankara', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ nationality __object__ Turkish people', '__subject__ Turkish people __predicate__ religion __object__ Irreligion']]
+subject: ['Nurhan Atasoy', 'Turkey', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Turkish people']
+predicate: ['residence', 'capital', 'residence', 'nationality', 'religion']
+object: ['Istanbul', 'Ankara', 'Turkey', 'Turkish people', 'Irreligion']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision', '__subject__ MotorSport Vision __predicate__ city __object__ Longfield', '__subject__ MotorSport Vision __predicate__ city __object__ Kent', '__subject__ Bedford Aerodrome __predicate__ runwayLength __object__ 1095.0', '__subject__ Bedford Aerodrome __predicate__ location __object__ Thurleigh']]
+subject: ['Bedford Aerodrome', 'MotorSport Vision', 'MotorSport Vision', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['operatingOrganisation', 'city', 'city', 'runwayLength', 'location']
+object: ['MotorSport Vision', 'Longfield', 'Kent', '1095.0', 'Thurleigh']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ season __object__ 2015 Campeonato Brasileiro Série C', '__subject__ Campeonato Brasileiro Série C __predicate__ country __object__ Brazil', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Campeonato Brasileiro Série C', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'season', 'country', 'ground']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', '2015 Campeonato Brasileiro Série C', 'Brazil', 'Estádio Municipal Coaracy da Mata Fonseca']
+
+Triple: [['__subject__ FC Terek Grozny __predicate__ ground __object__ Grozny', '__subject__ Aleksandr Prudnikov __predicate__ currentclub __object__ FC Amkar Perm', '__subject__ Aleksandr Prudnikov __predicate__ club __object__ FC Terek Grozny', '__subject__ Aleksandr Prudnikov __predicate__ birthDate __object__ 1989-02-24', '__subject__ Aleksandr Prudnikov __predicate__ youthclub __object__ FC Spartak Moscow']]
+subject: ['FC Terek Grozny', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov', 'Aleksandr Prudnikov']
+predicate: ['ground', 'currentclub', 'club', 'birthDate', 'youthclub']
+object: ['Grozny', 'FC Amkar Perm', 'FC Terek Grozny', '1989-02-24', 'FC Spartak Moscow']
+
+Triple: [['__subject__ English Without Tears __predicate__ runtime __object__ 89.0', '__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs', '__subject__ English Without Tears __predicate__ producer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ writer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ cinematography __object__ Bernard Knowles']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['runtime', 'editing', 'producer', 'writer', 'cinematography']
+object: ['89.0', 'Alan Jaggs', 'Anatole de Grunwald', 'Anatole de Grunwald', 'Bernard Knowles']
+
+Triple: [['__subject__ Brandon Carter __predicate__ doctoralAdvisor __object__ Dennis William Sciama', '__subject__ Brandon Carter __predicate__ birthPlace __object__ England', '__subject__ Brandon Carter __predicate__ birthDate __object__ 1942-01-01', '__subject__ Brandon Carter __predicate__ almaMater __object__ University of Cambridge', '__subject__ Brandon Carter __predicate__ knownFor __object__ Doomsday argument']]
+subject: ['Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter']
+predicate: ['doctoralAdvisor', 'birthPlace', 'birthDate', 'almaMater', 'knownFor']
+object: ['Dennis William Sciama', 'England', '1942-01-01', 'University of Cambridge', 'Doomsday argument']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Petah Tikva', '__subject__ Israel __predicate__ populationDensity __object__ 387.63', '__subject__ Israel __predicate__ longName __object__ State of Israel', '__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Israel', 'Israel', 'Liselotte Grschebina']
+predicate: ['deathPlace', 'deathPlace', 'populationDensity', 'longName', 'nationality']
+object: ['Israel', 'Petah Tikva', '387.63', 'State of Israel', 'Israel']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ German Empire', '__subject__ German Empire __predicate__ anthem __object__ Das Lied der Deutschen', '__subject__ German Empire __predicate__ anthem __object__ Die Wacht am Rhein', '__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02']]
+subject: ['Liselotte Grschebina', 'German Empire', 'German Empire', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['birthPlace', 'anthem', 'anthem', 'deathDate', 'birthDate']
+object: ['German Empire', 'Das Lied der Deutschen', 'Die Wacht am Rhein', '1994-06-14', '1908-05-02']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ director __object__ Dr. G. P. Prabhukumar', '__subject__ Acharya Institute of Technology __predicate__ city __object__ Bangalore', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'director', 'city', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Dr. G. P. Prabhukumar', 'Bangalore', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Brandon Carter __predicate__ professionalField __object__ General relativity', '__subject__ Brandon Carter __predicate__ knownFor __object__ Carter constant', '__subject__ Brandon Carter __predicate__ knownFor __object__ No-hair theorem', '__subject__ Brandon Carter __predicate__ doctoralAdvisor __object__ Dennis William Sciama', '__subject__ Brandon Carter __predicate__ birthPlace __object__ England']]
+subject: ['Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter', 'Brandon Carter']
+predicate: ['professionalField', 'knownFor', 'knownFor', 'doctoralAdvisor', 'birthPlace']
+object: ['General relativity', 'Carter constant', 'No-hair theorem', 'Dennis William Sciama', 'England']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ region __object__ Guadalajara', '__subject__ Bionico __predicate__ ingredient __object__ Granola', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'region', 'ingredient', 'country']
+object: ['Mexican peso', 'Mexicans', 'Guadalajara', 'Granola', 'Mexico']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ elevationAboveTheSeaLevel __object__ 610.0', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ runwayName __object__ 14L/32R']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport']
+predicate: ['operatingOrganisation', 'location', 'city', 'elevationAboveTheSeaLevel', 'runwayName']
+object: ['ENAIRE', 'Alcobendas', 'Madrid', '610.0', '14L/32R']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ season __object__ 2015 Campeonato Brasileiro Série C', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ numberOfMembers __object__ 17000', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'season', 'numberOfMembers', 'ground']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', '2015 Campeonato Brasileiro Série C', '17000', 'Estádio Municipal Coaracy da Mata Fonseca']
+
+Triple: [['__subject__ English Without Tears __predicate__ musicComposer __object__ Nicholas Brodszky', '__subject__ English Without Tears __predicate__ editing __object__ Alan Jaggs', '__subject__ English Without Tears __predicate__ producer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ writer __object__ Anatole de Grunwald', '__subject__ English Without Tears __predicate__ cinematography __object__ Bernard Knowles']]
+subject: ['English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears', 'English Without Tears']
+predicate: ['musicComposer', 'editing', 'producer', 'writer', 'cinematography']
+object: ['Nicholas Brodszky', 'Alan Jaggs', 'Anatole de Grunwald', 'Anatole de Grunwald', 'Bernard Knowles']
+
+Triple: [['__subject__ University of Burgundy __predicate__ numberOfUndergraduateStudents __object__ 16800', '__subject__ University of Burgundy __predicate__ staff __object__ 2900', '__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400', '__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299', '__subject__ University of Burgundy __predicate__ numberOfPostgraduateStudents __object__ 9400']]
+subject: ['University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy']
+predicate: ['numberOfUndergraduateStudents', 'staff', 'numberOfStudents', 'numberOfDoctoralStudents', 'numberOfPostgraduateStudents']
+object: ['16800', '2900', '27400', '1299', '9400']
+
+Triple: [['__subject__ Super Capers __predicate__ distributor __object__ Lionsgate', '__subject__ Lionsgate __predicate__ keyPerson __object__ Jon Feltheimer', '__subject__ Lionsgate __predicate__ keyPerson __object__ Michael R. Burns', '__subject__ Super Capers __predicate__ starring __object__ Michael Rooker', '__subject__ Super Capers __predicate__ director __object__ Ray Griggs (director)']]
+subject: ['Super Capers', 'Lionsgate', 'Lionsgate', 'Super Capers', 'Super Capers']
+predicate: ['distributor', 'keyPerson', 'keyPerson', 'starring', 'director']
+object: ['Lionsgate', 'Jon Feltheimer', 'Michael R. Burns', 'Michael Rooker', 'Ray Griggs (director)']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ birthPlace __object__ Karlsruhe', '__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02', '__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ deathPlace __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['birthPlace', 'birthDate', 'deathDate', 'deathPlace', 'nationality']
+object: ['Karlsruhe', '1908-05-02', '1994-06-14', 'Israel', 'Israel']
+
+Triple: [['__subject__ McVeagh of the South Seas __predicate__ director __object__ Cyril Bruce', '__subject__ McVeagh of the South Seas __predicate__ director __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ writer __object__ Harry Carey (actor born 1878)', '__subject__ McVeagh of the South Seas __predicate__ producer __object__ The Progressive Motion Picture Company', '__subject__ McVeagh of the South Seas __predicate__ distributor __object__ Alliance Films Corporation']]
+subject: ['McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas', 'McVeagh of the South Seas']
+predicate: ['director', 'director', 'writer', 'producer', 'distributor']
+object: ['Cyril Bruce', 'Harry Carey (actor born 1878)', 'Harry Carey (actor born 1878)', 'The Progressive Motion Picture Company', 'Alliance Films Corporation']
+
+Triple: [['__subject__ The Fellowship of the Ring __predicate__ followedBy __object__ The Two Towers', '__subject__ The Hobbit __predicate__ literaryGenre __object__ Juvenile fantasy', '__subject__ The Hobbit __predicate__ literaryGenre __object__ High fantasy', '__subject__ The Fellowship of the Ring __predicate__ author __object__ J. R. R. Tolkien', '__subject__ The Fellowship of the Ring __predicate__ precededBy __object__ The Hobbit']]
+subject: ['The Fellowship of the Ring', 'The Hobbit', 'The Hobbit', 'The Fellowship of the Ring', 'The Fellowship of the Ring']
+predicate: ['followedBy', 'literaryGenre', 'literaryGenre', 'author', 'precededBy']
+object: ['The Two Towers', 'Juvenile fantasy', 'High fantasy', 'J. R. R. Tolkien', 'The Hobbit']
+
+Triple: [['__subject__ 11th Mississippi Infantry Monument __predicate__ established __object__ 2000', '__subject__ 11th Mississippi Infantry Monument __predicate__ location __object__ Adams County, Pennsylvania', '__subject__ Adams County, Pennsylvania __predicate__ hasToItsSoutheast __object__ Carroll County, Maryland', '__subject__ 11th Mississippi Infantry Monument __predicate__ category __object__ Contributing property', '__subject__ 11th Mississippi Infantry Monument __predicate__ country __object__ United States']]
+subject: ['11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument', 'Adams County, Pennsylvania', '11th Mississippi Infantry Monument', '11th Mississippi Infantry Monument']
+predicate: ['established', 'location', 'hasToItsSoutheast', 'category', 'country']
+object: ['2000', 'Adams County, Pennsylvania', 'Carroll County, Maryland', 'Contributing property', 'United States']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ successor __object__ John N. Dempsey', '__subject__ Abraham A. Ribicoff __predicate__ office __object__ United States Secretary of Health, Education, and Welfare']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'successor', 'office']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'John N. Dempsey', 'United States Secretary of Health, Education, and Welfare']
+
+Triple: [['__subject__ Olga Bondareva __predicate__ deathPlace __object__ Saint Petersburg', '__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva', '__subject__ Olga Bondareva __predicate__ almaMater __object__ Leningrad State University', '__subject__ Olga Bondareva __predicate__ deathDate __object__ 1991-12-09', '__subject__ Olga Bondareva __predicate__ professionalField __object__ Economics']]
+subject: ['Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva']
+predicate: ['deathPlace', 'birthName', 'almaMater', 'deathDate', 'professionalField']
+object: ['Saint Petersburg', 'Olga Nikolaevna Bondareva', 'Leningrad State University', '1991-12-09', 'Economics']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ lastAired __object__ 1986-04-15', '__subject__ Bananaman __predicate__ creator __object__ John Geering', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bananaman', 'Bananaman']
+predicate: ['city', 'starring', 'lastAired', 'creator', 'broadcastedBy']
+object: ['Broadcasting House', 'Bill Oddie', '1986-04-15', 'John Geering', 'BBC']
+
+Triple: [['__subject__ Darinka Dentcheva __predicate__ influencedBy __object__ Andrzej Piotr Ruszczyński', '__subject__ Darinka Dentcheva __predicate__ knownFor __object__ Stochastic programming', '__subject__ Darinka Dentcheva __predicate__ almaMater __object__ Humboldt University', '__subject__ Darinka Dentcheva __predicate__ residence __object__ New Jersey', '__subject__ Darinka Dentcheva __predicate__ residence __object__ United States']]
+subject: ['Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva', 'Darinka Dentcheva']
+predicate: ['influencedBy', 'knownFor', 'almaMater', 'residence', 'residence']
+object: ['Andrzej Piotr Ruszczyński', 'Stochastic programming', 'Humboldt University', 'New Jersey', 'United States']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education', '__subject__ Acharya Institute of Technology __predicate__ state __object__ Karnataka']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'wasGivenTheTechnicalCampusStatusBy', 'state']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'All India Council for Technical Education', 'Karnataka']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ ingredient __object__ Granola', '__subject__ Bionico __predicate__ region __object__ Jalisco', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'ingredient', 'region', 'country']
+object: ['Mexican peso', 'Mexicans', 'Granola', 'Jalisco', 'Mexico']
+
+Triple: [['__subject__ Aaron Turner __predicate__ genre __object__ Post-metal', '__subject__ Aaron Turner __predicate__ associatedBand/associatedMusicalArtist __object__ Lotus Eaters (band)', '__subject__ Aaron Turner __predicate__ origin __object__ United States', '__subject__ Aaron Turner __predicate__ instrument __object__ Electric guitar', '__subject__ Aaron Turner __predicate__ activeYearsStartYear __object__ 1995']]
+subject: ['Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner']
+predicate: ['genre', 'associatedBand/associatedMusicalArtist', 'origin', 'instrument', 'activeYearsStartYear']
+object: ['Post-metal', 'Lotus Eaters (band)', 'United States', 'Electric guitar', '1995']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ cinematography __object__ Gilbert Taylor", "__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel", "__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis Levy", "__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['cinematography', 'runtime', 'director', 'musicComposer', 'starring']
+object: ['Gilbert Taylor', '94.0', 'Cyril Frankel', 'Louis Levy', 'Cecil Parker']
+
+Triple: [['__subject__ Bedford Aerodrome __predicate__ operatingOrganisation __object__ MotorSport Vision', '__subject__ Bedford Aerodrome __predicate__ icaoLocationIdentifier __object__ EGBF', '__subject__ Bedford Aerodrome __predicate__ elevationAboveTheSeaLevel __object__ 83.2104', '__subject__ Bedford Aerodrome __predicate__ runwayName __object__ 08/26', '__subject__ Bedford Aerodrome __predicate__ runwaySurfaceType __object__ Concrete']]
+subject: ['Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome', 'Bedford Aerodrome']
+predicate: ['operatingOrganisation', 'icaoLocationIdentifier', 'elevationAboveTheSeaLevel', 'runwayName', 'runwaySurfaceType']
+object: ['MotorSport Vision', 'EGBF', '83.2104', '08/26', 'Concrete']
+
+Triple: [['__subject__ Super Capers __predicate__ editing __object__ Stacy Katzman', '__subject__ Super Capers __predicate__ language __object__ English language', '__subject__ Super Capers __predicate__ runtime __object__ 98.0', '__subject__ Super Capers __predicate__ distributor __object__ Roadside Attractions', '__subject__ Super Capers __predicate__ distributor __object__ Lionsgate']]
+subject: ['Super Capers', 'Super Capers', 'Super Capers', 'Super Capers', 'Super Capers']
+predicate: ['editing', 'language', 'runtime', 'distributor', 'distributor']
+object: ['Stacy Katzman', 'English language', '98.0', 'Roadside Attractions', 'Lionsgate']
+
+Triple: [['__subject__ Aaron Turner __predicate__ genre __object__ Post-metal', '__subject__ Aaron Turner __predicate__ associatedBand/associatedMusicalArtist __object__ Lotus Eaters (band)', '__subject__ Aaron Turner __predicate__ instrument __object__ Singing', '__subject__ Aaron Turner __predicate__ origin __object__ United States', '__subject__ Aaron Turner __predicate__ activeYearsStartYear __object__ 1995']]
+subject: ['Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner', 'Aaron Turner']
+predicate: ['genre', 'associatedBand/associatedMusicalArtist', 'instrument', 'origin', 'activeYearsStartYear']
+object: ['Post-metal', 'Lotus Eaters (band)', 'Singing', 'United States', '1995']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ director __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ broadcastedBy __object__ HBO', '__subject__ Death on a Factory Farm __predicate__ editor __object__ Geof Bartz', '__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0']]
+subject: ['Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['director', 'producer', 'broadcastedBy', 'editor', 'runtime']
+object: ['Tom Simon', 'Tom Simon', 'HBO', 'Geof Bartz', '83.0']
+
+Triple: [['__subject__ Liselotte Grschebina __predicate__ deathDate __object__ 1994-06-14', '__subject__ Liselotte Grschebina __predicate__ nationality __object__ Israel', '__subject__ Liselotte Grschebina __predicate__ training __object__ School of Applied Arts in Stuttgart', '__subject__ Liselotte Grschebina __predicate__ birthDate __object__ 1908-05-02', '__subject__ Liselotte Grschebina __predicate__ professionalField __object__ Photographer']]
+subject: ['Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina', 'Liselotte Grschebina']
+predicate: ['deathDate', 'nationality', 'training', 'birthDate', 'professionalField']
+object: ['1994-06-14', 'Israel', 'School of Applied Arts in Stuttgart', '1908-05-02', 'Photographer']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ birthDate __object__ 1934-01-01', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Nurhan Atasoy __predicate__ citizenship __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Turkey', '__subject__ Nurhan Atasoy __predicate__ nationality __object__ Turkish people']]
+subject: ['Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy']
+predicate: ['birthDate', 'residence', 'citizenship', 'birthPlace', 'nationality']
+object: ['1934-01-01', 'Istanbul', 'Turkey', 'Turkey', 'Turkish people']
+
+Triple: [['__subject__ Alan B. Miller Hall __predicate__ architect __object__ Robert A. M. Stern', '__subject__ Alan B. Miller Hall __predicate__ address __object__ 101 Ukrop Way', '__subject__ Alan B. Miller Hall __predicate__ currentTenants __object__ Mason School of Business', '__subject__ Alan B. Miller Hall __predicate__ location __object__ Williamsburg, Virginia', '__subject__ Mason School of Business __predicate__ country __object__ United States']]
+subject: ['Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Alan B. Miller Hall', 'Mason School of Business']
+predicate: ['architect', 'address', 'currentTenants', 'location', 'country']
+object: ['Robert A. M. Stern', '101 Ukrop Way', 'Mason School of Business', 'Williamsburg, Virginia', 'United States']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ deathPlace __object__ United States', '__subject__ Abraham A. Ribicoff __predicate__ office __object__ United States Secretary of Health, Education, and Welfare']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'deathPlace', 'office']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'United States', 'United States Secretary of Health, Education, and Welfare']
+
+Triple: [['__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ operatingOrganisation __object__ ENAIRE', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ location __object__ Alcobendas', '__subject__ ENAIRE __predicate__ city __object__ Madrid', '__subject__ Adolfo Suárez Madrid–Barajas Airport __predicate__ elevationAboveTheSeaLevel __object__ 610.0', '__subject__ Alcobendas __predicate__ country __object__ Spain']]
+subject: ['Adolfo Suárez Madrid–Barajas Airport', 'Adolfo Suárez Madrid–Barajas Airport', 'ENAIRE', 'Adolfo Suárez Madrid–Barajas Airport', 'Alcobendas']
+predicate: ['operatingOrganisation', 'location', 'city', 'elevationAboveTheSeaLevel', 'country']
+object: ['ENAIRE', 'Alcobendas', 'Madrid', '610.0', 'Spain']
+
+Triple: [['__subject__ University of Burgundy __predicate__ numberOfUndergraduateStudents __object__ 16800', '__subject__ University of Burgundy __predicate__ staff __object__ 2900', '__subject__ University of Burgundy __predicate__ numberOfStudents __object__ 27400', '__subject__ University of Burgundy __predicate__ numberOfDoctoralStudents __object__ 1299', '__subject__ University of Burgundy __predicate__ city __object__ Dijon']]
+subject: ['University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy', 'University of Burgundy']
+predicate: ['numberOfUndergraduateStudents', 'staff', 'numberOfStudents', 'numberOfDoctoralStudents', 'city']
+object: ['16800', '2900', '27400', '1299', 'Dijon']
+
+Triple: [['__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ artist __object__ The Velvet Underground', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ genre __object__ Rock music', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ precededBy __object__ Squeeze (The Velvet Underground album)', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordLabel __object__ Polydor Records', '__subject__ Bootleg Series Volume 1: The Quine Tapes __predicate__ recordLabel __object__ Universal Music Group']]
+subject: ['Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes', 'Bootleg Series Volume 1: The Quine Tapes']
+predicate: ['artist', 'genre', 'precededBy', 'recordLabel', 'recordLabel']
+object: ['The Velvet Underground', 'Rock music', 'Squeeze (The Velvet Underground album)', 'Polydor Records', 'Universal Music Group']
+
+Triple: [['__subject__ Mexico __predicate__ currency __object__ Mexican peso', '__subject__ Mexico __predicate__ demonym __object__ Mexicans', '__subject__ Bionico __predicate__ course __object__ Dessert', '__subject__ Bionico __predicate__ region __object__ Jalisco', '__subject__ Bionico __predicate__ country __object__ Mexico']]
+subject: ['Mexico', 'Mexico', 'Bionico', 'Bionico', 'Bionico']
+predicate: ['currency', 'demonym', 'course', 'region', 'country']
+object: ['Mexican peso', 'Mexicans', 'Dessert', 'Jalisco', 'Mexico']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ writer __object__ Amund Bjørklund', '__subject__ Mermaid (Train song) __predicate__ writer __object__ Stargate (production team)', '__subject__ Mermaid (Train song) __predicate__ producer __object__ Espionage (production team)', '__subject__ Mermaid (Train song) __predicate__ album __object__ California 37 (Train album)', '__subject__ Mermaid (Train song) __predicate__ format __object__ Music download']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['writer', 'writer', 'producer', 'album', 'format']
+object: ['Amund Bjørklund', 'Stargate (production team)', 'Espionage (production team)', 'California 37 (Train album)', 'Music download']
+
+Triple: [['__subject__ BBC __predicate__ city __object__ Broadcasting House', '__subject__ Bananaman __predicate__ starring __object__ Bill Oddie', '__subject__ Bananaman __predicate__ lastAired __object__ 1986-04-15', '__subject__ Bananaman __predicate__ broadcastedBy __object__ BBC', '__subject__ Bananaman __predicate__ firstAired __object__ 1983-10-03']]
+subject: ['BBC', 'Bananaman', 'Bananaman', 'Bananaman', 'Bananaman']
+predicate: ['city', 'starring', 'lastAired', 'broadcastedBy', 'firstAired']
+object: ['Broadcasting House', 'Bill Oddie', '1986-04-15', 'BBC', '1983-10-03']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Campeonato Brasileiro Série C __predicate__ country __object__ Brazil', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ numberOfMembers __object__ 17000', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Campeonato Brasileiro Série C', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'country', 'numberOfMembers', 'ground']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', 'Brazil', '17000', 'Estádio Municipal Coaracy da Mata Fonseca']
+
+Triple: [['__subject__ Olga Bondareva __predicate__ deathPlace __object__ Saint Petersburg', '__subject__ Olga Bondareva __predicate__ birthDate __object__ 1937-04-27', '__subject__ Olga Bondareva __predicate__ knownFor __object__ Bondareva–Shapley theorem', '__subject__ Olga Bondareva __predicate__ birthName __object__ Olga Nikolaevna Bondareva', '__subject__ Olga Bondareva __predicate__ almaMater __object__ Leningrad State University']]
+subject: ['Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva', 'Olga Bondareva']
+predicate: ['deathPlace', 'birthDate', 'knownFor', 'birthName', 'almaMater']
+object: ['Saint Petersburg', '1937-04-27', 'Bondareva–Shapley theorem', 'Olga Nikolaevna Bondareva', 'Leningrad State University']
+
+Triple: [['__subject__ Acharya Institute of Technology __predicate__ campus __object__ In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', '__subject__ All India Council for Technical Education __predicate__ location __object__ Mumbai', '__subject__ Acharya Institute of Technology __predicate__ affiliation __object__ Visvesvaraya Technological University', '__subject__ Acharya Institute of Technology __predicate__ city __object__ Bangalore', '__subject__ Acharya Institute of Technology __predicate__ wasGivenTheTechnicalCampusStatusBy __object__ All India Council for Technical Education']]
+subject: ['Acharya Institute of Technology', 'All India Council for Technical Education', 'Acharya Institute of Technology', 'Acharya Institute of Technology', 'Acharya Institute of Technology']
+predicate: ['campus', 'location', 'affiliation', 'city', 'wasGivenTheTechnicalCampusStatusBy']
+object: ['In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.', 'Mumbai', 'Visvesvaraya Technological University', 'Bangalore', 'All India Council for Technical Education']
+
+Triple: [['__subject__ Alan Shepard __predicate__ birthDate __object__ 1923-11-18', '__subject__ Alan Shepard __predicate__ nationality __object__ United States', '__subject__ Alan Shepard __predicate__ deathPlace __object__ California', '__subject__ Alan Shepard __predicate__ birthPlace __object__ New Hampshire', '__subject__ Alan Shepard __predicate__ status __object__ Deceased']]
+subject: ['Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard', 'Alan Shepard']
+predicate: ['birthDate', 'nationality', 'deathPlace', 'birthPlace', 'status']
+object: ['1923-11-18', 'United States', 'California', 'New Hampshire', 'Deceased']
+
+Triple: [["__subject__ Mermaid (Train song) __predicate__ precededBy __object__ This'll Be My Year", '__subject__ Mermaid (Train song) __predicate__ followedBy __object__ Imagine (John Lennon song)', '__subject__ Imagine (John Lennon song) __predicate__ followedBy __object__ Happy Xmas (War Is Over)', '__subject__ Imagine (John Lennon song) __predicate__ precededBy __object__ Power to the People (song)', '__subject__ Mermaid (Train song) __predicate__ genre __object__ Pop rock']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Imagine (John Lennon song)', 'Imagine (John Lennon song)', 'Mermaid (Train song)']
+predicate: ['precededBy', 'followedBy', 'followedBy', 'precededBy', 'genre']
+object: ["This'll Be My Year", 'Imagine (John Lennon song)', 'Happy Xmas (War Is Over)', 'Power to the People (song)', 'Pop rock']
+
+Triple: [['__subject__ Hypermarcas __predicate__ industry __object__ Pharmaceuticals', '__subject__ Hypermarcas __predicate__ foundingDate __object__ 2001-01-01', '__subject__ Hypermarcas __predicate__ type __object__ S.A. (corporation)', '__subject__ Hypermarcas __predicate__ subsidiary __object__ Mantecorp', '__subject__ Hypermarcas __predicate__ netIncome __object__ 108600000']]
+subject: ['Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas', 'Hypermarcas']
+predicate: ['industry', 'foundingDate', 'type', 'subsidiary', 'netIncome']
+object: ['Pharmaceuticals', '2001-01-01', 'S.A. (corporation)', 'Mantecorp', '108600000']
+
+Triple: [['__subject__ 1147 Stavropolis __predicate__ apoapsis __object__ 418476000000.0', '__subject__ 1147 Stavropolis __predicate__ discovered __object__ 1929-06-11', '__subject__ 1147 Stavropolis __predicate__ rotationPeriod __object__ 20378.5', '__subject__ 1147 Stavropolis __predicate__ periapsis __object__ 260855000000.0', '__subject__ 1147 Stavropolis __predicate__ epoch __object__ 31 July 2016 (JD2457600.5)']]
+subject: ['1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis', '1147 Stavropolis']
+predicate: ['apoapsis', 'discovered', 'rotationPeriod', 'periapsis', 'epoch']
+object: ['418476000000.0', '1929-06-11', '20378.5', '260855000000.0', '31 July 2016 (JD2457600.5)']
+
+Triple: [['__subject__ Nurhan Atasoy __predicate__ birthPlace __object__ Reşadiye', '__subject__ Istanbul __predicate__ populationMetroDensity __object__ 2691.0', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Istanbul', '__subject__ Nurhan Atasoy __predicate__ award __object__ State Award for Superior Achievement', '__subject__ Nurhan Atasoy __predicate__ residence __object__ Turkey']]
+subject: ['Nurhan Atasoy', 'Istanbul', 'Nurhan Atasoy', 'Nurhan Atasoy', 'Nurhan Atasoy']
+predicate: ['birthPlace', 'populationMetroDensity', 'residence', 'award', 'residence']
+object: ['Reşadiye', '2691.0', 'Istanbul', 'State Award for Superior Achievement', 'Turkey']
+
+Triple: [['__subject__ Mermaid (Train song) __predicate__ genre __object__ Pop rock', '__subject__ Mermaid (Train song) __predicate__ runtime __object__ 3.16', '__subject__ Mermaid (Train song) __predicate__ releaseDate __object__ 2012-12-27', "__subject__ Mermaid (Train song) __predicate__ precededBy __object__ This'll Be My Year", '__subject__ Mermaid (Train song) __predicate__ writer __object__ Espen Lind']]
+subject: ['Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)', 'Mermaid (Train song)']
+predicate: ['genre', 'runtime', 'releaseDate', 'precededBy', 'writer']
+object: ['Pop rock', '3.16', '2012-12-27', "This'll Be My Year", 'Espen Lind']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ season __object__ 2015', '__subject__ Campeonato Brasileiro Série C __predicate__ country __object__ Brazil', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense', 'Campeonato Brasileiro Série C', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'season', 'country', 'ground']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', '2015', 'Brazil', 'Estádio Municipal Coaracy da Mata Fonseca']
+
+Triple: [['__subject__ Estádio Municipal Coaracy da Mata Fonseca __predicate__ location __object__ Arapiraca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ league __object__ Campeonato Brasileiro Série C', '__subject__ Campeonato Brasileiro Série C __predicate__ country __object__ Brazil', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ ground __object__ Estádio Municipal Coaracy da Mata Fonseca', '__subject__ Agremiação Sportiva Arapiraquense __predicate__ fullName __object__ Agremiação Sportiva Arapiraquense']]
+subject: ['Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense', 'Campeonato Brasileiro Série C', 'Agremiação Sportiva Arapiraquense', 'Agremiação Sportiva Arapiraquense']
+predicate: ['location', 'league', 'country', 'ground', 'fullName']
+object: ['Arapiraca', 'Campeonato Brasileiro Série C', 'Brazil', 'Estádio Municipal Coaracy da Mata Fonseca', 'Agremiação Sportiva Arapiraquense']
+
+Triple: [['__subject__ Death on a Factory Farm __predicate__ producer __object__ Tom Simon', '__subject__ Death on a Factory Farm __predicate__ musicComposer __object__ Jamie Lawrence', '__subject__ Death on a Factory Farm __predicate__ runtime __object__ 83.0', '__subject__ Death on a Factory Farm __predicate__ producer __object__ Sarah Teale', '__subject__ Death on a Factory Farm __predicate__ director __object__ Sarah Teale']]
+subject: ['Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm', 'Death on a Factory Farm']
+predicate: ['producer', 'musicComposer', 'runtime', 'producer', 'director']
+object: ['Tom Simon', 'Jamie Lawrence', '83.0', 'Sarah Teale', 'Sarah Teale']
+
+Triple: [['__subject__ Abraham A. Ribicoff __predicate__ spouse __object__ Ruth Ribicoff', '__subject__ Abraham A. Ribicoff __predicate__ inOfficeWhilePresident __object__ John F. Kennedy', '__subject__ Abraham A. Ribicoff __predicate__ nationality __object__ American', '__subject__ Abraham A. Ribicoff __predicate__ deathPlace __object__ United States', '__subject__ Abraham A. Ribicoff __predicate__ birthPlace __object__ United States']]
+subject: ['Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff', 'Abraham A. Ribicoff']
+predicate: ['spouse', 'inOfficeWhilePresident', 'nationality', 'deathPlace', 'birthPlace']
+object: ['Ruth Ribicoff', 'John F. Kennedy', 'American', 'United States', 'United States']
+
+Triple: [["__subject__ It's Great to Be Young (1956 film) __predicate__ runtime __object__ 94.0", "__subject__ It's Great to Be Young (1956 film) __predicate__ director __object__ Cyril Frankel", "__subject__ It's Great to Be Young (1956 film) __predicate__ musicComposer __object__ Louis Levy", "__subject__ It's Great to Be Young (1956 film) __predicate__ starring __object__ Cecil Parker", "__subject__ It's Great to Be Young (1956 film) __predicate__ writer __object__ Ted Willis"]]
+subject: ["It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)", "It's Great to Be Young (1956 film)"]
+predicate: ['runtime', 'director', 'musicComposer', 'starring', 'writer']
+object: ['94.0', 'Cyril Frankel', 'Louis Levy', 'Cecil Parker', 'Ted Willis']
+
+Triple: [['__subject__ Turn Me On (album) __predicate__ genre __object__ Punk blues', '__subject__ Turn Me On (album) __predicate__ producer __object__ The Honeymoon Killers (American band)', '__subject__ Turn Me On (album) __predicate__ genre __object__ Noise rock', '__subject__ Turn Me On (album) __predicate__ precededBy __object__ Let It Breed', '__subject__ Turn Me On (album) __predicate__ runtime __object__ 35.1']]
+subject: ['Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)', 'Turn Me On (album)']
+predicate: ['genre', 'producer', 'genre', 'precededBy', 'runtime']
+object: ['Punk blues', 'The Honeymoon Killers (American band)', 'Noise rock', 'Let It Breed', '35.1']
+
+Triple: [['__subject__ Super Capers __predicate__ editing __object__ Stacy Katzman', '__subject__ Super Capers __predicate__ starring __object__ Michael Rooker', '__subject__ Super Capers __predicate__ starring __object__ Tom Sizemore', '__subject__ Super Capers __predicate__ language __object__ English language', '__subject__ Super Capers __predicate__ distributor __object__ Roadside Attractions']]
+subject: ['Super Capers', 'Super Capers', 'Super Capers', 'Super Capers', 'Super Capers']
+predicate: ['editing', 'starring', 'starring', 'language', 'distributor']
+object: ['Stacy Katzman', 'Michael Rooker', 'Tom Sizemore', 'English language', 'Roadside Attractions']
+

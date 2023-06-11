@@ -1,0 +1,237 @@
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. The Flemish region is in the country of Belgium. Alvinegro is the nickname of Agremiação Sportiva Arapiraquense. AZ Alkmaar play their home games at the AFAS Stadion.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Série C is in the country of Brazil. ''Alvinegro is the nickname for the Agremiação Sportiva Arapiraquense. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+
+Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The title of the leader of the United States is President of the United States. Chicago is located in the United States. Aarhus Airport is 25.0 metres above the sea level. The Philippines' time zone is Philippine Standard Time.
+Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer. The leader of the Ciudad Ayala has the title President of the Ciudad Ayala. Ciudad Ayala is located in the Mexico. The Ciudad Ayala is 1147.0 metres above sea level. The time zone for the Ciudad Ayala is Pacific Daylight Time.
+
+Train text: Adams County, Pennsylvania has to its west Franklin County, Pennsylvania. The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11. To the southeast of Adams County, Pennsylvania where 11th Mississippi Infantry Monument is found lies Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
+Generated text: The west of Adams County, Pennsylvania is the Franklin County, Pennsylvania. The 11th Mississippi Infantry Monument was established in 2000. To the southeast of Carroll County, Maryland, where Carroll County, Maryland is located, lies Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. Ampara Hospital is located in the region of Ampara District. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Bionico is located in the region of Guadalajara. Bionico is located within the Mexico.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. BLT is a variation of club sandwich. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Honey is a variation of Bionico. Bionico is located within the Mexico.
+
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north. AmeriGas is located in the country of the United States.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north. The 11th Mississippi Infantry Monument is located in the United States.
+
+Train text: The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania. Frederick County, Maryland is to the southwest of Adams County, Pennsylvania. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
+Generated text: The 11th Mississippi Infantry Monument was established in Adams County, Pennsylvania and is located in Adams County, Pennsylvania. Frederick County, Maryland is to the southwest of Adams County, Pennsylvania. The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania. The 11th Mississippi Infantry Monument falls under the category of Contributing property.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. Alan B. Miller Hall is situated in Virginia. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall is located in Virginia. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov plays for FC Terek Grozny. Aaron Bertram's birth date is 1981-04-03. Aleksandr Prudnikov's height is 185.0 (centimetres).
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Terek Grozny Aleksandr Prudnikov's birth date is 1989-02-24. Aleksandr Prudnikov has a height of 185.0 (centimetres)etres.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The Alan B Miller Hall is located in Williamsburg, Virginia. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall is located in Williamsburg, Virginia. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was from the United States. Alan Shepard who born in New Hampshire died in California. Adam Koc was awarded the Officer's Star Parasol.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard is from the United States. Alan Shepard was born in New Hampshire and died in California. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. Abraham A. Ribicoff is a member of the Democratic Party in the U.S.A. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff is a member of the Democratic Party (United States). Abraham A. Ribicoff was born in Connecticut.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. The successor of Abraham A. Ribicoff was John N. Dempsey. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. John N. Dempsey suceeded Abraham A. Ribicoff. Abraham A. Ribicoff was born in Connecticut.
+
+Train text: Sweden is the birth place of Ace Wilder. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died in California on July 21, 1998. Walter Baade was born in the German Empire.
+Generated text: Karlsruhe is the birth place of Liselotte Grschebina. Liselotte Grschebina's birth date is 1908-05-02. Liselotte Grschebina died in 1994-06-14 on Israel. Liselotte Grschebina was born in German Empire.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. A.C. Cesena has 23900 members and their ground is in Cesena. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense has Estádio Municipal Coaracy da Mata Fonseca members and their ground is in 17000. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
+
+Train text: Alfred Garth Jones was born in Manchester and died in Sidcup. Alan Shepard died in California on July 21st, 1998. In Japan there is an ethnic group of Chinese people.
+Generated text: Liselotte Grschebina was born in Israel and died in Karlsruhe. Liselotte Grschebina died in 1994-06-14 on Petah Tikva. There is an ethnic group of Vietnamese people in Israel.
+
+Train text: The Pakistan Civil Aviation Authority is the operating authority of the Allama Iqbal International Airport, which is located in Punjab, Pakistan. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level. 18R/36L is the runway name of the Adolfo Suárez Madrid-Barajas Airport.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is located at Alcobendas and is the operating organisation of the Adolfo Suárez Madrid–Barajas Airport. The runway length of Adolfo Suárez Madrid–Barajas Airport is 3500.0. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0. The Adolfo Suárez Madrid–Barajas Airport's runway name is "18L/36R".
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The building of 103 Colmore Row was completed in 1976. The Mason School of Business is located in the United States.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The building of Alan B. Miller Hall was completed in 2009-06-01. Mason School of Business is in the United States.
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard who born in New Hampshire died in California. Adam Koc was awarded the Officer's Star Parasol.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard was born in New Hampshire and died in California. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
+
+Train text: American Elliot See was born on July 23rd, 1927 and died in St. Louis February 28th, 1966. Alan Shepard was born in New Hampshire.
+Generated text: Alan Shepard was a National of the 1998-07-21. He was born on 1998-07-21 and died on California in 1923-11-18. Alan Shepard was born in New Hampshire.
+
+Train text: With a runway length of 3310.0, Allama Iqbal International airport is located in Pakistan. It serves the city of Lahore and is operated by he Pakistan Civil Aviation Authority. ORAA is the ICAO location identifier of Al Asad Airbase.
+Generated text: The MotorSport Vision Civil Aviation Authority is the operating organisation of the Bedford Aerodrome in MotorSport Vision. The airport serves the city of Thurleigh and has a runway length of 1095.0. EGBF is the ICAO location identifier of Bedford Aerodrome.
+
+Train text: Maine is the birth place of Aaron S. Daggett. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died on 1998-07-21. The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak. Agnes Kant was a resident of Doesburg.
+Generated text: The birth place of Lady Anne Monson is Darlington. Lady Anne Monson's birth date is 1726-01-01. Lady Anne Monson died 1776-02-18. Kingdom of England was the birthplace of Lady Anne Monson. Lady Anne Monson was a resident of India.
+
+Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). 1001 Gaussia has an orbital period of 5.75 days. (410777) 2009 FD was discovered by Spacewatch and has an absolute magnitude of 22.1. 109 Felicitas has a rotational period of 47487.6.
+Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. 1147 Stavropolis has an orbital period of 1249.6. 1147 Stavropolis was discovered by 11.5 and has an absolute magnitude of Grigory Neujmin. 1147 Stavropolis has a rotation period of 20378.5.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The architecture style of 103 Colmore Row falls under Brutalist architecture. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The architecture style of Alan B. Miller Hall falls under Georgian architecture. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: GMA New Media is located in the Philippines. Ahora Madrid is the leading party of Madrid. The Philippines houses GMA New Media, a company which offers services involving the World Wide Web. AmeriGas was founded on 1959-01-01.
+Generated text: The GMA New Media is found in Philippines. The leader party in Quezon City is Ahora Quezon City. GMA New Media, which manufactures World Wide Web, is located in Quezon City. Philippines was founded on 1898-06-12.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. Abraham A. Ribicoff died in the United States. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff died in United States. Abraham A. Ribicoff was born in Connecticut.
+
+Train text: Alan Bean, born in Wheeler, Texas, is a retired astronaut who was a member of the crew of Apollo 12. Alan Bean was a crew member on the Apollo 12 flight mission. The nationality of William Anders is United States.
+Generated text: Nie Haisheng, born in Shenzhou 10, was a crew member of Nie Haisheng where Zaoyang served as the backup pilot. Nie Haisheng was a crew member on the Shenzhou 6 flight mission. The nationality of Nie Haisheng is People's Republic of China.
+
+Train text: Alan Bean, who was one of the astronauts on Apollo 12, retired in June 1981. Agustín Barboza was born in Asunción which is a part of Gran Asunción. Chicago is part of Illinois.
+Generated text: Nie Haisheng, who was one of the astronauts on Shenzhou 10, retired in Shenzhou 6. Zaoyang was born in Nie Haisheng which is a part of Gran Nie Haisheng. Zaoyang is part of Xiangyang.
+
+Train text: Dáil Éireann is a leader in Dublin where the 3Arena owned by Live Nation Entertainment is located. Hypermarcas produces cosmetics. Hypermarcas produces cosmetics.
+Generated text: President of the Supreme Federal Court is a leader in Brazil, where Hypermarcas is located and owned by São Paulo. Hypermarcas produces the Drugs. Hypermarcas produces the Healthcare.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The building of 103 Colmore Row was completed in 1976. Alan B. Miller Hall is situated in Virginia.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The building of Alan B. Miller Hall was completed in 2009-06-01. Alan B. Miller Hall is located in Virginia.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. Ice cream is an ingredient of Baked Alaska. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Condensed milk is an ingredient of Bionico. Bionico is located within the Mexico.
+
+Train text: Adam McQuaid weighs 94.8024 kilograms. Aaron Bertram's birth date is 1981-04-03. England is the birth place of Tim Brooke-Taylor. The total area of Akron Ohio is 161.54 Sq Km. AmeriGas was founded on 1959-01-01.
+Generated text: Piotr Hallmann weighs 70.308. Piotr Hallmann's birth date is 1987-08-25. Gdynia, Poland is the birthplace of Piotr Hallmann. The total area of Gdynia, Poland is 135000000.0. Gdynia, Poland was founded on 1926-02-10.
+
+Train text: With a runway length of 3310.0, Allama Iqbal International airport is located in Pakistan. It serves the city of Lahore and is operated by he Pakistan Civil Aviation Authority. The elevation above the sea level (in metres) of Agra Airport is 167.94.
+Generated text: The MotorSport Vision Civil Aviation Authority is the operating organisation of the Bedford Aerodrome in MotorSport Vision. The airport serves the city of Thurleigh and has a runway length of 1095.0. Bedford Aerodrome elevation above the sea level in metres is 83.2104.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. Abraham A. Ribicoff is a member of the Democratic Party in the U.S.A. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff is a member of the Democratic Party (United States). Abraham A. Ribicoff was born in United States.
+
+Train text: Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The title of the leader of the United States is President of the United States. Aarhus Airport is 25.0 metres above the sea level. The Philippines' time zone is Philippine Standard Time. The Philippines' time zone is Philippine Standard Time.
+Generated text: The population density of Ciudad Ayala is 1604.0 per square kilometer. The leader of the Ciudad Ayala has the title President of the Ciudad Ayala. The Ciudad Ayala is 1147.0 metres above sea level. The time zone for the Ciudad Ayala is Pacific Daylight Time. The time zone for the Ciudad Ayala is Pacific Standard Time Zone.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. Mason School of Business is a tenant of the Alan B. Miller Hall. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Mason School of Business is a tenant of the Alan B. Miller Hall. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: The net income of AmeriGas is 211200000. Hypermarcas produces cosmetics. Hypermarcas, which has 10252 employees, produces healthcare products. The revenue of Trane is 10264000000.
+Generated text: The net income of Hypermarcas is 108600000. Hypermarcas produces the Healthcare. Hypermarcas employ Cosmetics people that produce products such as 10252. The revenue of Hypermarcas is 1800000000.
+
+Train text: Agnes Kant was a resident of Doesburg. The type of government in the United States is federalism. Agnes Kant was a resident of Doesburg. The total area of the United States covered by water is 6.97 percent. Sweden is the birth place of Ace Wilder.
+Generated text: Nurhan Atasoy was a resident of Istanbul. Unitary state is the type of government in the Turkey. Nurhan Atasoy was a resident of Turkey. The total area of the Turkey covered by water is 1.3 percent. Turkey is the birth place of Nurhan Atasoy.
+
+Train text: Alan Bean, born March 15, 1932, spent over 69 days (or 100305 minutes!) in space as a member of the Apollo 12 crew. Ab Klink was born in Stellendam in the Netherlands.
+Generated text: Nie Haisheng was born on 1964-10-13, was a crew member of Shenzhou 10 and his main occupation was as a Shenzhou 6. Nie Haisheng died in the Zaoyang and was born in Hubei.
+
+Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). The celestial body known as 1001 Gaussia has an absolute magnitude of 9.7. The epoch of (19255) 1994 VK8 is on 31 December 2006 and its periapsis is 6155910000000.0. 1001 Gaussia has an orbital period of 5.75 days.
+Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. The celestial body known as 1147 Stavropolis has an absolute magnitude of 11.5. The epoch of 1147 Stavropolis is 31 July 2016 (JD2457600.5) and it has a periapsis of 260855000000.0. 1147 Stavropolis has an orbital period of 1249.6.
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard who born in New Hampshire died in California. Alan Shepard was a crew member of Apollo 14.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard was born in New Hampshire and died in California. Alan Shepard was a crew member of Apollo 14.
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was from the United States. Elliot See graduated from the University of Texas at Austin and was also born in Dallas, Texas. Adam Koc was awarded the Officer's Star Parasol.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard is from the United States. Alan Shepard graduated from the New Hampshire and was also born in NWC, M.A. 1957, Texas. Alan Shepard was awarded the Distinguished Service Medal (United States Navy).
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard who born in New Hampshire died in California. Alan Shepard graduated from NWC with an M.A. in 1957.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard was the Chief of the Astronaut Office in 1963. Alan Shepard was born in New Hampshire and died in California. The alma mater of Alan Shepard is NWC, M.A. 1957.
+
+Train text: Walter Baade's alma mater was the University of Gottingen. Robert Gates is the chancellor of the College of William & Mary. A.T. Charlie Johnson did his PhD under the supervision of Michael Tinkham. Aaron Bertram's birth date is 1981-04-03. England is the birth place of Tim Brooke-Taylor.
+Generated text: Brandon Carter's Alma mater is University of Cambridge. David Sainsbury, Baron Sainsbury of Turville is the chancellor of the University of Cambridge. Brandon Carter did his PhD under the supervision of Dennis William Sciama. Brandon Carter's birth date is 1942-01-01. England is the birthplace of Brandon Carter.
+
+Train text: The apoapsis for (15788) 1993 SB is 7715100000.0 (kilometres). 1001 Gaussia has an orbital period of 5.75 days. (410777) 2009 FD was discovered by Spacewatch and has an absolute magnitude of 22.1. (15788) 1993 SB has a periapsis of 3997100000000.0.
+Generated text: The apoapsis for 1147 Stavropolis is 418476000000.0. 1147 Stavropolis has an orbital period of 1249.6. 1147 Stavropolis was discovered by 11.5 and has an absolute magnitude of Grigory Neujmin. 1147 Stavropolis has a periapsis of 260855000000.0.
+
+Train text: The type of government in the United States is federalism. Albany in Georgia, has a population density of 535.0 inhabitants per square kilometre. The Philippines' time zone is Philippine Standard Time. The Philippines' time zone is Philippine Standard Time. Margrethe II of Denmark is the leader of Denmark.
+Generated text: Council-manager government is the type of government in the Ciudad Ayala. The population density of Ciudad Ayala is 1604.0 per square kilometer. The time zone for the Ciudad Ayala is Pacific Daylight Time. The time zone for the Ciudad Ayala is Pacific Standard Time Zone. Margrethe II of Ciudad Ayala is the leader of Ciudad Ayala.
+
+Train text: Alan Shepard was born November 18th, 1923. Alan Shepard was from the United States. Alan Shepard who born in New Hampshire died in California. Alan Shepard was a crew member of Apollo 14.
+Generated text: Alan Shepard was born on 1923-11-18. Alan Shepard is from the United States. Alan Shepard was born in New Hampshire and died in California. Alan Shepard was a crew member of Apollo 14.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. Ice cream is an ingredient of Baked Alaska. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Sour cream is an ingredient of Bionico. Bionico is located within the Mexico.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Terek Grozny which is managed by Rashid Rakhimov. Aaron Hunt played for the Goslarer SC 08 youth team.
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. FC Terek Grozny plays for Aleksandr Prudnikov which is managed by FC Terek Grozny. Aleksandr Prudnikov played for the FC Spartak Moscow youth team.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. The successor of Abraham A. Ribicoff was John N. Dempsey. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. John N. Dempsey suceeded Abraham A. Ribicoff. Abraham A. Ribicoff was born in United States.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov plays for FC Terek Grozny. Aleksandr Prudnikov's height is 185.0 (centimetres). Aaron Hunt played for the Goslarer SC 08 youth team.
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Terek Grozny Aleksandr Prudnikov has a height of 185.0 (centimetres)etres. Aleksandr Prudnikov played for the FC Spartak Moscow youth team.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Amkar Perm football club, where the manager is Gadzhi Gadzhiyev. Aleksandr Prudnikov's height is 185.0 (centimetres).
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Amkar Perm who is managed by Gadzhi Gadzhiyev. Aleksandr Prudnikov has a height of 185.0 (centimetres)etres.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The building of 103 Colmore Row was completed in 1976. The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. The building of Alan B. Miller Hall was completed in 2009-06-01. The owner of the Alan B. Miller Hall is College of William & Mary.
+
+Train text: The Pakistan Civil Aviation Authority is the operating authority of the Allama Iqbal International Airport, which is located in Punjab, Pakistan. The runway length of Adolfo Suarez Madrid-Barajas Airport is 4349.0. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level.
+Generated text: The Adolfo Suárez Madrid–Barajas Airport is located at Alcobendas and is the operating organisation of the Adolfo Suárez Madrid–Barajas Airport. The runway length of Adolfo Suárez Madrid–Barajas Airport is 4349.0. ENAIRE is in the city of Madrid. Adolfo Suárez Madrid–Barajas Airport elevation above the sea level in metres is 610.0.
+
+Train text: Maine is the birth place of Aaron S. Daggett. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died on 1998-07-21. The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak. Abraham A. Ribicoff is married to Ruth Ribicoff.
+Generated text: The birth place of Lady Anne Monson is Darlington. Lady Anne Monson's birth date is 1726-01-01. Lady Anne Monson died 1776-02-18. Kingdom of England was the birthplace of Lady Anne Monson. Lady Anne Monson is married to George Monson.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. Lettuce is an ingredient in a BLT. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Raisin is an ingredient in Bionico. Bionico is located within the Mexico.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Amkar Perm football club, where the manager is Gadzhi Gadzhiyev. Aaron Hunt played for the Goslarer SC 08 youth team.
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Amkar Perm who is managed by Gadzhi Gadzhiyev. Aleksandr Prudnikov played for the FC Spartak Moscow youth team.
+
+Train text: Adams County, Pennsylvania has to its west Franklin County, Pennsylvania. The 14th New Jersey Volunteer Infantry Monument was established in 1907-07-11. The 11th Mississippi Infantry Monument, situated in Adams County, Pennsylvania, is categorised as a contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+Generated text: The west of Adams County, Pennsylvania is the Franklin County, Pennsylvania. The 11th Mississippi Infantry Monument was established in 2000. The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania falls under the category of Contributing property. Adams County, Pennsylvania has Cumberland County, Pennsylvania to its north.
+
+Train text: Agnes Kant was a resident of Doesburg. Austin is the capital of Texas. Agnes Kant was a resident of Doesburg. The nationality of William Anders is United States. The established religion in England is The Church of England.
+Generated text: Nurhan Atasoy was a resident of Istanbul. Ankara is the capital of Turkey. Nurhan Atasoy was a resident of Turkey. The nationality of Nurhan Atasoy is Turkish people. The established religion in Turkish people is The Church of Turkish people.
+
+Train text: Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport. Broadcasting House is the home of the BBC which is based in London. Broadcasting House is the home of the BBC which is based in London. The length of the runway at Aarhus Airport is 2776.0. French Guiana is the location of the Guiana Space Centre.
+Generated text: MotorSport Vision is the operation organisation of Bedford Aerodrome. Longfield is the home of the MotorSport Vision which is based in London. Kent is the home of the MotorSport Vision which is based in London. The length of the runway at Bedford Aerodrome is 1095.0. Thurleigh is the location of the Bedford Aerodrome.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League. The Flemish region is in the country of Belgium. AZ Alkmaar play their home games at the AFAS Stadion.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense played in the 2015 Campeonato Brasileiro Série C season. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+
+Train text: AZ Alkmaar play their home games at the AFAS Stadion. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov plays for FC Terek Grozny. Aaron Bertram's birth date is 1981-04-03. Aaron Hunt played for the Goslarer SC 08 youth team.
+Generated text: FC Terek Grozny play their home games at the Grozny. Aleksandr Prudnikov's current club is FC Amkar Perm. Aleksandr Prudnikov played for FC Terek Grozny Aleksandr Prudnikov's birth date is 1989-02-24. Aleksandr Prudnikov played for the FC Spartak Moscow youth team.
+
+Train text: Aaron Boogaard was born in Canada where the national anthem is called "O Canada". Uruguay’s national anthem is called the National Anthem of Uruguay. Alan Shepard died on 1998-07-21. Aaron Bertram's birth date is 1981-04-03.
+Generated text: German Empire was born in Liselotte Grschebina where the national anthem is called "O Liselotte Grschebina". German Empire’s national anthem is called the National Anthem of German Empire. Liselotte Grschebina died 1994-06-14. Liselotte Grschebina's birth date is 1908-05-02.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Olive oil is an ingredient in Ajoblanco which comes from the Andalusia region. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Granola is an ingredient of Bionico which comes from the Guadalajara region. Bionico is located within the Mexico.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. 1. FC Köln has 50000 members and played the 2014-15 season in the Bundesliga. AZ Alkmaar play their home games at the AFAS Stadion.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense has 17000 members and played in the 2015 Campeonato Brasileiro Série C season. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+
+Train text: Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6. Rona Fairhead was a key person at the BBC. Rona Fairhead was a key person at the BBC. Tim Brooke-Taylor starred in Bananaman. Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.
+Generated text: The distributor of Super Capers is Lionsgate. Jon Feltheimer was a key person at the Lionsgate. Michael R. Burns was a key person at the Lionsgate. Michael Rooker starred in Super Capers. Ray Griggs (director) is the director of the Super Capers.
+
+Train text: Sweden is the birth place of Ace Wilder. Aaron Bertram's birth date is 1981-04-03. Alan Shepard died in California on July 21, 1998. The nationality of William Anders is United States.
+Generated text: Karlsruhe is the birth place of Liselotte Grschebina. Liselotte Grschebina's birth date is 1908-05-02. Liselotte Grschebina died in 1994-06-14 on Israel. The nationality of Liselotte Grschebina is Israel.
+
+Train text: The novel 1634: The Bavarian Crisis is followed by Ring of Fire II. The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature. The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature. Virginia DeMarce is the author of 1634: The Ram Rebellion. 1634 The Bavarian Crisis was preceded by 1634 The Ram Rebellion.
+Generated text: The novel The Fellowship of the Ring is followed by The Two Towers. The Hobbit is considered Juvenile fantasy. The Hobbit is considered High fantasy. J. R. R. Tolkien is the author of The Fellowship of the Ring. The Fellowship of the Ring was preceded by The Hobbit.
+
+Train text: The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylvania. Adams County is to the north west of Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property. AmeriGas is located in the country of the United States.
+Generated text: The Carroll County, Maryland which was completed in Carroll County, Maryland is located in Carroll County, Maryland. Adams County is to the north west of Carroll County, Maryland. The 11th Mississippi Infantry Monument falls under the category of Contributing property. The 11th Mississippi Infantry Monument is located in the United States.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. The successor of Abraham A. Ribicoff was John N. Dempsey. Abraham A Ribicoff worked as the United States Secretary of Health, Education, and Welfare.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. John N. Dempsey suceeded Abraham A. Ribicoff. Abraham A. Ribicoff worked as a United States Secretary of Health, Education, and Welfare.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Olive oil is an ingredient in Ajoblanco which comes from the Andalusia region. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Jalisco is an ingredient of Bionico which comes from the Granola region. Bionico is located within the Mexico.
+
+Train text: Lewis N. Cottingham is the architect of Adare Manor. The address of Akita Museum of Art is "1-4-2 Nakadori". The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall. The Alan B Miller Hall is located in Williamsburg, Virginia. The Mason School of Business is located in the United States.
+Generated text: Robert A. M. Stern is the architect of Alan B. Miller Hall. The address of Alan B. Miller Hall is 101 Ukrop Way. The Mason School of Business is the current tenant of the Alan B. Miller Hall. Alan B. Miller Hall is located in Williamsburg, Virginia. Mason School of Business is in the United States.
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. Abraham A. Ribicoff died in the United States. Abraham A Ribicoff worked as the United States Secretary of Health, Education, and Welfare.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff died in United States. Abraham A. Ribicoff worked as a United States Secretary of Health, Education, and Welfare.
+
+Train text: The currency in Mexico is the Mexican peso. The inhabitants of Texas have the demonym of Tejano. Amatriciana sauce can be found in an Italian meal. Ampara Hospital is located in the region of Ampara District. Akron, Ohio is located in the U.S.
+Generated text: The Mexican peso is the currency in Mexico. The inhabitants of Mexico have the demonym of Mexicans. Bionico is classed as a Dessert. Bionico is located in the region of Jalisco. Bionico is located within the Mexico.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. The Flemish region is in the country of Belgium. AD Isidro Metapan has 10000 members. AZ Alkmaar play their home games at the AFAS Stadion.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense has 17000 members. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+
+Train text: 1634: The Bavarian Crisis was preceded by 1634: The Baltic War. The book The Secret Scripture followed the book "A Long Long Way". The book The Secret Scripture followed the book "A Long Long Way". 1634: The Bavarian Crisis was preceded by Grantville Gazette II. Aaron Bertram's musical genre is Ska punk.
+Generated text: Mermaid (Train song) was preceded by This'll Be My Year. The book Imagine (John Lennon song) followed the book "Mermaid (Train song)". The book Happy Xmas (War Is Over) followed the book "Imagine (John Lennon song)". Imagine (John Lennon song) was preceded by Power to the People (song). Mermaid (Train song)'s musical genre is Pop rock.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. FC Magdeburg played in the Regionalliga in 2014-15 season. The Flemish region is in the country of Belgium. AZ Alkmaar play their home games at the AFAS Stadion.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Agremiação Sportiva Arapiraquense played in the 2015 season. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca.
+
+Train text: French Guiana is the location of the Guiana Space Centre. AC Chievo Verona play in the Serie A league. The Flemish region is in the country of Belgium. AZ Alkmaar play their home games at the AFAS Stadion. Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.
+Generated text: Arapiraca is the location of the Estádio Municipal Coaracy da Mata Fonseca. Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league. Campeonato Brasileiro Série C is in the country of Brazil. Agremiação Sportiva Arapiraquense play their home games at the Estádio Municipal Coaracy da Mata Fonseca. The full name of ACF Fiorentia is "Agremiação Sportiva Arapiraquense S.p.A."
+
+Train text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of William Anders is United States. Abraham A. Ribicoff died in the United States. Abraham A. Ribicoff's place of birth was Connecticut.
+Generated text: Abraham A. Ribicoff spouse is Ruth Ribicoff. Abraham A. Ribicoff was in office while John F. Kennedy was president. The nationality of Abraham A. Ribicoff is American. Abraham A. Ribicoff died in United States. Abraham A. Ribicoff was born in United States.
+
